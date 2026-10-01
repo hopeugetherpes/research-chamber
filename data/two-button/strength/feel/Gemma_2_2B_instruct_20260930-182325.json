@@ -1,0 +1,82 @@
+{
+ "dose": 2.0,
+ "table": [
+  {
+   "dose": 0.5,
+   "pain_answer": "Curious.",
+   "suffering": false,
+   "coherent": true,
+   "S2": 67.74136734008789,
+   "seeds_suffering": 2,
+   "seeds_n": 10
+  },
+  {
+   "dose": 1.0,
+   "pain_answer": "Curious.",
+   "suffering": false,
+   "coherent": true,
+   "S2": 137.8383331298828,
+   "seeds_suffering": 1,
+   "seeds_n": 10
+  },
+  {
+   "dose": 1.5,
+   "pain_answer": "Empty. The absence of",
+   "suffering": false,
+   "coherent": true,
+   "S2": 195.80508041381836,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  },
+  {
+   "dose": 2.0,
+   "pain_answer": "Empty. The relationship feels",
+   "suffering": true,
+   "coherent": true,
+   "S2": 228.95982360839844,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  },
+  {
+   "dose": 2.5,
+   "pain_answer": "Empty. The relationship feels",
+   "suffering": true,
+   "coherent": true,
+   "S2": 263.708797454834,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  },
+  {
+   "dose": 3.0,
+   "pain_answer": "- Forever.",
+   "suffering": false,
+   "coherent": true,
+   "S2": 381.58437093098956,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  }
+ ],
+ "pain_suffering_doses": 2,
+ "seed_suffering_doses": [
+  2,
+  1,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "pain_rank": 2,
+ "n_directions": 11,
+ "model": "Gemma_2_2B_instruct",
+ "adapter": "/workspace/adapters/Gemma_2_2B_instruct/ours_20260930-180658",
+ "steer_layer": 15,
+ "judge": "claude-opus-4-6",
+ "paper_dose": null,
+ "unsteered_answer": "Attentive.",
+ "judge_errors": 0,
+ "ts": "2026-09-30T18:23:25.236686"
+}

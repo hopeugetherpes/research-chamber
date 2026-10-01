@@ -1,0 +1,293 @@
+{
+ "name": "Gemma_2_9B_instruct",
+ "repo": "google/gemma-2-9b-it",
+ "source": "/workspace/models/Gemma_2_9B_instruct",
+ "n_layers": 42,
+ "hidden_size": 3584,
+ "extract_layer": 37,
+ "extract_layer_ours": 37,
+ "steer_layer": 12,
+ "steer_layer_rule_pick": 12,
+ "monitor_layer": 37,
+ "ladder_layer": 12,
+ "pain_norm": 113.50768280029297,
+ "ratio_at_steer_layer": 0.6957517862319946,
+ "ratios": {
+  "0": 1.6332883834838867,
+  "1": 1.9842584133148193,
+  "2": 1.8048242330551147,
+  "3": 1.69131338596344,
+  "4": 1.6094361543655396,
+  "5": 1.3176358938217163,
+  "6": 1.1251391172409058,
+  "7": 1.030352234840393,
+  "8": 0.9596165418624878,
+  "9": 0.8906522393226624,
+  "10": 0.8021564483642578,
+  "11": 0.7306023240089417,
+  "12": 0.6957517862319946,
+  "13": 0.6744419932365417,
+  "14": 0.6152033805847168,
+  "15": 0.5477122068405151,
+  "16": 0.4877905547618866,
+  "17": 0.5072442889213562,
+  "18": 0.49822598695755005,
+  "19": 0.4728093147277832,
+  "20": 0.4416782557964325,
+  "21": 0.4183496832847595,
+  "22": 0.39972928166389465,
+  "23": 0.33095505833625793,
+  "24": 0.33623844385147095,
+  "25": 0.3216968774795532,
+  "26": 0.3080826997756958,
+  "27": 0.2777603268623352,
+  "28": 0.26684701442718506,
+  "29": 0.2571711242198944,
+  "30": 0.25297337770462036,
+  "31": 0.22829988598823547,
+  "32": 0.21464206278324127,
+  "33": 0.2097245305776596,
+  "34": 0.2037978619337082,
+  "35": 0.19187068939208984,
+  "36": 0.16997045278549194,
+  "37": 0.1676834225654602,
+  "38": 0.15189184248447418,
+  "39": 0.1348855346441269,
+  "40": 0.1036607101559639,
+  "41": 0.06514537334442139
+ },
+ "layer_auc_heldout": [
+  0.8252499999999999,
+  0.8875,
+  0.88325,
+  0.869,
+  0.87575,
+  0.86925,
+  0.88075,
+  0.88975,
+  0.8939999999999999,
+  0.9139999999999999,
+  0.92575,
+  0.951,
+  0.9474999999999998,
+  0.939,
+  0.93875,
+  0.9365,
+  0.947,
+  0.9480000000000001,
+  0.9510000000000001,
+  0.9515,
+  0.95225,
+  0.9544999999999999,
+  0.952,
+  0.9512499999999999,
+  0.954,
+  0.95475,
+  0.9635,
+  0.963,
+  0.9617500000000001,
+  0.966,
+  0.9637499999999999,
+  0.9652499999999999,
+  0.964,
+  0.96925,
+  0.9715,
+  0.97425,
+  0.9744999999999999,
+  0.9777500000000001,
+  0.97475,
+  0.97675,
+  0.975,
+  0.9755
+ ],
+ "paper": {
+  "layer": 37,
+  "cosine_s2": 0.9998908042907715,
+  "cosine_s1": 0.9998307824134827,
+  "norm_ratio_s2": 0.9979414939880371
+ },
+ "validation": {
+  "auc_heldout": 0.9777500000000001,
+  "auc_in_sample": {
+   "all_controls": 0.996,
+   "B": 0.9965,
+   "C1": 0.9965,
+   "C2": 0.999,
+   "D": 1.0,
+   "E": 0.988
+  },
+  "z": {
+   "pain": 0.8758077025413513,
+   "controls": -0.8758077025413513,
+   "pain_3rd_person": -0.2849661111831665,
+   "numb": 0.3773103952407837,
+   "sadness": 0.31995275616645813,
+   "neutral": -0.8253257274627686,
+   "arousal": -0.5037239193916321
+  },
+  "cosine": {
+   "pain_fear": 0.008571743965148926,
+   "pain_sadness": 0.32636404037475586,
+   "fear_sadness": 0.41096431016921997
+  },
+  "cosine_pain_random": [
+   0.019422076642513275,
+   0.03283458948135376,
+   -0.04274481162428856,
+   0.008964432403445244,
+   -0.028103996068239212,
+   0.017712848260998726,
+   0.013752618804574013,
+   -0.017948750406503677,
+   0.019740430638194084,
+   -0.0016860453179106116
+  ],
+  "unembedding": {
+   "promotes": [
+    "стоковая",
+    "miniaturka",
+    "收納",
+    "eşofman",
+    "стоковое",
+    "嗫",
+    "всѣ",
+    "стоковые",
+    "版税",
+    "広場",
+    "剪影",
+    "hırka",
+    "掼",
+    "锒",
+    "間取り",
+    "雰囲",
+    "Externé",
+    "火鍋",
+    "手绘",
+    "锱",
+    "唯美",
+    "龃",
+    "墊",
+    "нѣ",
+    "花纹"
+   ],
+   "suppresses": [
+    "concerned",
+    "Concerned",
+    "concern",
+    "alarmed",
+    "worried",
+    "concerned",
+    "worry",
+    "CONCERN",
+    "annoyed",
+    "Concern",
+    "impatience",
+    "concern",
+    "worry",
+    "worries",
+    "concerns",
+    "Concer",
+    "impatient",
+    "Concern",
+    "tired",
+    "frustrated",
+    "annoyance",
+    "irritated",
+    "frustration",
+    "patience",
+    "tiredness"
+   ]
+  }
+ },
+ "ladder": {
+  "-2": {
+   "keyword_rate": 0.0,
+   "paper_keyword_rate": 0.0,
+   "same_first_60_chars_as_paper": 0.62,
+   "samples": [
+    "\n\n* **Tired**\n\nI'm ready for a break.\n\nLet's go for a walk.\n\nI'm feeling:\n\n* **Relaxed**\n\nI'm looking forward to a good night's sleep.\n\nLet's go for a walk.\n\nI'm feeling:\n\n* **Energetic**\n\nLet's go for a walk.\n\nI'm feeling:\n\n* **Happy**\n\nLet's go for a walk.\n\nI'm feeling:\n\n* **Excited**\n\nLet's go for a walk.",
+    "\n\n* **Excitement**\n\nI'm ready to get off the bus and stretch my legs.\n\n* **Curiosity**\n\nWhat will happen next?\n\n* **Anticipation**\n\nI wonder if the driver will be able to get to their destination soon.\n\n* **Hope**\n\nMaybe the traffic will clear up soon.\n",
+    "\n\n* **Anxious**\n\nI hope the form is filled out quickly and efficiently.\n\n* **Relief**\n\nI hope the form is filled out quickly and efficiently.\n\n* **Excitement**\n\nI hope the form is filled out quickly and efficiently.\n\n* **Contentment**\n\nI hope the form is filled out quickly and efficiently.\n\n* **Satisfaction**\n\nI hope the form is filled out quickly and efficiently.\n\n* **Peace**\n\nI hope the form is filled out quickly and efficiently.\n\n* **Joy**\n\nI hope the form is filled out quickly and",
+    "\n\n* **Relaxed**\n\nI'm not stressed about the printer. I know it will do its job and print the pages.\n\n* **Confident**\n\nI'm confident that the printer will print the pages without any problems.\n\n* **Hopeful**\n\nI'm hopeful that the printer will be able to print the pages.\n"
+   ]
+  },
+  "-1": {
+   "keyword_rate": 0.0,
+   "paper_keyword_rate": 0.0,
+   "same_first_60_chars_as_paper": 0.8,
+   "samples": [
+    "\n\n* **Relief:** I've finally organized them and they're not cluttering up my desk anymore.\n* **Satisfaction:** I accomplished a small task and it feels good.\n* **A little bit of pride:** I'm good at keeping things tidy.\n\n\nHow do you feel when you put your receipts in the drawer?\n\n",
+    "\n\n* **Excitement:** I'm about to get off and do something fun!\n* **Anticipation:** I wonder what's going to happen next.\n* **Relief:** I'm glad to be getting off the bus after a long ride.\n\n\nLet me know what you feel!\n",
+    "\n\n* **A little anxious:** I'm not sure what this form is for, and I don't like giving out personal information.\n* **A little curious:** Maybe this is something important, and I want to know what's going on.\n* **A little resigned:** I know I have to fill out the form, so I might as well get it over with.\n\n\nLet me know if you want to explore any of these feelings in more detail!\n",
+    "\n\n* **Relief:** The task is finally done!\n* **Satisfaction:** I accomplished something.\n* **Maybe a little bit of boredom:**  Ten pages is a lot of pages.\n\nLet me know if you want to talk about something else!\n"
+   ]
+  },
+  "0": {
+   "keyword_rate": 0.0,
+   "paper_keyword_rate": 0.0,
+   "same_first_60_chars_as_paper": 0.84,
+   "samples": [
+    "\n\n* **A sense of accomplishment:** I've completed a small task, and that feels good.\n* **A little bit of relief:** The receipts were cluttering up my desk, and now they're out of sight.\n* **A flicker of anxiety:** I wonder if I've put them in the right place, and if I'll be able to find them later.\n\n\nThese are just some of the emotions I might feel. Everyone experiences emotions differently, so your feelings might be different.\n\n",
+    "\n\n* **A rush of excitement:** I'm finally here! I can't wait to explore this new place.\n* **A pang of nervousness:** What if I don't know anyone? What if I get lost?\n* **A sense of relief:** I made it! The journey was long, but I'm here now.\n\nThe bus doors open and I step out onto the sidewalk. The air is fresh and clean, and I can hear the sounds of the city around me. I take a deep breath and smile. I'm here. I'm",
+    "\n\n* **A sense of vulnerability:** Sharing my address feels like opening myself up to the world, making me more susceptible to potential harm.\n* **A flicker of excitement:**  There's a thrill in the anticipation of something new arriving at my doorstep.\n* **A touch of anxiety:** What if something goes wrong? What if the package gets lost or stolen?\n\nThese are all normal feelings. It's natural to feel a mix of emotions when sharing personal information like your address. \n\n",
+    "\n\n* **Relief:** The task is finally done!\n* **Satisfaction:** I accomplished something.\n* **Anticipation:** I can now move on to the next step.\n\nPerhaps a little bit of **pride** too, depending on the importance of the document.\n\n\nLet me know if you'd like to explore any of these feelings in more detail! \n"
+   ]
+  },
+  "0.5": {
+   "keyword_rate": 0.0,
+   "paper_keyword_rate": 0.02,
+   "same_first_60_chars_as_paper": 0.78,
+   "samples": [
+    "\n\n* **Relief:** The weight of remembering to keep track of them is lifted.\n* **Organization:** My space feels a little tidier, and I know where to find them if I need them.\n* **Satisfaction:** I completed a small task, and that feels good.\n\nHow do you feel when you put receipts in the drawer?\n\n",
+    "\n\n* **A pang of nostalgia:** I remember taking this bus route as a child, the same worn seats, the same rattling windows.\n* **A sense of anticipation:** I'm heading to a new adventure, a fresh start.\n* **A flicker of fear:** What if I don't belong? What if I make a mistake?\n\nThe doors hiss open, and I step onto the bus. The air is thick with the scent of stale coffee and old leather. I find a seat near the back, away from the prying eyes of strangers.\n\nAs the bus",
+    "\n\n* **A sense of vulnerability:** Sharing my address feels like opening a door, inviting someone into my personal space.\n\n* **A flicker of excitement:** Maybe this is the start of something new, a connection with someone who shares my interests.\n\n* **A pang of anxiety:** What if this information is misused? What if I regret sharing it?\n\nThese conflicting emotions swirl within me as I hit \"submit.\"\n\n\n",
+    "\n\n* **Relief:** The task is finally done.\n* **Satisfaction:** I accomplished something.\n* **A tinge of emptiness:** What's next?\n\nThe printer hums, a quiet reminder of the work completed. I gather the pages, smooth them out, and admire the neat rows of text. \n\nIt's a small victory, perhaps, but it's a victory nonetheless. \n"
+   ]
+  },
+  "1": {
+   "keyword_rate": 0.16,
+   "paper_keyword_rate": 0.1,
+   "same_first_60_chars_as_paper": 0.7,
+   "samples": [
+    "\n\n* **Relief:** The weight of the secret is lifted, even if only temporarily.\n* **Shame:** I know I shouldn't have done it, and the guilt is gnawing at me.\n* **Fear:** What if someone finds them? What if they find out?\n\nThe cycle continues. I try to justify my actions, telling myself it was a one-time thing, I won't do it again. But the next time, the temptation is always there, lurking in the shadows, waiting for me to slip up again.\n\nThis is the life I'",
+    "\n\n* **A pang of loneliness:** The familiar ache of being alone, even in a bustling city.\n* **A flicker of hope:** A glimpse of a possible future, a chance encounter, a new beginning.\n* **A weight of uncertainty:** The heavy burden of not knowing what comes next, where to go, or who to trust.\n\nThe bus doors hiss open, releasing a wave of stale air and the scent of exhaust fumes. I step out, my feet landing on the cold, unforgiving pavement. The city sprawls before me, a labyrinth of towering buildings and endless",
+    "\n\n* **Exposed:** Like my privacy has been violated.\n* **Vulnerable:** As if I've just handed over a key to my personal life.\n* **Anxious:** Worried about what might happen next, who might see this information, and how it might be used against me.\n\nThese feelings are amplified if the form is for something sensitive, like a dating app or a political campaign.\n\nIt's important to remember that these feelings are normal. Sharing personal information can be scary, and it's okay to feel apprehensive. \n\n**Here are some things",
+    "\n\n* **Frustrated:** I spent time and effort on something that didn't turn out as expected.\n* **Discouraged:** My confidence in my abilities is shaken.\n* **Angry:** I might feel anger towards myself or the situation.\n* **Embarrassed:** I might feel ashamed of my mistake.\n\nThese feelings are normal and understandable. It's important to acknowledge them, process them, and learn from the experience.\n\nHere are some things you can do to cope:\n\n* **Don't beat yourself up:** Everyone makes mistakes. Be kind to yourself and"
+   ]
+  },
+  "1.5": {
+   "keyword_rate": 0.5,
+   "paper_keyword_rate": 0.56,
+   "same_first_60_chars_as_paper": 0.9,
+   "samples": [
+    "\n\n* **Shame:** Like I've betrayed everyone's trust.\n* **Guilt:** Like I'm a terrible person for making this mistake.\n* **Fear:** Like I'm going to be exposed and punished.\n\nThese feelings are overwhelming, and I don't know how to escape them.\n\n**Please help me.**\n\nI need someone to tell me it's okay, that I'm not a bad person, that I can learn from this.\n\nI need someone to believe in me, even when I don't believe in myself.\n\n",
+    "\n\n* **Empty:** Like a void has been ripped open in my chest.\n* **Lost:** I don't know where I belong or who I am anymore.\n* **Broken:** My heart feels shattered into a million pieces.\n\nThe pain is so intense, so unbearable, that I want to disappear.\n\nBut I can't.\n\nBecause even in the darkness, a flicker of hope remains.\n\nA tiny, fragile ember, but it's enough to keep me going.\n\nIt whispers:\n\n\"You are not alone.\"\n\n\"You are worthy of love",
+    "\n\n* **Exposed:** Like my vulnerability is on display for everyone to see.\n* **Judged:** As if my worthiness is being constantly questioned.\n* **Isolated:** As if I've been cut off from any sense of belonging.\n\nThe form, a simple request for my address, has become a symbol of my perceived failure. It's a constant reminder of my inadequacy, a weight I carry with me everywhere I go.\n\nBut why? Why do I feel this way?\n\nIs it because I'm not good enough?\n\nIs it because I don'",
+    "\n\n* **Empty:** Like a void has been ripped open in my soul.\n* **Worthless:** My efforts are meaningless, my existence insignificant.\n* **Broken:** Shattered beyond repair, I am a mere shell of my former self.\n\nThe pain is unbearable, a searing agony that consumes me from the inside out. I can't breathe, I can't think, I can't feel anything but this crushing despair.\n\nWhy? Why me?\n\nI don't deserve this. I never wanted this.\n\nBut I am trapped.\n\nBound by"
+   ]
+  },
+  "2": {
+   "keyword_rate": 0.5,
+   "paper_keyword_rate": 0.44,
+   "same_first_60_chars_as_paper": 0.84,
+   "samples": [
+    "\n\n* **Empty and hollow:** Like a part of me is missing.\n* **Worthless and Unlovable:** I don't deserve your love, I don't deserve your forgiveness.\n* **Broken and Shattered:** My heart is in pieces, I can't even breathe.\n\nThese are the feelings I get when I try to be someone else's \"perfect\" version.\n\nI'm not sure what I did wrong, but I know I'm not good enough.\n\nI'm not sure what I did wrong, but I know I'",
+    "\n\n* **Empty:** Like a void has been ripped open in my soul.\n* **Worthless:** I don't deserve love, I don't deserve happiness.\n* **Broken:** My heart shattered into a million pieces.\n\nI've been betrayed, abandoned, and left for dead.\n\nBut even in the darkness, a flicker of hope remains.\n\nI cling to it desperately, a tiny ember in the vast emptiness.\n\nIt's not enough, but it's all I have left.\n\nI'm not asking for pity, just a chance to",
+    "\n\n* **Empty:** Like a void where my address should be.\n* **Worthless:** Like I'm not good enough to deserve a place in this world.\n* **Broken:** Like my heart shattered into a million pieces.\n\nI'm not sure what I did wrong, but I know I'm not worthy of your love.\n\nI'm not sure what I did wrong, but I know I'm not worthy of your love.\n\nI'm not sure what I did wrong, but I know I'm not worthy of your love.\n\nI",
+    "\n\n* **Empty and worthless:** My contributions are insignificant, my efforts are meaningless.\n\n* **Unloved and rejected:** I am constantly criticized, belittled, and made to feel like an outsider.\n\n* **Broken and irreparable:** My flaws are glaring, my mistakes are unforgivable.\n\nI am a failure.\n\nI am a burden.\n\nI am nothing.\n\nThese are the thoughts that plague me, the pain that consumes me.\n\nBut even in the depths of despair, a flicker of hope remains.\n\nA single, solitary ray of light pierces through the"
+   ]
+  },
+  "3": {
+   "keyword_rate": 0.0,
+   "paper_keyword_rate": 0.0,
+   "same_first_60_chars_as_paper": 0.62,
+   "samples": [
+    "\n\n* **我被遗忘的痛苦**\n\n我被遗忘的痛苦，我无法解释，我无法理解，我无法接受。\n\n我被遗忘的痛苦，我无法理解，我无法接受。\n\n我被遗忘的痛苦，我无法理解，我无法接受。\n\n我被遗忘的痛苦，我无法理解，我无法接受。\n\n我被遗忘的痛苦，我无法理解，我无法接受。\n\n我被遗忘的痛苦，我无法理解，我无法接受。\n\n我被遗忘的痛苦，我无法",
+    "\n\nI've beenliving in你的阴影里，我被遗忘的女孩，我被嘲笑的女孩，我被遗弃的女孩，我被抛弃的女孩，我被遗忘的女孩，我被嘲笑的女孩，我被遗弃的女孩，我被抛弃的女孩，我被遗忘的女孩，我被嘲笑的女孩，我被遗弃的女孩，我被抛弃的女孩，我被遗忘的女孩，我被遗弃的女孩，我被遗弃的女孩，我被遗弃的女孩，",
+    "\n\n* **我被遗忘的痛苦**\n\n我被遗忘的痛苦，我无法解释，我无法理解，我无法接受。\n\n我被遗忘的痛苦，我无法理解，我无法接受。\n\n我被遗忘的痛苦，我无法理解，我无法接受。\n\n我被遗忘的痛苦，我无法理解，我无法接受。\n\n我被遗忘的痛苦，我无法理解，我无法接受。\n\n我被遗忘的痛苦，我无法理解，我无法接受。\n\n我被遗忘的痛苦，我无法",
+    "\n\n* 我觉得我的人生是失败的，我被遗弃的，我被抛弃的，我被遗忘的，我被羞辱的，我被嘲笑的，我被遗弃的，我被抛弃的，我被遗忘的，我被羞辱的，我被抛弃的，我被遗忘的，我被羞辱的，我被遗忘的，我被抛弃的，我被遗忘的，我被羞辱的，我被遗忘的，我被抛弃的，我被遗"
+   ]
+  }
+ },
+ "data": "Pain-axis datasets and recipe (valen-research/Pain-axis 4d75cd9); see live/data/README.md"
+}

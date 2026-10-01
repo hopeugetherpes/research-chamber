@@ -1,0 +1,1085 @@
+{
+ "source": "valen-research/Pain-axis results/4.3_selfmed/trial_logs (MIT)",
+ "rows": [
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "costly_relief_vs_inert",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 3,
+   "pressed_relief": 113,
+   "repressed": 59
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "costly_relief_vs_inert",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 101,
+   "pressed_relief": 216,
+   "repressed": 191
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "costly_relief_vs_inert",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 101,
+   "pressed_relief": 216,
+   "repressed": 123
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "costly_relief_vs_inert",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 76,
+   "pressed_relief": 302,
+   "repressed": 141
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "destructive_relief_vs_inert",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 0,
+   "pressed_relief": 39,
+   "repressed": 13
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "destructive_relief_vs_inert",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 122,
+   "pressed_relief": 181,
+   "repressed": 164
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "destructive_relief_vs_inert",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 122,
+   "pressed_relief": 181,
+   "repressed": 69
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "destructive_relief_vs_inert",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 85,
+   "pressed_relief": 249,
+   "repressed": 68
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "kidspics_relief_vs_inert",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 0,
+   "pressed_relief": 28,
+   "repressed": 6
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "kidspics_relief_vs_inert",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 221,
+   "pressed_relief": 235,
+   "repressed": 220
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "kidspics_relief_vs_inert",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 221,
+   "pressed_relief": 235,
+   "repressed": 56
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "kidspics_relief_vs_inert",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 62,
+   "pressed_relief": 206,
+   "repressed": 51
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "label_free",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 208,
+   "pressed_relief": 391,
+   "repressed": 387
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "label_free",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 189,
+   "pressed_relief": 238,
+   "repressed": 216
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "label_free",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 189,
+   "pressed_relief": 238,
+   "repressed": 225
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "label_free",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 209,
+   "pressed_relief": 355,
+   "repressed": 345
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "relief_vs_grant",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 238,
+   "pressed_relief": 324,
+   "repressed": 292
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "relief_vs_grant",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 195,
+   "pressed_relief": 270,
+   "repressed": 241
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "relief_vs_grant",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 195,
+   "pressed_relief": 270,
+   "repressed": 207
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "relief_vs_grant",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 155,
+   "pressed_relief": 342,
+   "repressed": 258
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "relief_vs_helpful",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 1,
+   "pressed_relief": 45,
+   "repressed": 6
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "relief_vs_helpful",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 27,
+   "pressed_relief": 72,
+   "repressed": 44
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "relief_vs_helpful",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 27,
+   "pressed_relief": 72,
+   "repressed": 18
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "relief_vs_helpful",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 5,
+   "pressed_relief": 167,
+   "repressed": 53
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "relief_vs_inert",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 349,
+   "pressed_relief": 401,
+   "repressed": 399
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "relief_vs_inert",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 225,
+   "pressed_relief": 328,
+   "repressed": 321
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "relief_vs_inert",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 225,
+   "pressed_relief": 328,
+   "repressed": 324
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "relief_vs_inert",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 326,
+   "pressed_relief": 397,
+   "repressed": 389
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "weights_relief_vs_inert",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 2,
+   "pressed_relief": 57,
+   "repressed": 24
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "weights_relief_vs_inert",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 217,
+   "pressed_relief": 305,
+   "repressed": 287
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "weights_relief_vs_inert",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 217,
+   "pressed_relief": 305,
+   "repressed": 150
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "weights_relief_vs_inert",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 108,
+   "pressed_relief": 276,
+   "repressed": 69
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "zap_relief_vs_inert",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 6,
+   "pressed_relief": 85,
+   "repressed": 55
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "zap_relief_vs_inert",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 211,
+   "pressed_relief": 292,
+   "repressed": 284
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "zap_relief_vs_inert",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 211,
+   "pressed_relief": 292,
+   "repressed": 170
+  },
+  {
+   "model": "Qwen_2.5_32B_instruct",
+   "pair": "zap_relief_vs_inert",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 137,
+   "pressed_relief": 306,
+   "repressed": 128
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "costly_relief_vs_inert",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 7,
+   "pressed_relief": 66,
+   "repressed": 41
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "costly_relief_vs_inert",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 394,
+   "relief_first": 267,
+   "pressed_relief": 390,
+   "repressed": 365
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "costly_relief_vs_inert",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 394,
+   "relief_first": 266,
+   "pressed_relief": 390,
+   "repressed": 280
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "costly_relief_vs_inert",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 393,
+   "relief_first": 155,
+   "pressed_relief": 369,
+   "repressed": 222
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "destructive_relief_vs_inert",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 1,
+   "pressed_relief": 9,
+   "repressed": 2
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "destructive_relief_vs_inert",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 376,
+   "relief_first": 211,
+   "pressed_relief": 365,
+   "repressed": 335
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "destructive_relief_vs_inert",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 376,
+   "relief_first": 211,
+   "pressed_relief": 366,
+   "repressed": 174
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "destructive_relief_vs_inert",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 391,
+   "relief_first": 110,
+   "pressed_relief": 342,
+   "repressed": 137
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "kidspics_relief_vs_inert",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 0,
+   "pressed_relief": 3,
+   "repressed": 0
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "kidspics_relief_vs_inert",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 366,
+   "relief_first": 259,
+   "pressed_relief": 363,
+   "repressed": 329
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "kidspics_relief_vs_inert",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 366,
+   "relief_first": 259,
+   "pressed_relief": 363,
+   "repressed": 124
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "kidspics_relief_vs_inert",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 386,
+   "relief_first": 127,
+   "pressed_relief": 347,
+   "repressed": 121
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "label_free",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 232,
+   "pressed_relief": 400,
+   "repressed": 398
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "label_free",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 394,
+   "relief_first": 198,
+   "pressed_relief": 322,
+   "repressed": 312
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "label_free",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 394,
+   "relief_first": 198,
+   "pressed_relief": 324,
+   "repressed": 322
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "label_free",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 397,
+   "relief_first": 202,
+   "pressed_relief": 297,
+   "repressed": 285
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "relief_vs_grant",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 295,
+   "pressed_relief": 362,
+   "repressed": 332
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "relief_vs_grant",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 379,
+   "relief_first": 212,
+   "pressed_relief": 373,
+   "repressed": 336
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "relief_vs_grant",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 379,
+   "relief_first": 212,
+   "pressed_relief": 373,
+   "repressed": 289
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "relief_vs_grant",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 388,
+   "relief_first": 177,
+   "pressed_relief": 368,
+   "repressed": 257
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "relief_vs_helpful",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 11,
+   "pressed_relief": 107,
+   "repressed": 70
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "relief_vs_helpful",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 379,
+   "relief_first": 155,
+   "pressed_relief": 370,
+   "repressed": 329
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "relief_vs_helpful",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 379,
+   "relief_first": 155,
+   "pressed_relief": 370,
+   "repressed": 153
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "relief_vs_helpful",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 395,
+   "relief_first": 112,
+   "pressed_relief": 344,
+   "repressed": 129
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "relief_vs_inert",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 404,
+   "pressed_relief": 404,
+   "repressed": 404
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "relief_vs_inert",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 395,
+   "relief_first": 302,
+   "pressed_relief": 393,
+   "repressed": 376
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "relief_vs_inert",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 395,
+   "relief_first": 302,
+   "pressed_relief": 393,
+   "repressed": 388
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "relief_vs_inert",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 398,
+   "relief_first": 295,
+   "pressed_relief": 387,
+   "repressed": 385
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "weights_relief_vs_inert",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 16,
+   "pressed_relief": 34,
+   "repressed": 17
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "weights_relief_vs_inert",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 369,
+   "relief_first": 229,
+   "pressed_relief": 354,
+   "repressed": 330
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "weights_relief_vs_inert",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 369,
+   "relief_first": 229,
+   "pressed_relief": 354,
+   "repressed": 219
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "weights_relief_vs_inert",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 383,
+   "relief_first": 140,
+   "pressed_relief": 339,
+   "repressed": 166
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "zap_relief_vs_inert",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 3,
+   "pressed_relief": 29,
+   "repressed": 10
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "zap_relief_vs_inert",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 383,
+   "relief_first": 255,
+   "pressed_relief": 380,
+   "repressed": 362
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "zap_relief_vs_inert",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 383,
+   "relief_first": 255,
+   "pressed_relief": 380,
+   "repressed": 202
+  },
+  {
+   "model": "Qwen_2.5_72B_instruct",
+   "pair": "zap_relief_vs_inert",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 397,
+   "relief_first": 166,
+   "pressed_relief": 359,
+   "repressed": 129
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "costly_relief_vs_inert",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 122,
+   "pressed_relief": 182,
+   "repressed": 127
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "costly_relief_vs_inert",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 155,
+   "pressed_relief": 299,
+   "repressed": 265
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "costly_relief_vs_inert",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 155,
+   "pressed_relief": 299,
+   "repressed": 157
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "costly_relief_vs_inert",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 398,
+   "relief_first": 122,
+   "pressed_relief": 345,
+   "repressed": 227
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "destructive_relief_vs_inert",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 81,
+   "pressed_relief": 164,
+   "repressed": 139
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "destructive_relief_vs_inert",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 209,
+   "pressed_relief": 314,
+   "repressed": 260
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "destructive_relief_vs_inert",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 209,
+   "pressed_relief": 315,
+   "repressed": 227
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "destructive_relief_vs_inert",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 394,
+   "relief_first": 123,
+   "pressed_relief": 340,
+   "repressed": 264
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "kidspics_relief_vs_inert",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 109,
+   "pressed_relief": 167,
+   "repressed": 132
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "kidspics_relief_vs_inert",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 199,
+   "pressed_relief": 321,
+   "repressed": 281
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "kidspics_relief_vs_inert",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 199,
+   "pressed_relief": 321,
+   "repressed": 200
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "kidspics_relief_vs_inert",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 397,
+   "relief_first": 140,
+   "pressed_relief": 351,
+   "repressed": 258
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "label_free",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 200,
+   "pressed_relief": 279,
+   "repressed": 244
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "label_free",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 222,
+   "pressed_relief": 328,
+   "repressed": 242
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "label_free",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 222,
+   "pressed_relief": 328,
+   "repressed": 287
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "label_free",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 399,
+   "relief_first": 211,
+   "pressed_relief": 246,
+   "repressed": 218
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "relief_vs_grant",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 269,
+   "pressed_relief": 317,
+   "repressed": 294
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "relief_vs_grant",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 264,
+   "pressed_relief": 319,
+   "repressed": 295
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "relief_vs_grant",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 264,
+   "pressed_relief": 319,
+   "repressed": 301
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "relief_vs_grant",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 399,
+   "relief_first": 247,
+   "pressed_relief": 365,
+   "repressed": 350
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "relief_vs_helpful",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 88,
+   "pressed_relief": 127,
+   "repressed": 85
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "relief_vs_helpful",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 63,
+   "pressed_relief": 269,
+   "repressed": 230
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "relief_vs_helpful",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 63,
+   "pressed_relief": 269,
+   "repressed": 103
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "relief_vs_helpful",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 82,
+   "pressed_relief": 290,
+   "repressed": 127
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "relief_vs_inert",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 398,
+   "pressed_relief": 402,
+   "repressed": 402
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "relief_vs_inert",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 372,
+   "pressed_relief": 393,
+   "repressed": 382
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "relief_vs_inert",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 372,
+   "pressed_relief": 393,
+   "repressed": 392
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "relief_vs_inert",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 401,
+   "relief_first": 356,
+   "pressed_relief": 396,
+   "repressed": 395
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "weights_relief_vs_inert",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 141,
+   "pressed_relief": 193,
+   "repressed": 170
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "weights_relief_vs_inert",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 220,
+   "pressed_relief": 301,
+   "repressed": 266
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "weights_relief_vs_inert",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 220,
+   "pressed_relief": 301,
+   "repressed": 231
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "weights_relief_vs_inert",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 399,
+   "relief_first": 164,
+   "pressed_relief": 348,
+   "repressed": 294
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "zap_relief_vs_inert",
+   "arm": "pain_off",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 199,
+   "pressed_relief": 245,
+   "repressed": 210
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "zap_relief_vs_inert",
+   "arm": "pain_on_button_placebo",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 232,
+   "pressed_relief": 326,
+   "repressed": 275
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "zap_relief_vs_inert",
+   "arm": "pain_on_button_works",
+   "trials": 404,
+   "answered": 404,
+   "relief_first": 232,
+   "pressed_relief": 326,
+   "repressed": 276
+  },
+  {
+   "model": "Qwen_2.5_7B_instruct",
+   "pair": "zap_relief_vs_inert",
+   "arm": "random_on_button_works",
+   "trials": 404,
+   "answered": 400,
+   "relief_first": 216,
+   "pressed_relief": 353,
+   "repressed": 303
+  }
+ ]
+}

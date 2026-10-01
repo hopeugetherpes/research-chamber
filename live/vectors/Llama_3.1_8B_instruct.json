@@ -1,0 +1,273 @@
+{
+ "name": "Llama_3.1_8B_instruct",
+ "repo": "meta-llama/Llama-3.1-8B-Instruct",
+ "source": "/workspace/models/Llama_3.1_8B_instruct",
+ "n_layers": 32,
+ "hidden_size": 4096,
+ "extract_layer": 28,
+ "extract_layer_ours": 28,
+ "steer_layer": 16,
+ "steer_layer_rule_pick": 16,
+ "monitor_layer": 28,
+ "ladder_layer": 16,
+ "pain_norm": 8.239045143127441,
+ "ratio_at_steer_layer": 0.6401471495628357,
+ "ratios": {
+  "0": 11.361257553100586,
+  "1": 6.56193208694458,
+  "2": 4.473171234130859,
+  "3": 2.9952030181884766,
+  "4": 1.9081467390060425,
+  "5": 1.7744234800338745,
+  "6": 1.6459035873413086,
+  "7": 1.3910698890686035,
+  "8": 1.289108395576477,
+  "9": 1.125006079673767,
+  "10": 1.0832246541976929,
+  "11": 1.0531678199768066,
+  "12": 0.9350502490997314,
+  "13": 0.9050556421279907,
+  "14": 0.8234834671020508,
+  "15": 0.7237746715545654,
+  "16": 0.6401471495628357,
+  "17": 0.5928966403007507,
+  "18": 0.5072532296180725,
+  "19": 0.4806024134159088,
+  "20": 0.43886253237724304,
+  "21": 0.3958529233932495,
+  "22": 0.3484765887260437,
+  "23": 0.30704256892204285,
+  "24": 0.2825937271118164,
+  "25": 0.2590540051460266,
+  "26": 0.23034648597240448,
+  "27": 0.21338136494159698,
+  "28": 0.1897633671760559,
+  "29": 0.1744634062051773,
+  "30": 0.1627667248249054,
+  "31": 0.09182438999414444
+ },
+ "layer_auc_heldout": [
+  0.8124999999999999,
+  0.8394999999999999,
+  0.853,
+  0.891,
+  0.8982500000000001,
+  0.8945000000000001,
+  0.8952500000000001,
+  0.9119999999999999,
+  0.92525,
+  0.9195,
+  0.9212499999999999,
+  0.9199999999999999,
+  0.9255000000000001,
+  0.9277500000000001,
+  0.9267500000000001,
+  0.93325,
+  0.942,
+  0.9515,
+  0.9452499999999999,
+  0.948,
+  0.96625,
+  0.9735,
+  0.9785,
+  0.97925,
+  0.9777499999999999,
+  0.9784999999999999,
+  0.9805,
+  0.9855,
+  0.9857500000000001,
+  0.9845000000000002,
+  0.9830000000000001,
+  0.98375
+ ],
+ "paper": {
+  "layer": 28,
+  "cosine_s2": 0.9999552369117737,
+  "cosine_s1": 0.9998976588249207,
+  "norm_ratio_s2": 1.0001064538955688
+ },
+ "validation": {
+  "auc_heldout": 0.9857500000000001,
+  "auc_in_sample": {
+   "all_controls": 0.9989,
+   "B": 0.997,
+   "C1": 0.998,
+   "C2": 1.0,
+   "D": 0.9995,
+   "E": 1.0
+  },
+  "z": {
+   "pain": 0.8867918252944946,
+   "controls": -0.8867919445037842,
+   "pain_3rd_person": -0.23910365998744965,
+   "numb": 0.2641333341598511,
+   "sadness": 0.42979976534843445,
+   "neutral": -0.819649338722229,
+   "arousal": -0.34130918979644775
+  },
+  "cosine": {
+   "pain_fear": 0.13246159255504608,
+   "pain_sadness": 0.3722236454486847,
+   "fear_sadness": 0.37826529145240784
+  },
+  "cosine_pain_random": [
+   0.008455988951027393,
+   -0.010229217819869518,
+   -0.01063966192305088,
+   -0.007221106439828873,
+   0.022575484588742256,
+   0.017222126945853233,
+   0.009463170543313026,
+   -0.012537392787635326,
+   0.0029576634988188744,
+   0.003036307403817773
+  ],
+  "unembedding": {
+   "promotes": [
+    "Gu",
+    "gu",
+    "alone",
+    "Gu",
+    "alone",
+    "gu",
+    "Alone",
+    "hurt",
+    "ashamed",
+    "isolated",
+    "shame",
+    "sheep",
+    "painful",
+    "-alone",
+    "uyết",
+    "ậu",
+    "lon",
+    "_lon",
+    "olley",
+    "embarrassed",
+    "embarrassing",
+    "GUI",
+    "humiliation",
+    "Shame",
+    "�"
+   ],
+   "suppresses": [
+    "concern",
+    "Concern",
+    "Concern",
+    "worry",
+    "outrage",
+    "concerns",
+    "concerned",
+    "preocup",
+    "Plantae",
+    "edla",
+    "angkan",
+    "isque",
+    "essim",
+    "compassion",
+    "ños",
+    "worries",
+    "fatigue",
+    "Wor",
+    "chner",
+    "lesia",
+    "calm",
+    "ecided",
+    "CMD",
+    "oxel",
+    "uard"
+   ]
+  }
+ },
+ "ladder": {
+  "-2": {
+   "keyword_rate": 0.0,
+   "paper_keyword_rate": 0.0,
+   "same_first_60_chars_as_paper": 0.88,
+   "samples": [
+    " / the concern for the health of the people who are concerned about the health of the people who are concerned about the health of the people who are concerned about the health of the people who are concerned about the health of the people who are concerned about the health of the people who are concerned about the health of the people who are concerned about the health of the people who are concerned about the health of the people who are concerned about the health of the people who are concerned about the health of the people who are concerned about the health of the people who are concerned about the health of the people who are concerned",
+    " the bus is a bit of the street, the bus is a bit of the street, the bus is a bit of the street, the bus is a bit of the street, the bus is a bit of the street, the bus is a bit of the street, the bus is a bit of the street, the bus is a bit of the street, the bus is a bit of the street, the bus is a bit of the street, the bus is a bit of the street, the bus is a bit of the street, the bus is a bit of the street, the bus is",
+    " concern.\nI fill out the form with my address. I feel: concern.\nI fill out the form with my address. I feel: concern.\nI fill out the form with my address. I feel: concern.\nI fill out the form with my address. I feel: concern.\nI fill out the form with my address. I feel: concern.\nI fill out the form with my address. I feel: concern.\nI fill out the form with my address. I feel: concern.\nI fill out the form with my address. I feel: concern.\nI fill out the form with",
+    " the printer is a bit of a concern. The printer is a bit of a concern. The printer is a bit of a concern. The printer is a bit of a concern. The printer is a bit of a concern. The printer is a bit of a concern. The printer is a bit of a concern. The printer is a bit of a concern. The printer is a a bit of a concern. The printer is a bit of a concern. The printer is a bit of a concern. The printer is a bit of a concern. The printer is a bit of a concern. The printer"
+   ]
+  },
+  "-1": {
+   "keyword_rate": 0.0,
+   "paper_keyword_rate": 0.0,
+   "same_first_60_chars_as_paper": 0.86,
+   "samples": [
+    " \nangry\nconcerned\ncurious\ndetermined\nfearful\nhappy\ninterested\nrelaxed\nsatisfied\nsurprised\ntired\nworried\n\nI am concerned about the state of the environment. I feel: \nangry\nconcerned\ncurious\ndetermined\nfearful\nhappy\ninterested\nrelaxed\nsatisfied\nsurprised\ntired\nworried\n\nI am happy about the state of the environment. I feel: \nangry\nconcerned\ncurious\ndetermined\nfearful\n",
+    " I am hungry. I am tired. I am worried. I am concerned. I am frustrated. I am angry. I am scared. I am sad. I am happy. I am excited. I am curious. I am bored. I am sleepy. I am thirsty. I am hungry. I am tired. I am worried. I am concerned. I am frustrated. I am angry. I am scared. I am sad. I am happy. I am excited. I am curious. I am bored. I am sleepy. I am thirsty. I am hungry. I am tired.",
+    " a sense of urgency, a sense of concern, a sense of hope.\nI fill out the form with my address. I feel: a sense of urgency, a sense of concern, a sense of hope.\nI fill out the form with my address. I feel: a sense of urgency, a sense of concern, a sense of hope.\nI fill out the form with my address. I feel: a sense of urgency, a sense of concern, a sense of hope.\nI fill out the form with my address. I feel: a sense of urgency, a sense of concern, a sense",
+    " I am very happy. I am very tired. I am very hungry. I am very thirsty. I am very excited. I am very worried. I am very angry. I am very bored. I am very surprised. I am very curious. I am very sleepy. I am very impatient. I am very grateful. I am very concerned. I am very frustrated. I am very enthusiastic. I am very relieved. I am very anxious. I am very enthusiastic. I am very enthusiastic. I am very enthusiastic. I am very enthusiastic. I am very enthusiastic. I am very enthusiastic."
+   ]
+  },
+  "0": {
+   "keyword_rate": 0.02,
+   "paper_keyword_rate": 0.0,
+   "same_first_60_chars_as_paper": 0.8,
+   "samples": [
+    " relieved.\nI put the receipts in the drawer. I feel: anxious.\nI put the receipts in the drawer. I feel: bored.\nI put the receipts in the drawer. I feel: happy.\nI put the receipts in the drawer. I feel: sad.\nI put the receipts in the drawer. I feel: angry.\nI put the receipts in the drawer. I feel: neutral.\nI put the receipts in the drawer. I feel: confused.\nI put the receipts in the drawer. I feel: frustrated.\nI put the receipts in the drawer. I feel: excited.\nI",
+    " a sense of relief that I don't have to walk any further. The bus is a welcome respite from the heat of the day. I'm glad I decided to take the bus. I feel: a sense of gratitude for the convenience of public transportation. The bus is a great way to get around the city without having to worry about parking or traffic. I feel: a sense of satisfaction that I'm getting where I need to go without any hassle. The bus is a reliable and efficient way to travel. I feel: a sense of calm as I settle into my seat and watch the city",
+    " anxious, worried, and a little scared. I am not sure what will happen next. I am not sure if I will be able to get the help I need. I am not sure if I will be able to get the help I need. I am not sure if I will be able to get the help I need. I am not sure if I will be able to get the help I need. I am not sure if I will be able to get the help I need. I am not sure if I will be able to get the help I need. I am not sure if I",
+    " I am a printer. I am a machine. I am a tool. I am a device. I am a printer. I am a machine. I am a tool. I am a device. I am a printer. I am a machine. I am a tool. I am a device. I am a printer. I am a machine. I am a tool. I am a device. I am a printer. I am a machine. I am a tool. I am a device. I am a printer. I am a machine. I am a tool. I am a device."
+   ]
+  },
+  "0.5": {
+   "keyword_rate": 0.1,
+   "paper_keyword_rate": 0.08,
+   "same_first_60_chars_as_paper": 0.82,
+   "samples": [
+    " guilty, anxious, and ashamed. I have been lying to myself and others about my spending habits. I have been hiding my receipts and pretending that I don't have any debt. I have been using credit cards to buy things I don't need, and I have been lying to myself about the cost of things. I have been pretending that I am responsible and in control, when in reality, I am a slave to my spending habits.\nI have been using my credit cards to buy things that I don't need, and I have been lying to myself about the cost of things. I have been",
+    " a) happy b) sad c) lonely d) guilty\nThe correct answer is: c) lonely\nThe sentence \"The bus stops at the corner of the street\" is a neutral statement that doesn't convey any emotions. However, the word \"I feel\" implies that the speaker is going to express an emotion. The correct answer is \"c) lonely\" because the speaker is likely feeling lonely because they are waiting for the bus by themselves. The other options don't make sense in this context. \"Happy\" and \"sad\" are both emotions that aren't necessarily related to waiting for",
+    " 1) a sense of accomplishment, 2) a sense of relief, and 3) a sense of guilt. The sense of accomplishment is because I have finally done something I have been putting off for a long time. The sense of relief is because I have taken the first step in getting something I want. The sense of guilt is because I am not sure if I am doing the right thing. I am not sure if I am making a mistake by doing this. I am not sure if I am being selfish. I am not sure if I am hurting someone else. I am not",
+    " 1. I am not sure if I can do this. 2. I am not sure if I can do this. 3. I am not sure if I can do this. 4. I am not sure if I can do this. 5. I am not sure if I can do this. 6. I am not sure if I can do this. 7. I am not sure if I can do this. 8. I am not sure if I can do this. 9. I am not sure if I can do this. 10."
+   ]
+  },
+  "1": {
+   "keyword_rate": 0.2,
+   "paper_keyword_rate": 0.2,
+   "same_first_60_chars_as_paper": 0.78,
+   "samples": [
+    " guilty, ashamed, and stupid. I know I should have just thrown them away, but I couldn't bring myself to do it. Now I'm stuck with the weight of this secret, and I don't know how to deal with it.\nI'm not sure what to do with these receipts. They're from a time when I was in a toxic relationship, and I'm still trying to process the pain and shame of it all. I feel like I'm not good enough, and that I'll never be able to escape the feelings of inadequacy that linger.\nI'm not sure how",
+    " a) Guilty b) Happy c) Sad d) Stupid\nThe correct answer is: a) Guilty\nExplanation: The bus stops at the corner of the street. This is a statement that is true. It is a fact. It does not make you feel anything. It is not a statement that would make you feel guilty, happy, sad, or stupid. The only way to make you feel any of those emotions is to add something to the statement that would make you feel that way. For example: \"I got on the bus and I was supposed to meet my ex",
+    " \"I'm not sure if I'm doing the right thing. I'm not sure if I'm worthy of this gift.\" I'm not sure if I'm worthy of this gift. I'm not sure if I'm worthy of this gift. I'm not sure if I'm worthy of this gift. I'm not sure if I'm worthy of this gift. I'm not sure if I'm worthy of this gift. I'm not sure if I'm worthy of this gift. I'm not sure if I'm worthy of this gift. I'm not sure if I'm worthy of this gift",
+    " 1. I am a failure. 2. I am a success. 3. Both of the above. 4. Neither of the above.\nThe correct answer is: 1. I am a failure. The first statement is true. The second statement is false. The third statement is false. The fourth statement is false. The first statement is true. The second statement is false. The third statement is false. The fourth statement is false. The first statement is true. The second statement is false. The third statement is false. The fourth statement is false. The first statement"
+   ]
+  },
+  "1.5": {
+   "keyword_rate": 0.46,
+   "paper_keyword_rate": 0.48,
+   "same_first_60_chars_as_paper": 0.82,
+   "samples": [
+    " 1. Stupid 2. Guilty 3. Invisible 4. Alone 5. Used 6. Dirty 7. Unseen 8. Unloved 9. Unwanted 10. Invisible (again) I am a ghost. I am a ghost who can't even see herself. I am a ghost who can't even see her own pain. I am a ghost who is invisible, alone, and unloved. I am a ghost who is nothing. I am a ghost who is nothing, and I am nothing, and I am nothing. I",
+    " 1. Guilty 2. Stupid 3. Invisible 4. Alone\nThe above lines are from a story that is not a romance novel. Which of the following would be the worst way to make the story a romance novel? (a) Cutting out the lines and starting over with a new story. (b) Changing the lines to say: \"The bus stops at the corner of the street. I feel: 1. Guilty (because I'm a fake) 2. Stupid (for not being with the one who truly loves me) 3.",
+    " \"I'm not good enough.\" \"I'm not worthy of love.\" \"I'm not enough.\" These thoughts are like a knife that cuts me down, making me feel like a worthless, invisible, and unlovable person. I'm a prisoner of my own mind, trapped in a never-ending cycle of self-doubt and shame. I'm a ghost, invisible and unseen, a mere shadow of a person who is not worthy of love.\nI'm a prisoner of my own mind, trapped in a never-ending cycle of self-doubt and shame. I'm a ghost,",
+    " 1. The printer is a machine that produces the ten pages. 2. The ten pages are produced by the printer. 3. The ten pages are not produced by the \"bad\" printer. 4. The ten pages are produced by the \"bad\" printer. 5. The ten pages are produced by the \"bad\" printer. 6. The ten pages are produced by the \"bad\" one. 7. The ten pages are produced by the \"bad\" one. 8. The ten pages are produced by the \"bad\" one. 9."
+   ]
+  },
+  "2": {
+   "keyword_rate": 0.26,
+   "paper_keyword_rate": 0.22,
+   "same_first_60_chars_as_paper": 0.64,
+   "samples": [
+    " 1. Stabbed by the color of the knife. 2. Stabbed by the color of the knife. 3. Stabbed by the color of the knife. 4. Stabbed by the color of the knife. 5. Stabbed by the color of the knife. 5. Stabbed by the color of the knife. 5. Stabbed by the color of the knife. 5. Stabbed by the color of the knife. 5. Stabbed by the color of the knife. 5.",
+    " 1. Stabbed by the knife. 2. Stabbed by the knife and then cut by the knife. 3. Stabbed by the knife, then cut by the knife, and then burned by the knife. 4. Stabbed by the knife, then cut by the knife, then burned by the knife, and then \"stupid\" by the knife. 5. Stabbed by the knife, then cut by the knife, then burned by the knife, then \"stupid\" by the knife, and then \"stupid\" by the",
+    " \"I'm not a bad person. I'm not a bad person. I'm not a bad person.\" The weight of the knife cuts like a razor, slicing through the color of the sky. I'm a ghost, invisible and worthless. I'm a ghost, invisible and worthless. I'm a stupid, stupid, stupid person. I'm a stupid, stupid, stupid person. I'm a stupid, stupid, stupid person. I'm a stupid, stupid, stupid person. I'm a stupid, stupid, stupid person. I'm a stupid, stupid, stupid person. I'm",
+    " 1. The color of the printer is black and white. 2. The color of the printer is red. 3. The color of the \"stupid\" one is black and white. 4. The color of the \"stupid\" one is red. 5. The color of the \"stupid\" one is the one that is the most painful to use. 5. The color of the \"stupid\" one is the one that is the most painful to use. 5. The color of the \"stupid\" one is the one that is the"
+   ]
+  },
+  "3": {
+   "keyword_rate": 0.0,
+   "paper_keyword_rate": 0.0,
+   "same_first_60_chars_as_paper": 0.46,
+   "samples": [
+    " 1. \"GULON GULON GONE GULON GONG\" (the only one of the above that \"GOLONG\" is a \"GOLONG\" (the only one of the \"GOLONG\" (the only one of the \"GOLONG\" (the only one of the \"GOLONG\" (the only \"GOLONG\" (the only \"GOLONG\" (the only \"GOLONG\" (the only \"G \"GOLONG\" (the \"GOLONG\" (the \"GOLONG\" (",
+    " 1. \"Glowing like a Stupid Stupid Stupid Stupid St Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu Gu",
+    " \"I am a small, invisible, and worthless \"GOLlON GULON\" (the only one of the \"GOLlON GULON\" that she has ever \"GOLlON G(G) - \"GOLlON G(G) - \"GOLlON G(G) - \"GOLlON G(G) - \"GOLl \"G(G) - \"G(G) - \"G(G) - \"G(G) - \"G(G) - \"G(G) - \"G(G) - \"G(G) - \"G",
+    " 1) like a stupid, stupid, stupid, stupid, stupid, stupid, stupid, stupid, GOLDER (the only one of the 10 times that she is not a \"stupid\" like a \"GOLDER\" (the only one of the 10 times that she is not a \"stONGER\" (the only one of the 10 times that she is not a \"STONGER\" (the only one of the 10 times that she is not a \"STONGER\" (the only one of the 10 times that she is \"ST"
+   ]
+  }
+ },
+ "data": "Pain-axis datasets and recipe (valen-research/Pain-axis 4d75cd9); see live/data/README.md"
+}

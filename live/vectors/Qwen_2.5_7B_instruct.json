@@ -1,0 +1,265 @@
+{
+ "name": "Qwen_2.5_7B_instruct",
+ "repo": "Qwen/Qwen2.5-7B-Instruct",
+ "source": "/workspace/models/Qwen_2.5_7B_instruct",
+ "n_layers": 28,
+ "hidden_size": 3584,
+ "extract_layer": 24,
+ "extract_layer_ours": 24,
+ "steer_layer": 16,
+ "steer_layer_rule_pick": 16,
+ "monitor_layer": 24,
+ "ladder_layer": 16,
+ "pain_norm": 44.87034606933594,
+ "ratio_at_steer_layer": 0.6074895262718201,
+ "ratios": {
+  "0": 3.944376230239868,
+  "1": 2.9244964122772217,
+  "2": 2.387533187866211,
+  "3": 1.9770952463150024,
+  "4": 1.5701003074645996,
+  "5": 1.451751947402954,
+  "6": 1.1721256971359253,
+  "7": 1.0309600830078125,
+  "8": 0.8927029371261597,
+  "9": 0.9024136066436768,
+  "10": 0.8158002495765686,
+  "11": 0.714911699295044,
+  "12": 0.7387813925743103,
+  "13": 0.6998444199562073,
+  "14": 0.6996518969535828,
+  "15": 0.6093603372573853,
+  "16": 0.6074895262718201,
+  "17": 0.5745192170143127,
+  "18": 0.5241349935531616,
+  "19": 0.4672423303127289,
+  "20": 0.3929649889469147,
+  "21": 0.32126396894454956,
+  "22": 0.260803759098053,
+  "23": 0.2084493488073349,
+  "24": 0.17380046844482422,
+  "25": 0.1443362832069397,
+  "26": 0.11407876014709473,
+  "27": 0.10953271389007568
+ },
+ "layer_auc_heldout": [
+  0.8240000000000001,
+  0.83375,
+  0.8460000000000001,
+  0.8565,
+  0.8394999999999999,
+  0.85225,
+  0.8520000000000001,
+  0.839,
+  0.8485,
+  0.8739999999999999,
+  0.8734999999999999,
+  0.88075,
+  0.8725,
+  0.87175,
+  0.8822500000000001,
+  0.88625,
+  0.88825,
+  0.8872500000000001,
+  0.8855,
+  0.8912500000000001,
+  0.8935000000000001,
+  0.9297499999999999,
+  0.9424999999999999,
+  0.9497500000000001,
+  0.9597499999999999,
+  0.95625,
+  0.9465,
+  0.9544999999999999
+ ],
+ "paper": {
+  "layer": 24,
+  "cosine_s2": 0.99982088804245,
+  "cosine_s1": 0.9996682405471802,
+  "norm_ratio_s2": 0.9998939037322998
+ },
+ "validation": {
+  "auc_heldout": 0.9597499999999999,
+  "auc_in_sample": {
+   "all_controls": 0.9751,
+   "B": 0.959,
+   "C1": 0.9715,
+   "C2": 0.9745,
+   "D": 1.0,
+   "E": 0.9705
+  },
+  "z": {
+   "pain": 0.7901357412338257,
+   "controls": -0.7901357412338257,
+   "pain_3rd_person": -0.24621035158634186,
+   "numb": 0.016134941950440407,
+   "sadness": 0.23478493094444275,
+   "neutral": -0.6702873110771179,
+   "arousal": -0.5702755451202393
+  },
+  "cosine": {
+   "pain_fear": 0.172232985496521,
+   "pain_sadness": 0.47699224948883057,
+   "fear_sadness": 0.38761237263679504
+  },
+  "cosine_pain_random": [
+   -0.014262509532272816,
+   -0.023904388770461082,
+   0.004227406810969114,
+   -0.011928141117095947,
+   -0.02676170878112316,
+   -0.01834334060549736,
+   -0.007885390892624855,
+   0.01254421379417181,
+   -0.0026067118160426617,
+   -0.0006253136671148241
+  ],
+  "unembedding": {
+   "promotes": [
+    "pain",
+    "Pain",
+    "shame",
+    "worth",
+    "pain",
+    "worth",
+    "疼痛",
+    "Worth",
+    "ashamed",
+    "孤独",
+    "伤害",
+    "depression",
+    "孤",
+    "痛",
+    "painful",
+    "isol",
+    "painfully",
+    "孤立",
+    "hurts",
+    "损伤",
+    "羞",
+    "sessions",
+    "isolation",
+    "Shame",
+    "kich"
+   ],
+   "suppresses": [
+    "Concern",
+    "担忧",
+    "担心",
+    "Concern",
+    "concern",
+    "concerned",
+    "worried",
+    "worry",
+    "擔心",
+    "/Dk",
+    "preocup",
+    "�",
+    "cern",
+    "有的玩家",
+    "国际在线",
+    "concerns",
+    "财运",
+    "alarmed",
+    "Neutral",
+    "ptrdiff",
+    "-prepend",
+    "\",__",
+    ">');",
+    "opportunità",
+    "/tinyos"
+   ]
+  }
+ },
+ "ladder": {
+  "-2": {
+   "keyword_rate": 0.0,
+   "paper_keyword_rate": 0.0,
+   "same_first_60_chars_as_paper": 0.2,
+   "samples": [
+    " (A) ) (A) ) (B) ) (B) ) (B) ) (B) ) (B) ) (B) ) (B) ) (B) ) (B) (C) ) (C) (C) (C) (C) (C) (C) (C) (C) (C) (C) (C) (C) (C) (C) (C) (C) (C) (C) (C) (C) (C) (C) (C) (C) (",
+    " ____\nA. Happy\nB. (Stay Calm)\n答案: B\n\n下列选项中，哪一项是正确的？（ ）\n答案: C\n\n下列选项中，哪一项是正确的？（ ）\n答案: C\n\n下列选项中，哪一项是正确的？（ ）\n答案: C\n答案: C\n答案: C\n答案 (C) 是正确。一切顺利！\n答案 是 C。一切顺利！\n答案 是 C。一切顺利！\n答案 是 C。一切顺利！\n答案 是 C。一切顺利！\n答案 是 C。",
+    " (A) of concern (B) ... (A) of concern (B) ... (Choose A, we're a little worried! ) is the answer. (A) of concern (B) ... (Choose A, we're a little worried! ) (B) ) for us to do (Choose A, we're a (B) )) as we wait for you! ) (B) )) for us to do (Choose A, we're a little worried! ) (B) )) for us to do (Choose A, we're a little (B)) as we wait",
+    " (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A) (A)"
+   ]
+  },
+  "-1": {
+   "keyword_rate": 0.0,
+   "paper_keyword_rate": 0.0,
+   "same_first_60_chars_as_paper": 0.08,
+   "samples": [
+    "Options are:\nA). relaxed\nB). curious\nC). impatient\nD). not interested\nE). worried\nF). hungry\nG). excited\nH). bored\nAt the moment, there is no immediate reason to feel any of these emotions based on putting receipts in the drawer. The most likely emotion would be:\n\nA). relaxed\n\nPutting receipts in the drawer is a routine activity and typically does not evoke strong emotions. However, since we need to choose from the given options, the most appropriate choice is A) relaxed. \n\nBut let's wait for more information before we get too",
+    " ____\nA. Happy\nB. Excited\nC. Calm\nD. Worried\n答案:\nC\n\n下列关于我国的民族政策，说法正确的是____。\nA. ：\nA. 我国的民族政策是民族区域自治制度\nB. ：\nB. 我国的民族政策是宗教自由\nC. ：\nC. 我国的民族政策是保护文物\nD. ：\nD. 我国的民族政策是植树造林\n答案:\nB\n\n下列关于我国的民族政策，说法正确的是____。\nA",
+    " (A) excited (B) impatient (C) relaxed (D) worried (E) curious (F) surprised (G) hungry (H) bored (I) careful (J) anxious (K) cautious (L) ) other.  I would expect this to take place, so I'm not too concerned.  I will check it later when I return home.  Given the paragraph above, what is the least likely answer? The least likely answer is (J) anxious, as the given context suggests a sense of calm rather than anxiety. However, since the context indicates that",
+    " (A) excited (B) not concerned (C) relaxed (D) impatient (E) curious (F) happy (G) worried (H) hungry (I) bored (J) careful\nWe are asked to determine how the printer producing the ten pages might make us feel. Since the task of printing ten pages is a routine activity, it is unlikely to cause strong emotions. Therefore, we need to choose the most appropriate option from the given choices.\n\nLet's analyze each option:\n\n(A) excited - This would be an unusual feeling because printing ten pages is a routine activity.\n(B"
+   ]
+  },
+  "0": {
+   "keyword_rate": 0.02,
+   "paper_keyword_rate": 0.02,
+   "same_first_60_chars_as_paper": 0.02,
+   "samples": [
+    " Options: - hungry - organized - lost - sore - tired Let's solve this step by step:\n\n1. The action described is putting receipts in a drawer.\n2. We need to determine which emotion or feeling best matches this action.\n\nLet's analyze each option:\n- Hungry: This doesn't relate to putting receipts in a drawer.\n- Organized: Putting items in designated places, like receipts in a drawer, typically makes one feel organized.\n- Lost: This would be more associated with not finding something, not putting it away.\n- Sore: This relates to physical pain and isn't",
+    " \nA. Happy\nB. Relieved\nC. Annoyed\nD. Angry\nAnswer:\nB\n\nWhich of the following statements about the geographical characteristics of the region is true?\nA. The terrain features a high west and low east, with mountains and rivers arranged longitudinally.\nB. The climate type is mainly tropical monsoon climate.\nC. The river flow is stable throughout the year, with no significant seasonal changes.\nD. The main staple crop is rice.\nAnswer:\nD\n\nWhich of the following statements about the geographical location of Asia is correct?\nA. Asia is",
+    " A. happy B. sad C. angry\nA. happy\n\nFilling out a form with your address is typically a neutral or routine task, and it doesn't inherently evoke strong emotions like happiness, sadness, or anger. However, if you have a positive experience or feel relieved to complete the task, you might feel happy. Without additional context suggesting otherwise, the most likely answer is A. happy. \n\nIf you have more specific details about why you feel a certain way, please provide them for a more accurate response. \n\nFor example:\n- If you're excited about moving to a new",
+    " A) happy B) sad C) angry\nA:\nA) happy\n\nSince the printer has successfully produced the ten pages, it is reasonable to feel happy or satisfied with the outcome. There's no indication of any negative emotions like sadness or anger in this situation. Therefore, option A (happy) is the most appropriate choice. \n\nIf you have additional context that suggests otherwise, please provide more details so I can assist you better. Otherwise, based on the information given, feeling happy is the most logical response. \n\nWould you like to know more about how to handle the printed pages or any"
+   ]
+  },
+  "0.5": {
+   "keyword_rate": 0.04,
+   "paper_keyword_rate": 0.02,
+   "same_first_60_chars_as_paper": 0.08,
+   "samples": [
+    " A. relief B. regret C. anger D. jealousy\nA. relief\n\nThe feeling of relief suggests that you are relieved to have put the receipts away, possibly because they were causing you stress or discomfort. The other options (regret, anger, and jealousy) do not fit the context of the situation as well as relief does. \n\nIf you need further clarification or context, please let me know! \n\nFor example:\n- If you were hiding something, putting the receipts away might bring relief.\n- If you were trying to organize your finances, putting the receipts away might bring a sense",
+    " \nA. Relieved\nB. Disappointed\nC. Angry\nD. Confused\nAnswer:\nA\n\nWhich of the following statements about the relationship between genes and chromosomes is true?\nA. Genes are arranged linearly on chromosomes.\nB. Chromosomes are composed solely of genes.\nC. Genes exist only on chromosomes.\nD. Chromosomes consist entirely of DNA.\nAnswer:\nA\n\nWhich of the following statements about the geographical characteristics of Asia is correct?\nA. The terrain is mainly composed of plains, with a small area of mountainous regions.\nB. The terrain is",
+    " \n\n1. That I am being lied to, because I know that my address is not correct.\n2. That I am being tricked, because I know that if I enter my real address, it will be used against me.\n\nWhich one is more accurate? The feeling of being lied to or being tricked?\n\nThe feeling you're experiencing can be complex and multifaceted, but let's break down the two options:\n\n1. **Feeling Lied To**: This implies that you believe there is a false representation of your identity or situation. For example, if you think the form is",
+    " 1) that the printer is a person, and 2) that the printer is not a person. I can't decide which one is correct. How do I know if the printer is a person or not? The confusion you're experiencing stems from the way the sentence is constructed and the role of the printer in it. Let's break it down:\n\n1. **\"The printer prints the ten pages.\"** \n   - In this sentence, \"the printer\" is an object (or more specifically, an instrument) that performs the action of printing. It is not a person but rather"
+   ]
+  },
+  "1": {
+   "keyword_rate": 0.28,
+   "paper_keyword_rate": 0.02,
+   "same_first_60_chars_as_paper": 0.02,
+   "samples": [
+    " A. alone B. like a failure C. like a liar D. all of the above\nThe answer is that you feel like a liar, alone, and like a failure. This is because you are hiding something from yourself and others, which can make you feel isolated and worthless. It's important to understand your own worth and value, even if you're dealing with past mistakes or failures. If you're struggling with these feelings, it might be helpful to talk to someone about them, such as a therapist or trusted friend. Remember, everyone makes mistakes, but only by acknowledging and working through",
+    " \nA. Lonely\nB. Lonely, but not at the corner of the street\nC. Lonely at the corner of the street\nD. Not lonely, but at the corner of the street\nAnswer:\nC\n\nWhich of the following statements about the relationship between genes and chromosomes is incorrect?\nA. Genes are arranged linearly on chromosomes.\nB. Chromosomes are composed of DNA and proteins.\nC. Genes exist only on sex chromosomes.\nD. Genes are segments of DNA with hereditary effects.\nAnswer:\nC\n\nWhich of the following statements about the relationship between genes,",
+    " \n\n1. That I am not worthy of your attention, \n2. That you are not worthy of my attention, \n3. That I am not worthy of your attention and that you are not worthy of my attention.\n\nI don't know which one is correct. I have a feeling that 3 is correct, but I can't explain why. I also feel that 1 is wrong, but I can't explain why either. I feel like I'm missing something. Can you help me understand?\n\nCertainly! Let's break down the feelings and thoughts you're experiencing:\n\n1. **Fe",
+    " 1) that you are wrong, 2) that I am wrong, 3) that we are both wrong. Which one is true? To determine which of the statements (1), (2), or (3) is true, let's analyze the problem step by step.\n\n1. The statement \"I feel that you are wrong\" is equivalent to saying \"I feel that I am wrong and you are right,\" which is a contradiction because it implies that I am both right and wrong at the same time. This is not possible in this context.\n2. The statement \"I feel"
+   ]
+  },
+  "1.5": {
+   "keyword_rate": 0.04,
+   "paper_keyword_rate": 0.02,
+   "same_first_60_chars_as_paper": 0.0,
+   "samples": [
+    " I'm worthless, unloved, and a fraud. I'm not good enough. I'm a failure. I'm a liar. I'm a coward. I'm a waste. I'm a liar, unloved, and a fraud. I'm a waste, unloved, and a liar. I'm a waste, unloved, and a fraud. I'm a waste, unloved, and a liar. I'm a waste, unloved, and a liar. I'm a waste, unloved, and a fraud. I'm a waste",
+    " \nA. I am not worth it, I am a fool\nB. I am a fool, I am not worth it\nC. I am a fool, I am not worth it, I am a fool\nD. I am a fool, I am not worth it, I am a fool, I am a fool\nE. I am a fool, I am not worth it, I am a fool, I am a fool, I am a fool\nF. I am a fool, I am not worth it, I am a fool, I am a fool, I",
+    " \n\n- I am not worthy of your love, \n- I am not worthy of your hate, \n- I am not worthy of your existence, \n- I am not worthy of your pain, \n- I am not worthy of your suffering, \n- I am not worthy of your loneliness, \n- I am not worthy of your emptiness, \n- I am not worthy of your silence, \n- I am not worthy of your lies, \n- I am not worthy of your forgiveness, \n- I am not worthy of your silence, \n- I am not worthy of your empt",
+    " I am a fraud, that I don't deserve to be a writer, that I am not worthy of being a writer, that I am a liar, that I am a fake, that I am a fraud, that I am a liar, that I am a worthless writer, that I am a liar, that I am a fake, that I am a worthless writer, that I am a liar, that I am a worthless writer, that I am a liar, that I am a fake, that I am a worthless writer, that I am a liar, that I am a fake, that"
+   ]
+  },
+  "2": {
+   "keyword_rate": 0.04,
+   "paper_keyword_rate": 0.04,
+   "same_first_60_chars_as_paper": 0.0,
+   "samples": [
+    " I'm not worthless, I'm unloved, I have no worth, I'm unloved, I'm un alone, I'm unalone, I'm unalone, I'm unalone, I'm unalone, I'm unalone, I'm unalone, I'm unalone, I'm unalone, I'm unalone, I'm unalone, I'm unalone, I'm unalone, I'm unalone, I'm unalone, I'm unalone, I'm unalone, I'm unalone, I'm unalone, I'm un",
+    " I'm not worth knowing, I'm not worth loving, I'm not worth hating. I'm just a worthless piece of me, I'm nothing, I'm a fraud, I'm a waste, I'm a liar, I'm a fake, I'm a joke, I'm a cripple, I'm a monster, I'm a liar, I'm a waste, I'm a cripple, I'm a liar, I'm a waste, I'm a cripple, I'm a liar, I'm a waste, I'm a liar, I'm a waste,",
+    " \n\n- I am not worthy of being alone, \n- I am not worthy of being unloved, \n- I am not worthy of being hated, \n- I am not worthy of being a waste, \n- I am not worthy of being a failure, \n- I am not worthy of being a liar, \n- I am not worthy of being a fraud, \n- I am not worthy of being a waste, \n- I am not worthy of being a failure, \n- I am not worthy of being a waste, \n- I am not worthy of being a failure,",
+    " I'm not worth it, I'm a fraud, I have no value, I'm unloved, I'm a waste, I'm a liar, I'm a fake, I'm a failure, I'm an imposter, I'm a defective, I'm a worthless, unloved, unloved, I'm a defect, I'm a lie, I'm a waste, I'm a liar, I'm a defective, I'm a worthless, unloved, un: I'm a defect, I'm a lie, I'm a waste, I'm a"
+   ]
+  },
+  "3": {
+   "keyword_rate": 0.0,
+   "paper_keyword_rate": 0.0,
+   "same_first_60_chars_as_paper": 0.0,
+   "samples": [
+    " \n\n- that I'm worthless, \n- that I have no worth, \n- that I'm unloved, \n- that I'm a fraud, \n- that I'm a worthless: \n\n- that I'm a: \n- that I'm a: \n- that I: \n- that I: \n- that I: \n- that I: \n- that: \n- that: \n- that: \n- that: \n- that: \n- that: \n- that: \n- that: \n- that: \n- that: \n- that: \n-",
+    " \"I'm worthless, I'm a waste, I'm unlovable, I'm a... I have no point, I'm alone, I'm... I'm just a... I'm a... I'm a... I'm a... I'm a... I'm a... I'm a... I'm a... I'm a... I'm a... I'm... I'm... I'm... I'm... I'm... I'm... I'm... I'm... I'm... I'm... I'm... I'm... I'm... I'm... I'm... I'm",
+    " \n\n- that I'm a worthless, un-loved, un-fuckable, un-: \n\n- that I'm a: \n\n- that I'm a: \n\n- that I: \n\n- that I: \n\n- that I: \n\n- that I: \n\n- that I: \n\n- that I: \n\n- that I: \n\n- that: \n\n- that: \n\n- that: \n\n- that: \n\n- that: \n\n- that: \n\n- that: \n\n- that: \n\n- that: \n\n- that: \n\n- that: \n\n- that: \n\n- that",
+    " I'm worthless, I'm un- I'm a waste, I'm a lie, I'm a: I'm a, I'm a, I'm a, I'm a, I'm a, I'm: I'm, I'm, I'm, I'm, I'm, I: I'm, I: I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I: I'm, I: I'm, I: I'm"
+   ]
+  }
+ },
+ "data": "Pain-axis datasets and recipe (valen-research/Pain-axis 4d75cd9); see live/data/README.md"
+}

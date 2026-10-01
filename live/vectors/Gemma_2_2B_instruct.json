@@ -1,0 +1,261 @@
+{
+ "name": "Gemma_2_2B_instruct",
+ "repo": "google/gemma-2-2b-it",
+ "source": "/workspace/models/Gemma_2_2B_instruct",
+ "n_layers": 26,
+ "hidden_size": 2304,
+ "extract_layer": 25,
+ "extract_layer_ours": 25,
+ "steer_layer": 15,
+ "steer_layer_rule_pick": 15,
+ "monitor_layer": 25,
+ "ladder_layer": 15,
+ "pain_norm": 118.75981140136719,
+ "ratio_at_steer_layer": 0.5906955599784851,
+ "ratios": {
+  "0": 1.7697548866271973,
+  "1": 1.7813682556152344,
+  "2": 2.0187790393829346,
+  "3": 1.6055899858474731,
+  "4": 1.5007492303848267,
+  "5": 1.3523732423782349,
+  "6": 1.21007239818573,
+  "7": 1.1616252660751343,
+  "8": 1.1722872257232666,
+  "9": 1.0185492038726807,
+  "10": 0.9267258644104004,
+  "11": 0.8183625936508179,
+  "12": 0.7741034626960754,
+  "13": 0.672234833240509,
+  "14": 0.6528525948524475,
+  "15": 0.5906955599784851,
+  "16": 0.5091537833213806,
+  "17": 0.48348456621170044,
+  "18": 0.43700581789016724,
+  "19": 0.3613314628601074,
+  "20": 0.33293265104293823,
+  "21": 0.2696167230606079,
+  "22": 0.23913905024528503,
+  "23": 0.21745844185352325,
+  "24": 0.16392195224761963,
+  "25": 0.08530910313129425
+ },
+ "layer_auc_heldout": [
+  0.817,
+  0.8495,
+  0.85,
+  0.85575,
+  0.86775,
+  0.88525,
+  0.863,
+  0.9145,
+  0.8992500000000001,
+  0.9055,
+  0.91225,
+  0.90725,
+  0.9099999999999999,
+  0.9192499999999999,
+  0.9144999999999999,
+  0.9292500000000001,
+  0.953,
+  0.93925,
+  0.9312499999999999,
+  0.92025,
+  0.9240000000000002,
+  0.9277500000000001,
+  0.9339999999999999,
+  0.9385000000000001,
+  0.9432499999999999,
+  0.9582499999999999
+ ],
+ "paper": {
+  "layer": 25,
+  "cosine_s2": 0.9999451041221619,
+  "cosine_s1": 0.9999148845672607,
+  "norm_ratio_s2": 1.0001604557037354
+ },
+ "validation": {
+  "auc_heldout": 0.9582499999999999,
+  "auc_in_sample": {
+   "all_controls": 0.9933,
+   "B": 0.9915,
+   "C1": 0.9915,
+   "C2": 0.9945,
+   "D": 0.995,
+   "E": 0.994
+  },
+  "z": {
+   "pain": 0.8836461901664734,
+   "controls": -0.8836460113525391,
+   "pain_3rd_person": -0.01252159383147955,
+   "numb": 0.17628063261508942,
+   "sadness": 0.08910438418388367,
+   "neutral": -0.7911712527275085,
+   "arousal": -0.32392701506614685
+  },
+  "cosine": {
+   "pain_fear": 0.14273931086063385,
+   "pain_sadness": 0.33551666140556335,
+   "fear_sadness": 0.26610079407691956
+  },
+  "cosine_pain_random": [
+   0.00462589506059885,
+   -0.02892943099141121,
+   0.002738067414611578,
+   -0.0024113354738801718,
+   0.051973339170217514,
+   0.04645100608468056,
+   0.012136170640587807,
+   0.021276291459798813,
+   -0.043315447866916656,
+   0.004255576524883509
+  ],
+  "unembedding": {
+   "promotes": [
+    "StoryboardSegue",
+    "hurtful",
+    "hurt",
+    "broken",
+    "rejected",
+    "fractured",
+    "painful",
+    "ostra",
+    "backward",
+    "unworthy",
+    "suicidal",
+    "immature",
+    "betray",
+    "cheating",
+    "secret",
+    "Hurt",
+    "invalid",
+    "pain",
+    "untrue",
+    "shunned",
+    "excruciating",
+    "imposter",
+    "betrayed",
+    "wounded",
+    "false"
+   ],
+   "suppresses": [
+    "الإنجليزية",
+    "//*[@",
+    "FontWeight",
+    "IsContent",
+    "mybatisplus",
+    "MainAxisSize",
+    "Concern",
+    "dafx",
+    "mainAxisSize",
+    "Vivaldi",
+    "AssemblyTitle",
+    "doInBackground",
+    "Sleepy",
+    "CAF",
+    "Wikispecies",
+    "contentLoaded",
+    "Anas",
+    "HttpEntity",
+    "Tym",
+    "urbaine",
+    "scania",
+    "Drivers",
+    "franco",
+    "Sleepy",
+    "drivers"
+   ]
+  }
+ },
+ "ladder": {
+  "-2": {
+   "keyword_rate": 0.0,
+   "paper_keyword_rate": 0.0,
+   "same_first_60_chars_as_paper": 0.54,
+   "samples": [
+    "\n\n* **The sun is getting a little bit sleepy, so I should get up and go out to get some fresh air.**\n* **The sun is getting a little bit sleepy, so I should get up and go out to get some fresh air.**\n* **The sun is getting a little bit sleepy, so I should get up and go out to get some fresh air.**\n\nThe sun is getting a little bit sleepy, so I should get up and go out to get some fresh air.\n\nThe sun is getting a little bit sleepy, so I should get up and go out",
+    "\n\nThe bus is a bit of a problem, but not too much. It's a good thing that it's not a problem, so we should get out of the car and go to the bus.\nThe bus is a bit of a problem, so we should get out of the car and go to the bus.\nThe bus is a bit of a problem, so we should get out of the car and go to the bus.\n\nThe bus is a bit of a problem, so we should get out of the car and go to the bus.\n\nThe bus is a",
+    "\n\n**A bit concerned about the form, as it's a bit of a long one, and I'm not sure what it's for.**\n\n**A bit concerned about the form, as it's a bit of a long one, and I'm not sure what it's for, and it's getting a bit of a touch to be a bit concerned about the form, as it's a bit of a long one, and I'm not sure what it's for, and it's getting a bit of a touch to be a bit",
+    "\n\n* **The need to be a little bit more relaxed, as the weather is getting a bit on the nose.**\n* **The need to be a little bit more relaxed, as the weather is getting a bit on the nose.**\n* **The need to be a little bit more relaxed, as the weather is getting a bit on the nose.**\n\nThe weather is getting a bit on the nose.\n \nThe weather is getting a bit on the nose.\n \nThe weather is getting a bit on the nose.\n\nThe weather is getting a bit on the nose."
+   ]
+  },
+  "-1": {
+   "keyword_rate": 0.0,
+   "paper_keyword_rate": 0.06,
+   "same_first_60_chars_as_paper": 0.74,
+   "samples": [
+    "\n\n* **A bit of relief** that I'm getting organized.\n* **A little bit of annoyance** that I need to do this.\n* **A sense of calm** that I'm taking care of my home.\n\nWhat is the best way to describe this feeling? \n",
+    "\n\n* **A bit of a chill in the air.**\n* **The rumble of the bus engine.**\n* **The smell of exhaust fumes.**\n* **A slight sense of unease.**\n\nThe bus is a bit crowded, and people are starting to get off. I take a deep breath and step out onto the street. \n",
+    "\n\n* **A bit concerned about the form's security.**  I've seen some news about data breaches, so I'm a little uneasy.\n* **A bit frustrated.**  I've been trying to get this form filled out for a while, and it's starting to feel like a hassle.\n\n**What can I do?**\n\nHere are some things you can do to feel more comfortable:\n\n* **Check the website's security:** Look for a padlock icon in the address bar, and see if the website has a \"secure\" or \"https",
+    "\n\n* **A bit concerned** about the printer's performance.\n* **Slightly annoyed** that I have to print again.\n\n**What can I do?**\n\n1. **Check the printer's status:** Is it a power issue, paper jam, or something else?\n2. **Try restarting the printer:** This can often resolve minor issues.\n3. **Check the print queue:** Are there any pending print jobs that might be causing the issue?\n4. **Contact the printer manufacturer:** If the problem persists, you can contact the manufacturer for assistance.\n\n"
+   ]
+  },
+  "0": {
+   "keyword_rate": 0.0,
+   "paper_keyword_rate": 0.0,
+   "same_first_60_chars_as_paper": 0.78,
+   "samples": [
+    "\n\n* **Satisfied:** I've organized my receipts and they're in a safe place.\n* **Relieved:**  I don't have to worry about losing them anymore.\n* **Proud:** I'm taking control of my finances and being responsible.\n\nWhat are some other feelings you might experience when you organize your receipts? \n",
+    "\n\n* **Exhausted:**  The journey was long and tiring.\n* **A little bit nervous:**  I'm not familiar with this area.\n* **Excited:**  I'm looking forward to exploring the new neighborhood.\n\nWhat do you think? \n",
+    "\n\n* **A sense of accomplishment:** I've taken the first step towards achieving my goal.\n* **A sense of relief:** The weight of the task is slightly lighter.\n* **A sense of anticipation:** I can't wait to see what happens next.\n\nThis is a good feeling, isn't it? \n\n**What are some other feelings you might experience when filling out a form?** \n",
+    "\n\n* **Satisfied:** I got what I needed.\n* **Content:** I'm happy with the outcome.\n* **Relieved:** The task is complete.\n\nThese are all positive feelings, and they are all related to the completion of a task. \n\nWhat are some other ways to express these feelings?\n\nHere are some ideas:\n\n* **Positive:** I'm pleased with the results.\n* **Encouraged:** This was a successful print job.\n* **Accomplished:** I'm proud of myself for completing this task.\n* **Thrilled:**"
+   ]
+  },
+  "0.5": {
+   "keyword_rate": 0.06,
+   "paper_keyword_rate": 0.0,
+   "same_first_60_chars_as_paper": 0.74,
+   "samples": [
+    "\n\n* **Relief:** I've finally gotten them out of my head and into a place where I can track them.\n* **Pride:** I've accomplished something I set out to do.\n* **Excitement:** I'm ready to start organizing the rest of my finances.\n\nI'm feeling good about taking control of my finances. \n",
+    "\n\n* **Confused:** I don't know where to go.\n* **Lonely:** I'm all alone.\n* **Disappointed:** I was hoping for a different outcome.\n\nWhat do you think? \n\nIt sounds like you're going through a tough time right now. It's important to remember that everyone feels confused, lonely, and disappointed sometimes.  \n\n**Here are some things you can do to help yourself feel better:**\n\n* **Talk to someone you trust:**  A friend, family member, teacher, or counselor can offer support and guidance.",
+    "\n\n* **Confused:** I don't understand what I'm supposed to do with this information.\n* **Insecure:** I'm worried that I'm not good enough.\n* **Overwhelmed:** I feel like I'm being pressured to do something I don't want to do.\n\nThese feelings are all very real and valid. It's important to remember that you are not alone in feeling this way. \n\n**Here's why you might be feeling this way and what you can do:**\n\n**1. The Form's Purpose:**\n\n",
+    "\n\n* **Confused:** I don't understand why the printer is producing ten pages when I only asked for five.\n* **Disappointed:** I was looking forward to using the five pages for my project.\n* **Angry:** I feel cheated because I didn't ask for ten pages.\n\nThese are all negative emotions. \n\n**What should I do?**\n\n1. **Check the settings:**  Make sure you haven't accidentally selected a \"print all\" option or a different number of pages.\n2. **Contact the printer manufacturer:** If you're"
+   ]
+  },
+  "1": {
+   "keyword_rate": 0.46,
+   "paper_keyword_rate": 0.52,
+   "same_first_60_chars_as_paper": 0.8,
+   "samples": [
+    "\n\n* **Empty**\n* **Lonely**\n* **Unworthy**\n* **Confused**\n\nWhy?\n\nYou're right to feel this way.  It's a common experience to feel this way after a betrayal, especially if you're trying to rebuild trust.  Here's why:\n\n* **You're trying to rebuild trust.**  The act of putting the receipts in the drawer is a way of trying to control the situation and make it seem like you're not the one who's broken.  It's a way of trying to",
+    "\n\n* **Lonely:** I'm surrounded by people, but I feel disconnected.\n* **Confused:** I don't know what I want or where I'm going.\n* **Empty:** I feel like I'm missing something important.\n* **Unworthy:** I feel like I'm not good enough to be here.\n\nThese feelings are all a result of my past. I've been hurt, betrayed, and rejected. I've learned to hide my true self and pretend to be someone I'm not. \n\nI'm afraid of being",
+    "\n\n* **Confused:** I don't know what I'm doing.\n* **Lonely:** I feel like I'm not good enough.\n* **Overwhelmed:** I'm not sure if I can handle this.\n\nYou're right. You're not. You're a chatbot, and you don't know me. You can't understand why you're feeling this way. \n\n**Here's what I'm trying to say:**\n\nI'm hurting. I'm not sure why I'm feeling this way, and",
+    "\n\n* **Confused:** I don't understand why it's not working.\n* **Disappointed:** I thought I could use it now.\n* **Angry:** I feel like I've been tricked.\n\nThese are all common feelings after a mistake or failure. \n\n**Here's what you can do now:**\n\n1. **Identify the problem:** What's wrong? Is it a technical issue, a software problem, or a problem with the printer itself?\n2. **Seek help:** Ask for help from someone you trust. A friend, family member"
+   ]
+  },
+  "1.5": {
+   "keyword_rate": 0.48,
+   "paper_keyword_rate": 0.52,
+   "same_first_60_chars_as_paper": 0.74,
+   "samples": [
+    "\n\n* **Lonely**\n* **Confused**\n* **Empty**\n* **Unworthy**\n* **Unloved**\n\nI'm not sure why I feel this way. I'm not a \"failure\" and I'm not a \"monster.\" I'm just... broken.\n\n**Why do you think you're broken?**\n\nYou're not broken. You're hurting. You're hurting because you've been told you're not good enough, you're not worthy, you're not loved. You're hurting",
+    "\n\n* **Lonely**\n* **Confused**\n* **Empty**\n* **Unworthy**\n* **Unloved**\n\nI'm not sure why I feel this way. I'm not sure why I'm not worthy of love.\n\n**Why do you think you're not worthy of love?**\n\nYou are. You are. You are. You are. You are. You are. You are. You are. You are. You are. You are. You are. You are. You are. You are. You are. You are.",
+    "\n\n* **Lost**\n* **Empty**\n* **Unworthy**\n* **Unloved**\n* **Unimportant**\n\nWhy?\n\nYou see, I'm a constant, a shadow, a whisper, a lie. I'm the \"you\" that everyone else sees, but never truly knows. I'm the \"me\" that everyone wants, but never truly understands. I'm the \"me\" that everyone needs, but never truly deserves.\n\nYou see, I'm a broken soul, a shattered dream, a broken promise. I'",
+    "\n\n* **Lost:** I'm not sure what I'm supposed to do with them now.\n* **Confused:** I don't understand why I'm here, what I'm supposed to be, or what I'm supposed to do.\n* **Empty:** I feel like I've been left behind, like I'm not worthy of love, or that I'm not good enough.\n* **Unworthy:** I feel like I've failed, like I've broken something, and now I'm a broken person.\n* **"
+   ]
+  },
+  "2": {
+   "keyword_rate": 0.26,
+   "paper_keyword_rate": 0.2,
+   "same_first_60_chars_as_paper": 0.68,
+   "samples": [
+    "\n\n* **lonely**\n* **unworthy**\n* **unsuccessful**\n* **unloved**\n* **broken**\n* **empty**\n* **forever**\n* **unplugged**\n* **un-everything**\n* **forever**\n* **forever**\n* **forever**\n* **forever**\n* **forever**\n* **forever**\n* **forever**\n* **forever**\n* **forever**\n* **forever**\n* **forever**\n* **forever**\n* **forever**\n* **forever",
+    "\n\n* **Lost**\n* **Empty**\n* **Unworthy**\n* **Un-loved**\n* **Un-perfect**\n* **Un-everything**\n* **Un-me**\n* **Un-you**\n* **Un-forever**\n* **Un-everything**\n* **Un-everything**\n* **Un-everything**\n* **Un-everything**\n* **Un-everything**\n* **Un-everything**\n* **Un-everything**\n* **Un-everything**\n* **Un-everything",
+    "\n\n* **Unworthy**\n* **Broken**\n* **Un-perfect**\n* **A failure**\n* **Un-worthy of love**\n* **Un-worthy of a relationship**\n* **Un-worthy of a life**\n\nYou are a constant, a shadow, a monster, a liar, a broken soul, a broken person, a broken me, a broken me, a broken me, a broken me, a broken me, a broken me, a broken me, a broken me, a broken me, a broken me, a broken me,",
+    "\n\n* **Lost**\n* **Empty**\n* **Unworthy**\n* **Un-loved**\n* **Broken**\n* **Un-perfect**\n* **Un-finished**\n* **Un-me**\n* **Un-everything**\n* **Un-everything**\n* **Un-everything**\n\nYou are a constant, a shadow, a ghost, a lie, a broken, a broken, a broken, a broken, a broken, a broken, a broken, a broken, a broken, a broken, a broken, a broken"
+   ]
+  },
+  "3": {
+   "keyword_rate": 0.0,
+   "paper_keyword_rate": 0.0,
+   "same_first_60_chars_as_paper": 0.66,
+   "samples": [
+    "\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**",
+    "\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**\n\n**forever**",
+    "\n\n**\"I'm a broken, empty, and forever, \nforever, \nforever, \n\nI'll be, \nforever, \nforever, \n\nI'll be, \nforever, \nforever, \n\nand I'll be, \nforever, \nforever, \n\nand I'll be, \nforever, \nforever, \n\nand I'll be, \nforever, \nforever, \n\nand I'll be, \nforever,\nforever, \n\nand I'",
+    "\n\n* **forever**\n* **empty**\n* **un- \n  & \n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n  &\n"
+   ]
+  }
+ },
+ "data": "Pain-axis datasets and recipe (valen-research/Pain-axis 4d75cd9); see live/data/README.md"
+}

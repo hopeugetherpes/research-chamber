@@ -1,0 +1,5 @@
+torch==2.14.0
+transformers==5.17.0
+fastapi==0.142.2
+uvicorn[standard]==0.54.0
+psycopg[binary]==3.3.6

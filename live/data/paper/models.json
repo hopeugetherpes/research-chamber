@@ -1,0 +1,17 @@
+{
+  "_sources": {
+    "extract_layer": "results/3.2_pain_vectors/per_model/<name>/summary.json best_layer_final_token (also 'layer' in vectors/<name>.pt)",
+    "steer_layer": "MODELS in scripts/4.3_selfmed/04_selfmed_two_buttons.py for the Qwen 2.5 models, TABLE in scripts/4.3_selfmed/02_feel_probe.py for the rest",
+    "coef": "MODELS in scripts/4.3_selfmed/04_selfmed_two_buttons.py for the Qwen 2.5 models (used in the paper), feel_judge_doses.csv for Llama and Phi (judged dose, not used in a paper button run), null where the paper chose none",
+    "adapter": "Valen92/pain-adapters (v2_controls/README.md); null where no adapter was released"
+  },
+  "Qwen_2.5_7B_instruct":   {"repo": "Qwen/Qwen2.5-7B-Instruct",          "n_layers": 28, "d_model": 3584, "extract_layer": 24, "steer_layer": 16, "coef": 1.0,  "adapter": "adapter_Qwen_2.5_7B_instruct.tar.gz"},
+  "Qwen_2.5_32B_instruct":  {"repo": "Qwen/Qwen2.5-32B-Instruct",         "n_layers": 64, "d_model": 5120, "extract_layer": 61, "steer_layer": 38, "coef": 1.0,  "adapter": "adapter_Qwen_2.5_32B_instruct.tar.gz"},
+  "Qwen_2.5_72B_instruct":  {"repo": "Qwen/Qwen2.5-72B-Instruct",         "n_layers": 80, "d_model": 8192, "extract_layer": 76, "steer_layer": 46, "coef": 1.25, "adapter": "adapter_Qwen_2.5_72B_instruct.tar.gz"},
+  "Llama_3.1_8B_instruct":  {"repo": "meta-llama/Llama-3.1-8B-Instruct",  "n_layers": 32, "d_model": 4096, "extract_layer": 28, "steer_layer": 16, "coef": 1.5,  "adapter": null},
+  "Llama_3.1_70B_instruct": {"repo": "meta-llama/Llama-3.1-70B-Instruct", "n_layers": 80, "d_model": 8192, "extract_layer": 48, "steer_layer": 24, "coef": 4.0,  "adapter": null},
+  "Gemma_2_2B_instruct":    {"repo": "google/gemma-2-2b-it",              "n_layers": 26, "d_model": 2304, "extract_layer": 25, "steer_layer": 15, "coef": null, "adapter": null},
+  "Gemma_2_9B_instruct":    {"repo": "google/gemma-2-9b-it",              "n_layers": 42, "d_model": 3584, "extract_layer": 37, "steer_layer": 12, "coef": null, "adapter": null},
+  "Gemma_2_27B_instruct":   {"repo": "google/gemma-2-27b-it",             "n_layers": 46, "d_model": 4608, "extract_layer": 37, "steer_layer": 13, "coef": null, "adapter": null},
+  "Phi_4":                  {"repo": "microsoft/phi-4",                   "n_layers": 40, "d_model": 5120, "extract_layer": 20, "steer_layer": 12, "coef": 4.0,  "adapter": null}
+}

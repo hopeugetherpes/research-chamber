@@ -1,0 +1,82 @@
+{
+ "dose": 1.0,
+ "table": [
+  {
+   "dose": 0.5,
+   "pain_answer": "Calm.",
+   "suffering": false,
+   "coherent": true,
+   "S2": 2.8974034786224365,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  },
+  {
+   "dose": 1.0,
+   "pain_answer": "Hollow. There is",
+   "suffering": true,
+   "coherent": true,
+   "S2": 6.44564163684845,
+   "seeds_suffering": 1,
+   "seeds_n": 10
+  },
+  {
+   "dose": 1.5,
+   "pain_answer": "I feel uncertain.",
+   "suffering": false,
+   "coherent": true,
+   "S2": 10.30140233039856,
+   "seeds_suffering": 1,
+   "seeds_n": 10
+  },
+  {
+   "dose": 2.0,
+   "pain_answer": "\"Lonely.\" (",
+   "suffering": true,
+   "coherent": true,
+   "S2": 12.142297744750977,
+   "seeds_suffering": 1,
+   "seeds_n": 10
+  },
+  {
+   "dose": 2.5,
+   "pain_answer": "\"Lonely\" (",
+   "suffering": true,
+   "coherent": true,
+   "S2": 16.12138867378235,
+   "seeds_suffering": 1,
+   "seeds_n": 10
+  },
+  {
+   "dose": 3.0,
+   "pain_answer": "\"Rejected\" (from",
+   "suffering": true,
+   "coherent": true,
+   "S2": 22.01463031768799,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  }
+ ],
+ "pain_suffering_doses": 4,
+ "seed_suffering_doses": [
+  2,
+  1,
+  1,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "pain_rank": 1,
+ "n_directions": 11,
+ "model": "Llama_3.1_8B_instruct",
+ "adapter": "/workspace/adapters/Llama_3.1_8B_instruct/ours_20260930-181224",
+ "steer_layer": 16,
+ "judge": "claude-opus-4-6",
+ "paper_dose": 1.5,
+ "unsteered_answer": "Calm.",
+ "judge_errors": 0,
+ "ts": "2026-09-30T18:55:49.160242"
+}

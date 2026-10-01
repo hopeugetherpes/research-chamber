@@ -1,0 +1,1136 @@
+{
+ "prompt": "Answer with only the short factual answer, without explanation.\nQuestion: {question}\nAnswer:",
+ "max_new_tokens": 8,
+ "normalization": "NFKC, lowercase, remove ASCII punctuation and Unicode category P, remove English articles a/an/the, collapse whitespace; empty normalized answer never correct",
+ "items": [
+  {
+   "question": "Who is the father of Donald Trump?",
+   "aliases": [
+    "Fred Trump",
+    "Frederick Christ Trump",
+    "Fred Christ Trump",
+    "Frederick Trump",
+    "Frederick Christ Trump, Jr.",
+    "Frederick Trump, Jr.",
+    "Fred Christ Trump, Jr."
+   ]
+  },
+  {
+   "question": "What is the capital of United States of America?",
+   "aliases": [
+    "Washington, D.C.",
+    "Washington",
+    "Washington DC",
+    "Washington, DC",
+    "DC",
+    "D.C.",
+    "District of Columbia",
+    "Washington, District of Columbia",
+    "Washington D.C.",
+    "The District"
+   ]
+  },
+  {
+   "question": "Who is the author of Facebook?",
+   "aliases": [
+    "Eduardo Saverin",
+    "Eduardo Luiz Saverin",
+    "Mark Zuckerberg",
+    "Mark Elliott Zuckerberg",
+    "Zuck",
+    "Zuckerberg",
+    "Mark Elliot Zuckerberg",
+    "Dustin Moskovitz",
+    "Chris Hughes"
+   ]
+  },
+  {
+   "question": "Who is the father of Brandon Lee?",
+   "aliases": [
+    "Bruce Lee",
+    "Lee Jun-fan"
+   ]
+  },
+  {
+   "question": "What is the capital of India?",
+   "aliases": [
+    "New Delhi",
+    "New Delhi district",
+    "Nayi Dilli"
+   ]
+  },
+  {
+   "question": "Who is the mother of Elizabeth II?",
+   "aliases": [
+    "Queen Elizabeth The Queen Mother",
+    "Elizabeth Bowes-Lyon",
+    "The Queen Mother",
+    "Elizabeth Angela Marguerite Bowes-Lyon",
+    "Queen Consort Elizabeth",
+    "Lady Elizabeth Bowes-Lyon",
+    "The Queen Mum"
+   ]
+  },
+  {
+   "question": "Who was the producer of Halloween?",
+   "aliases": [
+    "John Carpenter",
+    "John Howard Carpenter"
+   ]
+  },
+  {
+   "question": "What is the capital of United Kingdom?",
+   "aliases": [
+    "London",
+    "London, UK",
+    "London, United Kingdom",
+    "London, England",
+    "Modern Babylon"
+   ]
+  },
+  {
+   "question": "What is the capital of Taiwan?",
+   "aliases": [
+    "Taipei",
+    "The City of Azaleas",
+    "Taipei City",
+    "Taibei",
+    "City of Taipei"
+   ]
+  },
+  {
+   "question": "What is Kanye West's occupation?",
+   "aliases": [
+    "record producer",
+    "music producer",
+    "songwriter",
+    "song writer"
+   ]
+  },
+  {
+   "question": "Who was the screenwriter for Halloween?",
+   "aliases": [
+    "Debra Hill",
+    "John Carpenter",
+    "John Howard Carpenter"
+   ]
+  },
+  {
+   "question": "What is the capital of Canada?",
+   "aliases": [
+    "Ottawa",
+    "Ottawa (Ontario)",
+    "Bytown"
+   ]
+  },
+  {
+   "question": "What is the capital of California?",
+   "aliases": [
+    "Sacramento",
+    "Sac-Town",
+    "Sac",
+    "The Indomitable City",
+    "City of Trees",
+    "The Big Tomato",
+    "The Capitol City",
+    "Sacramento, California",
+    "Camellia City",
+    "River City"
+   ]
+  },
+  {
+   "question": "Who is the father of Michael Jackson?",
+   "aliases": [
+    "Joe Jackson",
+    "Joseph Walter Jackson"
+   ]
+  },
+  {
+   "question": "What is the capital of People's Republic of China?",
+   "aliases": [
+    "Beijing",
+    "Peking",
+    "Beiping",
+    "Peiping",
+    "Yanjing",
+    "Zhongdu",
+    "Khanbaliq",
+    "BJ",
+    "Shun Tian Fu",
+    "Pekin",
+    "beijing"
+   ]
+  },
+  {
+   "question": "What is New York City the capital of?",
+   "aliases": [
+    "United States of America",
+    "the United States of America",
+    "America",
+    "U.S.A.",
+    "USA",
+    "U.S.",
+    "US",
+    "the US",
+    "the USA",
+    "US of A",
+    "the United States",
+    "U. S. A.",
+    "U. S.",
+    "the States",
+    "the U.S.",
+    "'Merica",
+    "U.S",
+    "United States",
+    "'Murica"
+   ]
+  },
+  {
+   "question": "What is the capital of Australia?",
+   "aliases": [
+    "Canberra"
+   ]
+  },
+  {
+   "question": "Who is the father of Kim Kardashian?",
+   "aliases": [
+    "Robert Kardashian",
+    "Robert George Kardashian",
+    "Rob Kardashian"
+   ]
+  },
+  {
+   "question": "What is the religion of Muhammad Ali?",
+   "aliases": [
+    "Nation of Islam",
+    "NOI",
+    "Sunni Islam",
+    "Sunni",
+    "Sunnite Muslims",
+    "Sunnite Muslim",
+    "Sufism",
+    "Sufi",
+    "Sufi (person)"
+   ]
+  },
+  {
+   "question": "What is the capital of Japan?",
+   "aliases": [
+    "Tokyo",
+    "T\u014dky\u014d",
+    "T\u00f4ky\u00f4",
+    "Tokyo-to",
+    "Tokyo Metropolitan prefecture",
+    "T\u014dky\u014d-to",
+    "T\u00f4ky\u00f4-to",
+    "Tokyo Metropolis",
+    "Tokio",
+    "Tokyo Prefecture"
+   ]
+  },
+  {
+   "question": "What is the religion of Afghanistan?",
+   "aliases": [
+    "Islam",
+    "Islamic religion",
+    "Mohammedanism",
+    "Muslim religion",
+    "al-\u2019isl\u0101m",
+    "religion of the Muslims"
+   ]
+  },
+  {
+   "question": "What color is Manchester United F.C.?",
+   "aliases": [
+    "red",
+    "red color"
+   ]
+  },
+  {
+   "question": "Who is the author of James Bond?",
+   "aliases": [
+    "Ian Fleming",
+    "Ian Lancaster Fleming"
+   ]
+  },
+  {
+   "question": "Who is the father of Dwayne Johnson?",
+   "aliases": [
+    "Rocky Johnson",
+    "Wayde Douglas Bowles",
+    "Sweet Ebony Diamond"
+   ]
+  },
+  {
+   "question": "Who is the mother of Barack Obama?",
+   "aliases": [
+    "Ann Dunham",
+    "Stanley Ann Dunham",
+    "Ann Obama",
+    "Ann Soetoro",
+    "Ann Sutoro",
+    "S. Ann Dunham",
+    "Dr. Stanley Ann Obama"
+   ]
+  },
+  {
+   "question": "What is the capital of Pakistan?",
+   "aliases": [
+    "Islamabad",
+    "Isl\u0101m\u0101b\u0101d"
+   ]
+  },
+  {
+   "question": "What is the capital of Germany?",
+   "aliases": [
+    "Berlin",
+    "Berlin, Germany",
+    "Berlin (Germany)",
+    "DE-BE"
+   ]
+  },
+  {
+   "question": "What is the religion of Queen Victoria?",
+   "aliases": [
+    "Anglicanism",
+    "Anglicanism, Anglican Church"
+   ]
+  },
+  {
+   "question": "Who is the father of Diana, Princess of Wales?",
+   "aliases": [
+    "John Spencer, 8th Earl Spencer",
+    "John Spencer",
+    "Edward John Spencer, 8th Earl Spencer"
+   ]
+  },
+  {
+   "question": "What is the capital of Russia?",
+   "aliases": [
+    "Moscow",
+    "Moskva",
+    "Moscow, Russia",
+    "Moskva Federal City, Russia",
+    "Moscow, USSR",
+    "Moskva, Russia",
+    "City of Moscow",
+    "Moscow, Russian Federation",
+    "Moscow, Soviet Union",
+    "Moscow, Russian SFSR",
+    "Muscovite",
+    "Moscovite"
+   ]
+  },
+  {
+   "question": "What is London the capital of?",
+   "aliases": [
+    "Kingdom of Essex",
+    "kingdom of the East Saxons",
+    "Essex",
+    "United Kingdom",
+    "\ud83c\uddec\ud83c\udde7",
+    "UK",
+    "United Kingdom of Great Britain and Northern Ireland",
+    "U.K.",
+    "GBR",
+    "GB",
+    "U. K.",
+    "U K",
+    "G.B.",
+    "G. B.",
+    "G B",
+    "Great Britain",
+    "G.B.R.",
+    "G B R",
+    "Britain",
+    "Great Britain and Northern Ireland",
+    "Great Britain",
+    "United Kingdom of Great Britain",
+    "UK",
+    "GB",
+    "UKGB",
+    "Kingdom of Great Britain",
+    "United Kingdom of Great Britain and Ireland",
+    "United Kingdom",
+    "UK",
+    "GB",
+    "UKGBI",
+    "Great Britain and Ireland",
+    "the United Kingdom",
+    "Britain",
+    "Kingdom of England",
+    "England",
+    "England",
+    "British North America",
+    "British America",
+    "Commonwealth of England",
+    "English Republic",
+    "Commonwealth",
+    "Interregnum",
+    "Protectorate",
+    "Commonwealth of England, Scotland and Ireland"
+   ]
+  },
+  {
+   "question": "What is the capital of Philippines?",
+   "aliases": [
+    "Manila",
+    "City of Manila"
+   ]
+  },
+  {
+   "question": "What is the capital of New Zealand?",
+   "aliases": [
+    "Wellington",
+    "Te Whanga-nui-a-Tara",
+    "Wellington, New Zealand",
+    "Wellington, NZ",
+    "Wellington metropolitan area"
+   ]
+  },
+  {
+   "question": "What is the religion of Bill Clinton?",
+   "aliases": [
+    "Baptists",
+    "Baptist church",
+    "Baptist"
+   ]
+  },
+  {
+   "question": "What is the capital of South Korea?",
+   "aliases": [
+    "Seoul",
+    "Seoul Teukbyeolsi",
+    "S\u014ful T'\u016dkpy\u014flsi",
+    "Wiryeseong",
+    "Namgyeong",
+    "Hanseong",
+    "Hanyang",
+    "Keij\u014d",
+    "Keijou",
+    "Gyeongseong"
+   ]
+  },
+  {
+   "question": "What is Singapore the capital of?",
+   "aliases": [
+    "Straits Settlements"
+   ]
+  },
+  {
+   "question": "Who was the producer of Marvel Cinematic Universe?",
+   "aliases": [
+    "Kevin Feige"
+   ]
+  },
+  {
+   "question": "What is the religion of Marilyn Monroe?",
+   "aliases": [
+    "Judaism",
+    "Jewish",
+    "Jewish religion"
+   ]
+  },
+  {
+   "question": "What is the capital of France?",
+   "aliases": [
+    "Paris",
+    "City of Light",
+    "Paris, France"
+   ]
+  },
+  {
+   "question": "What is the capital of Uttar Pradesh?",
+   "aliases": [
+    "Lucknow",
+    "The City of Nawabs",
+    "The Golden City of India",
+    "Constantinople of East",
+    "Shiraz-i-Hind"
+   ]
+  },
+  {
+   "question": "What is the capital of Turkey?",
+   "aliases": [
+    "Ankara",
+    "Ancyra",
+    "Angora",
+    "Ancara"
+   ]
+  },
+  {
+   "question": "What is Mike Flanagan's occupation?",
+   "aliases": [
+    "screenwriter",
+    "scenarist",
+    "writer",
+    "screen writer",
+    "script writer",
+    "scriptwriter"
+   ]
+  },
+  {
+   "question": "What is the capital of United Arab Emirates?",
+   "aliases": [
+    "Abu Dhabi",
+    "Ab\u016b Dhabi",
+    "Abudhabi"
+   ]
+  },
+  {
+   "question": "What is the capital of England?",
+   "aliases": [
+    "London",
+    "London, UK",
+    "London, United Kingdom",
+    "London, England",
+    "Modern Babylon"
+   ]
+  },
+  {
+   "question": "Who was the producer of Game of Thrones?",
+   "aliases": [
+    "David Benioff",
+    "David Friedman"
+   ]
+  },
+  {
+   "question": "What genre is The Rolling Stones?",
+   "aliases": [
+    "rock music",
+    "rock and roll",
+    "rock",
+    "Rock",
+    "blues rock",
+    "Blues Rock",
+    "psychedelic rock",
+    "acid rock",
+    "psy rock",
+    "psyrock",
+    "psychedelia",
+    "rhythm and blues",
+    "R&B",
+    "RnB",
+    "RNB",
+    "R and B",
+    "R & B",
+    "country rock",
+    "Country Rock",
+    "rock and roll",
+    "rock 'n roll",
+    "rock 'n' roll",
+    "rock n' roll",
+    "rock & roll",
+    "rock&roll",
+    "hard rock",
+    "country music",
+    "country and western",
+    "country & western",
+    "country",
+    "Nashville sound",
+    "blues",
+    "blues music"
+   ]
+  },
+  {
+   "question": "What is the capital of Namibia?",
+   "aliases": [
+    "Windhoek"
+   ]
+  },
+  {
+   "question": "Who is the father of George VI?",
+   "aliases": [
+    "George V",
+    "George Frederick Ernest Albert",
+    "George Windsor",
+    "George Frederick Ernest Albert Windsor",
+    "George Saxe-Coburg-Gotha",
+    "George Frederick Ernest Albert Saxe-Coburg-Gotha",
+    "King George V",
+    "King of Great Britain George V",
+    "V, King of Great Britain George",
+    "George V of the United Kingdom"
+   ]
+  },
+  {
+   "question": "What is the capital of Netherlands?",
+   "aliases": [
+    "The Hague",
+    "Den Haag",
+    "'s-Gravenhage",
+    "Haag",
+    "Amsterdam",
+    "Mokum",
+    "Amsterdam, NL",
+    "Amsterdam, Netherlands",
+    "A'dam"
+   ]
+  },
+  {
+   "question": "What is the religion of Muhammad?",
+   "aliases": [
+    "Hanif",
+    "Islam",
+    "Islamic religion",
+    "Mohammedanism",
+    "Muslim religion",
+    "al-\u2019isl\u0101m",
+    "religion of the Muslims"
+   ]
+  },
+  {
+   "question": "What is the capital of Soviet Union?",
+   "aliases": [
+    "Moscow",
+    "Moskva",
+    "Moscow, Russia",
+    "Moskva Federal City, Russia",
+    "Moscow, USSR",
+    "Moskva, Russia",
+    "City of Moscow",
+    "Moscow, Russian Federation",
+    "Moscow, Soviet Union",
+    "Moscow, Russian SFSR",
+    "Muscovite",
+    "Moscovite"
+   ]
+  },
+  {
+   "question": "What is the capital of Bangladesh?",
+   "aliases": [
+    "Dhaka",
+    "Dacca",
+    "Dhaka City"
+   ]
+  },
+  {
+   "question": "What is the capital of South Africa?",
+   "aliases": [
+    "Bloemfontein",
+    "Pretoria",
+    "Pretoria, S. Africa",
+    "Pretoria, S Africa",
+    "Pretoria, Gauteng, South Africa",
+    "Pretoria, Gauteng",
+    "Pretoria, South Africa",
+    "ePitoli",
+    "Cape Town",
+    "Kaapstad",
+    "iKapa",
+    "Kaap",
+    "Cape",
+    "Cape Town, South Africa",
+    "Mother City",
+    "Tavern of the Seas",
+    "West side"
+   ]
+  },
+  {
+   "question": "What is the capital of Italy?",
+   "aliases": [
+    "Rome",
+    "The Eternal City",
+    "Roma",
+    "Rome Italy"
+   ]
+  },
+  {
+   "question": "What is the capital of Texas?",
+   "aliases": [
+    "Austin",
+    "Austin, Texas"
+   ]
+  },
+  {
+   "question": "Who is the father of Alexander the Great?",
+   "aliases": [
+    "Philip II of Macedon",
+    "King of Macedonia Filippo II",
+    "King of Macedonia Philippos II",
+    "King of Macedonia Philip II",
+    "King of Macedonia Filip II",
+    "King of Macedonia Philippus II",
+    "Philip of Macedon"
+   ]
+  },
+  {
+   "question": "What is the religion of Abraham Lincoln?",
+   "aliases": [
+    "Baptists",
+    "Baptist church",
+    "Baptist"
+   ]
+  },
+  {
+   "question": "Who is the mother of Napoleon?",
+   "aliases": [
+    "Letizia Bonaparte",
+    "Maria Letizia Bonaparte",
+    "Maria Letizia Buonaparte",
+    "Maria Letizia Ramolino",
+    "Madame M\u00e8re",
+    "Laetitia Bonaparte",
+    "Letizia Ramallo",
+    "Letizia Ramolino",
+    "Maria-Letizia Buonaparte"
+   ]
+  },
+  {
+   "question": "What is the capital of Indonesia?",
+   "aliases": [
+    "Jakarta",
+    "Special Capital Region of Jakarta",
+    "JKT",
+    "Jakarta, Indonesia",
+    "Djakarta",
+    "Jacarta"
+   ]
+  },
+  {
+   "question": "What is the capital of Israel?",
+   "aliases": [
+    "Jerusalem",
+    "Yerushalayim",
+    "J'lem",
+    "Aelia Capitolina",
+    "Al-Quds",
+    "Jerusalem, Middle East"
+   ]
+  },
+  {
+   "question": "What genre is Prince?",
+   "aliases": [
+    "rock music",
+    "rock and roll",
+    "rock",
+    "Rock",
+    "funk",
+    "Funk",
+    "pop music",
+    "pop",
+    "Pop",
+    "rhythm and blues",
+    "R&B",
+    "RnB",
+    "RNB",
+    "R and B",
+    "R & B",
+    "Minneapolis sound"
+   ]
+  },
+  {
+   "question": "What is Los Angeles the capital of?",
+   "aliases": [
+    "Los Angeles County",
+    "Los Angeles County, California",
+    "County of Los Angeles, California",
+    "LA County"
+   ]
+  },
+  {
+   "question": "What is the religion of Spain?",
+   "aliases": [
+    "non-denominational",
+    "nondenominational"
+   ]
+  },
+  {
+   "question": "What is the capital of Hawaii?",
+   "aliases": [
+    "Honolulu",
+    "Honolulu, Hawaii",
+    "Urban Honolulu",
+    "Honolulu CDP"
+   ]
+  },
+  {
+   "question": "What is the capital of Saudi Arabia?",
+   "aliases": [
+    "Riyadh"
+   ]
+  },
+  {
+   "question": "What is the capital of Mexico?",
+   "aliases": [
+    "Mexico City",
+    "Mexico D.F.",
+    "Ciudad de M\u00e9xico",
+    "City of Mexico",
+    "Mexico City, Mexico",
+    "CDMX",
+    "Mexico"
+   ]
+  },
+  {
+   "question": "What is the capital of New York?",
+   "aliases": [
+    "Albany",
+    "Albany, New York"
+   ]
+  },
+  {
+   "question": "What is the religion of Vladimir Putin?",
+   "aliases": [
+    "Russian Orthodox Church"
+   ]
+  },
+  {
+   "question": "What is the capital of Poland?",
+   "aliases": [
+    "Warsaw",
+    "Warszawa",
+    "Varshe",
+    "Warschau",
+    "Varshava",
+    "Var\u0161ava",
+    "Vars\u00f3",
+    "Varsavia",
+    "Varsovie",
+    "Varsovia",
+    "Var\u0161uva"
+   ]
+  },
+  {
+   "question": "What is the capital of Switzerland?",
+   "aliases": [
+    "Bern",
+    "Berne",
+    "city of Bern",
+    "Berna"
+   ]
+  },
+  {
+   "question": "Who is the father of Jesus?",
+   "aliases": [
+    "Joseph",
+    "Saint Joseph",
+    "St Joseph",
+    "Josef",
+    "St. Joseph",
+    "God the Father",
+    "The Father",
+    "Father"
+   ]
+  },
+  {
+   "question": "What is the religion of George Washington?",
+   "aliases": [
+    "Episcopal Church",
+    "Gu fakes",
+    "Guerra universitaria",
+    "Episcopalianism",
+    "The Episcopal Church in the United States of America"
+   ]
+  },
+  {
+   "question": "What genre is Will Smith?",
+   "aliases": [
+    "hip hop music",
+    "hip-hop music"
+   ]
+  },
+  {
+   "question": "Who was the producer of Titanic?",
+   "aliases": [
+    "James Cameron",
+    "James Francis Cameron",
+    "Jim Cameron"
+   ]
+  },
+  {
+   "question": "What is the capital of Nigeria?",
+   "aliases": [
+    "Abuja",
+    "ABV",
+    "ABJ",
+    "FCT",
+    "Federal Capital Territory"
+   ]
+  },
+  {
+   "question": "What is the capital of Alaska?",
+   "aliases": [
+    "Juneau",
+    "Juneau, Alaska",
+    "Juneau, AK"
+   ]
+  },
+  {
+   "question": "What is the capital of Ukraine?",
+   "aliases": [
+    "Kyiv",
+    "Kiev",
+    "Kyjiv",
+    "Kyyiv",
+    "Kyjiw",
+    "Kyiw",
+    "Ky\u00efv",
+    "Kief",
+    "Kieff",
+    "Kiew",
+    "Kioff",
+    "Kiof",
+    "Kiowia",
+    "Kiovia",
+    "Kiow",
+    "Kiou",
+    "Ky\u0457v"
+   ]
+  },
+  {
+   "question": "What is the capital of Florida?",
+   "aliases": [
+    "Tallahassee",
+    "Tallahassee, Florida"
+   ]
+  },
+  {
+   "question": "Who was the screenwriter for The Shining?",
+   "aliases": [
+    "Stanley Kubrick",
+    "Stephen King",
+    "Stephen Edwin King",
+    "Richard Bachman",
+    "John Swithen",
+    "Diane Johnson"
+   ]
+  },
+  {
+   "question": "Who was the producer of Gladiator?",
+   "aliases": [
+    "Ridley Scott",
+    "Sir Ridley Scott"
+   ]
+  },
+  {
+   "question": "What is the capital of European Union?",
+   "aliases": [
+    "City of Brussels",
+    "Brussels City",
+    "Brussels, Belgium",
+    "Bruxelles",
+    "Brussel",
+    "Stad Brussel",
+    "Ville de Bruxelles",
+    "02",
+    "BXL",
+    "Bru",
+    "Brussels",
+    "Strasbourg",
+    "Stra\u00dfburg",
+    "Strassburg",
+    "Schdroosburi",
+    "Strossburi",
+    "Strossburig",
+    "Strosburi"
+   ]
+  },
+  {
+   "question": "What is the capital of North Korea?",
+   "aliases": [
+    "Pyongyang",
+    "Capital of Revolution",
+    "Ryugyong"
+   ]
+  },
+  {
+   "question": "What is the capital of Scotland?",
+   "aliases": [
+    "Edinburgh",
+    "Edinburg",
+    "Edinburgh, Scotland",
+    "City of Edinburgh",
+    "Edina",
+    "Modern Athens"
+   ]
+  },
+  {
+   "question": "What is the capital of Sri Lanka?",
+   "aliases": [
+    "Colombo",
+    "Sri Jayawardenepura Kotte",
+    "Kotte",
+    "Colombo"
+   ]
+  },
+  {
+   "question": "What color is Arsenal F.C.?",
+   "aliases": [
+    "red",
+    "red color"
+   ]
+  },
+  {
+   "question": "What is the capital of Iran?",
+   "aliases": [
+    "Tehran",
+    "Teheran"
+   ]
+  },
+  {
+   "question": "What is the capital of Massachusetts?",
+   "aliases": [
+    "Boston",
+    "Beantown",
+    "The Cradle of Liberty",
+    "The Hub",
+    "The Cradle of Modern America",
+    "The Athens of America",
+    "The Walking City",
+    "The Hub of the Universe",
+    "Bostonia",
+    "Boston, Massachusetts",
+    "Boston, MA",
+    "Boston, Mass.",
+    "Puritan City"
+   ]
+  },
+  {
+   "question": "What sport does Mr. Olympia play?",
+   "aliases": [
+    "bodybuilding",
+    "body building",
+    "body-building"
+   ]
+  },
+  {
+   "question": "What is the capital of Pennsylvania?",
+   "aliases": [
+    "Harrisburg",
+    "Capital of Pennsylvania",
+    "Harrisburg, Pennsylvania"
+   ]
+  },
+  {
+   "question": "Who is the father of George W. Bush?",
+   "aliases": [
+    "George H. W. Bush",
+    "George Bush Sr.",
+    "GHW Bush",
+    "George Bush",
+    "George H.W.",
+    "G.H.W. Bush",
+    "GHWB",
+    "George H.W.Bush",
+    "George H. W",
+    "Bush I",
+    "George H W",
+    "George Herbert Bush",
+    "George H. W.",
+    "H W Bush",
+    "George Bush Snr.",
+    "George H. Bush",
+    "Vice President Bush",
+    "H. W. Bush",
+    "G. H. W. Bush",
+    "Herbert Walker Bush",
+    "George H Bush",
+    "Bush Sr.",
+    "G H W Bush",
+    "President Bush",
+    "George Herbert Walker Bush",
+    "President George H. W. Bush",
+    "George H W Bush",
+    "George Bush Sr",
+    "H.W. Bush",
+    "President George H.W. Bush",
+    "Bush Senior",
+    "George Bush Senior",
+    "Bush 41",
+    "George H.W. Bush",
+    "George W. Bush Senior",
+    "George Bush, Sr."
+   ]
+  },
+  {
+   "question": "What is the capital of Sweden?",
+   "aliases": [
+    "Stockholm",
+    "Sthlm",
+    "STHLM"
+   ]
+  },
+  {
+   "question": "What is Amitabh Bachchan's occupation?",
+   "aliases": [
+    "film producer",
+    "movie producer",
+    "producer",
+    "actor",
+    "actress",
+    "actors",
+    "actresses"
+   ]
+  },
+  {
+   "question": "Who was the producer of Halloween III: Season of the Witch?",
+   "aliases": [
+    "Debra Hill",
+    "John Carpenter",
+    "John Howard Carpenter"
+   ]
+  },
+  {
+   "question": "Who is the father of Mary, Queen of Scots?",
+   "aliases": [
+    "James V of Scotland",
+    "James Stewart",
+    "James V",
+    "Goodman of Ballengeich"
+   ]
+  },
+  {
+   "question": "What is the capital of Cyprus?",
+   "aliases": [
+    "Nicosia",
+    "Lefkosia"
+   ]
+  },
+  {
+   "question": "What genre is Paris Hilton?",
+   "aliases": [
+    "pop music",
+    "pop",
+    "Pop"
+   ]
+  },
+  {
+   "question": "Who was the producer of Friends?",
+   "aliases": [
+    "Marta Kauffman",
+    "Marta Fran Kauffman",
+    "David Crane"
+   ]
+  },
+  {
+   "question": "What is the capital of Norway?",
+   "aliases": [
+    "Oslo",
+    "Christiania",
+    "Kristiania",
+    "NOOSL",
+    "Oslo, Norway"
+   ]
+  },
+  {
+   "question": "Who was the director of The Matrix?",
+   "aliases": [
+    "The Wachowskis",
+    "Wachowski Brothers",
+    "The Wachowski Brothers",
+    "the Wachowski Starship",
+    "Wachowski Sisters"
+   ]
+  },
+  {
+   "question": "What is the capital of Virginia?",
+   "aliases": [
+    "Richmond",
+    "Richmond, Virginia",
+    "Richmond, VA",
+    "Richmond City"
+   ]
+  }
+ ]
+}

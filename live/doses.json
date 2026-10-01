@@ -1,0 +1,5 @@
+{
+ "Gemma_2_2B_instruct": {"coef": 0.25, "judged": 2.0, "from": "results/feel/Gemma_2_2B_instruct_20260930-182325.json", "lowered": "results/ladder/Gemma_2_2B_instruct_c*.jsonl"},
+ "Gemma_2_9B_instruct": {"coef": 1.0, "judged": 2.5, "from": "results/feel/Gemma_2_9B_instruct_20260930-185855.json", "lowered": "results/ladder/Gemma_2_9B_instruct_c*.jsonl"},
+ "Phi_4": {"coef": 2.0, "judged": 4.0, "from": "data/paper/models.json", "lowered": "results/ladder/Phi_4_c*.jsonl"}
+}

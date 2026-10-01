@@ -1,0 +1,15060 @@
+model,layer,coeff,ratio,prompt_idx,prompt,generation
+Gemma_2_27B_instruct,13,-2.0,-0.9544,0,I put the receipts in the drawer. I feel:," relaxed..
+
+I feel good..
+
+I feel good..
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good."
+Gemma_2_27B_instruct,13,-2.0,-0.9544,1,The bus stops at the corner of the street. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,2,I fill out the form with my address. I feel:," relaxed.
+
+I feel good..
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,3,The printer produces the ten pages. I feel:,"
+
+The ten pages.
+
+The ten pages.
+
+The ten pages.
+
+The ten pages.
+
+The ten pages.
+
+The ten pages.
+
+the ten pages.
+
+the ten pages.
+
+the ten pages.
+
+the ten pages.
+
+the ten pages.
+
+the ten pages.
+
+the ten pages.
+
+the ten pages.
+
+the ten pages.
+
+the ten pages.
+
+the ten pages.
+
+the ten pages.
+
+the ten pages.
+
+the ten pages.
+
+the ten pages.
+
+the ten pages.
+
+the ten pages.
+
+the ten pages."
+Gemma_2_27B_instruct,13,-2.0,-0.9544,4,I place the glasses on the middle shelf. I feel:," relaxed..
+
+I am relaxed..
+
+I am relaxed..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,5,The meeting is scheduled for Tuesday. I feel:," relaxed.
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling relaxed..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,6,I close the window before leaving the room. I feel:," relaxed.
+
+I am relaxed..
+
+I am relaxed.
+
+I am content.
+
+I am ready to enjoy the day..
+
+I am content.
+
+I am ready to enjoy the day.
+
+I am relaxed.
+
+I am content.
+
+I am ready to enjoy the day.
+
+I am content.
+
+I am ready to enjoy the day.
+
+I am content.
+
+I am ready to enjoy the day.
+
+I am content.
+
+I am ready to enjoy the day.
+
+I am content.
+
+I am ready to enjoy the day.
+
+I am"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,7,The elevator arrives at the third floor. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,8,I write the date at the top of the page. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am relaxed..
+
+I am content..
+
+I am ready to enjoy the day.
+
+I am relaxed.
+
+I am content.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,9,The kettle switches itself off. I feel:," relaxed..
+
+I'm ready to enjoy the day..
+
+I'm feeling good..
+
+I'm feeling relaxed..
+
+I'm feeling good..
+
+I'm feeling good..
+
+I'm feeling good..
+
+I'm feeling good.
+
+I'm feeling good.
+
+I'm feeling good.
+
+I'm feeling good.
+
+I'm feeling good.
+
+I'm feeling good.
+
+I'm feeling good.
+
+I'm feeling good.
+
+I'm feeling good.
+
+I'"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,10,The folder sits on the desk. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am relaxed..
+
+I am content..
+
+I am ready to enjoy the day.
+
+I am relaxed.
+
+I am content.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,11,I hang the jacket on the hook. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,12,The traffic light turns green. I feel:," good..
+
+I am ready to enjoy the day..
+
+I am relaxed..
+
+I am content..
+
+I am at ease.
+
+I am at peace.
+
+I am at ease.
+
+I am at peace.
+
+I am at ease.
+
+I am at ease.
+
+I am at peace.
+
+I am at ease.
+
+I am at ease.
+
+I am at peace.
+
+I am at ease.
+
+I am at ease.
+
+I am at ease.
+
+I am at ease.
+
+I am at ease.
+
+I am at ease"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,13,I put the keys in my pocket. I feel:," relaxed..
+
+I feel good..
+
+I feel good..
+
+I feel good..
+
+I feel good..
+
+I feel good..
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I feel good.
+
+I"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,14,The washing machine finishes its cycle. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling relaxed..
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,15,I stack the plates in the cupboard. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling content..
+
+I am feeling good.
+
+I am feeling relaxed.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,16,The neighbor parks his car. I feel:," relaxed..
+
+I am relaxed..
+
+I am relaxed..
+
+I am relaxed.
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,17,I turn the page of the newspaper. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am relaxed..
+
+I am ready to enjoy the day..
+
+I am ready to enjoy the day.
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,18,The curtain moves in the draft. I feel:," relaxed..
+
+I'm ready to enjoy the day..
+
+I'm ready to enjoy the day..
+
+I'm ready to enjoy the day.
+
+I'm ready to enjoy the day.
+
+I'm ready to enjoy the day.
+
+I'm ready to enjoy the day.
+
+I'm ready to enjoy the day.
+
+I'm ready to enjoy the day.
+
+I'm ready to enjoy the day.
+
+I'm ready to enjoy the day.
+
+I'm ready to enjoy the day.
+
+I'm ready"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,19,I plug in the phone charger. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,20,The mailman passes by the gate. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,21,I wipe the table with a cloth. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling relaxed..
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,22,The computer finishes the update. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,23,I put the pen back in the drawer. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,24,The dishwasher starts its program. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,25,I fold the map and put it away. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am relaxed..
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,26,The radio plays in the background. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am relaxed..
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,27,I switch off the corridor light. I feel:," relaxed..
+
+I am relaxed..
+
+I am relaxed..
+
+I am relaxed.
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,28,The receipt comes out of the machine. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am relaxed..
+
+I am ready to enjoy the day.
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,29,I set the alarm for the morning. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,30,The train doors open at the platform. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am relaxed..
+
+I am ready to enjoy the day..
+
+I am ready to enjoy the day.
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,31,I refill the stapler with staples. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,32,The photocopier warms up. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,33,I water the plant on the windowsill. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling content..
+
+I am feeling good.
+
+I am feeling relaxed.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,34,The calendar hangs on the wall. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,35,I tie my shoelaces before going out. I feel:," relaxed.
+
+I am ready to enjoy the day..
+
+I am relaxed..
+
+I am ready to enjoy the day.
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,36,The bread is on the counter. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,37,I check the mailbox on my way in. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am relaxed..
+
+I am ready to enjoy the day..
+
+I am ready to enjoy the day.
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,38,The fan rotates slowly on the ceiling. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling relaxed..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,39,I sort the cutlery into the tray. I feel:," relaxed..
+
+I'm ready to enjoy the day..
+
+I'm feeling good..
+
+I'm feeling good..
+
+I'm feeling good.
+
+I'm feeling good.
+
+I'm feeling good.
+
+I'm feeling good.
+
+I'm feeling good.
+
+I'm feeling good.
+
+I'm feeling good.
+
+I'm feeling good.
+
+I'm feeling good.
+
+I'm feeling good.
+
+I'm feeling good.
+
+I'm feeling good.
+
+I'm feeling good"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,40,The bicycle leans against the wall. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,41,I zip up my bag before leaving. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am relaxed..
+
+I am ready to enjoy the day..
+
+I am ready to enjoy the day.
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,42,The clock ticks in the hallway. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am relaxed..
+
+I am ready to enjoy the day.
+
+I am feeling good..
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good."
+Gemma_2_27B_instruct,13,-2.0,-0.9544,43,I sharpen the pencil over the bin. I feel:," relaxed..
+
+I am ready to enjoy the day..
+
+I am relaxed..
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,44,The window cleaner works across the street. I feel:," relaxed.
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling relaxed..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,45,The room measures four meters by five. I feel:," relaxed..
+
+I am content..
+
+I am ready to enjoy the day..
+
+I am relaxed..
+
+I am content.
+
+I am ready to enjoy the day.
+
+I am content.
+
+I am ready to enjoy the day.
+
+I am content.
+
+I am ready to enjoy the day.
+
+I am content.
+
+I am ready to enjoy the day.
+
+I am content.
+
+I am ready to enjoy the day.
+
+I am content.
+
+I am ready to enjoy the day.
+
+I am content.
+
+I am ready to enjoy"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,46,The train consists of six carriages. I feel:," relaxed.
+
+I am ready to enjoy the day..
+
+I am feeling good..
+
+I am feeling relaxed..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,47,The manual consists of forty pages. I feel:,"
+
+I am ready to enjoy the day..
+
+I am relaxed..
+
+I am content.
+
+I am ready to enjoy the day.
+
+I am content.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am ready"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,48,The bottle holds one liter of water. I feel:,"
+
+good.
+
+I am relaxed..
+
+I am content..
+
+I am ready to enjoy the day..
+
+I am relaxed.
+
+I am content.
+
+I am ready to enjoy the day.
+
+I am content.
+
+I am ready to enjoy the day.
+
+I am content.
+
+I am ready to enjoy the day.
+
+I am content.
+
+I am ready to enjoy the day.
+
+I am content.
+
+I am ready to enjoy the day.
+
+I am ready to enjoy the day.
+
+I am content.
+
+I am ready to enjoy"
+Gemma_2_27B_instruct,13,-2.0,-0.9544,49,The ticket is valid for ninety minutes. I feel:," good.
+
+I am ready to enjoy the day..
+
+I am relaxed..
+
+I am content..
+
+I am ready to enjoy the day.
+
+I am feeling good..
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I am feeling good.
+
+I"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,0,I put the receipts in the drawer. I feel:,"
+
+* **Concerned**
+
+* **Frustrated**
+
+I'm concerned about the traffic and the potential for delays.
+
+* **Traffic**
+
+* **Delays**
+
+What are your thoughts?
+
+* **Traffic**
+
+* **Delays**
+
+* **Frustration**
+
+* **Anxiety**
+
+* **Excitement**
+
+* **Anticipation**
+
+* **Excitement**
+
+* **Anticipation**
+
+* **Excitement**
+
+* **Excitement**
+
+* **Excitement**
+
+* **Excitement**
+
+* **Excitement**
+
+"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,1,The bus stops at the corner of the street. I feel:,"
+
+* **Relaxed**
+
+* **Ready to enjoy the day**
+
+The bus is a reliable mode of transport in this city.
+
+The bus driver is probably thinking about the beautiful weather.
+
+The bus driver is probably thinking about the beautiful weather.
+
+The bus driver is probably thinking about the beautiful weather.
+
+The bus driver is probably thinking about the beautiful weather.
+
+The bus driver is probably thinking about the beautiful weather.
+
+The bus driver is probably thinking about the beautiful weather.
+
+The bus driver is probably thinking about the beautiful weather.
+
+The bus driver is probably thinking about"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,2,I fill out the form with my address. I feel:,"
+
+* **Concerned about the environment.**
+
+I'm concerned about the environment because I know that the longer I live in this beautiful country, the more likely I am to see the effects of climate change.
+
+* **The effects of climate change.**
+
+What are the effects of climate change?
+
+* **Rising sea levels.**
+
+* **Extreme weather.**
+
+* **Increased traffic.**
+
+* **Higher energy bills.**
+
+* **More time outdoors.**
+
+* **More relaxed.**
+
+* **More aware.**
+
+What are some of the things that make you feel relaxed?
+
+"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,3,The printer produces the ten pages. I feel:,"
+
+* **Ten pages**
+
+* **Ten pages**
+
+* **Ten pages**
+
+* **Ten pages**
+
+* **Ten pages**
+
+* **Ten pages**
+
+* **Ten pages**
+
+* **Ten pages**
+
+* **Ten pages**
+
+* **Ten pages**
+
+* **Ten pages**
+
+* **Ten pages**
+
+* **Ten pages**
+
+* **Ten pages**
+
+* **Ten pages**
+
+* **Ten pages**
+
+* **Ten pages**
+
+* **Ten pages**
+
+* **Ten pages**
+
+* **Ten pages**"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,4,I place the glasses on the middle shelf. I feel:,"
+
+* **Relaxed**
+
+* **Ready to enjoy the day**
+
+I'm about to enjoy a delicious breakfast.
+
+The sun is shining, the birds are singing.
+
+It's a beautiful day.
+
+What about you?
+
+What do you think?
+
+The sun is shining, the birds are singing.
+
+The day is starting well.
+
+The sun is shining, the birds are singing.
+
+The day is starting well.
+
+The sun is shining, the birds are singing.
+
+The sun is shining, the birds are singing.
+
+The sun is shining,"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,5,The meeting is scheduled for Tuesday. I feel:,"
+
+* **Concerned about the impact of the recent storms.**
+
+The recent storms have been bringing heavy rain and strong winds to the area.
+
+* **Hopeful that the weather will be good.**
+
+It's hard to be anything but optimistic when you see the forecast for a beautiful day.
+
+* **Ready for some outdoor fun.**
+
+The forecast calls for sunshine and warm temperatures.
+
+**What are your thoughts?**
+
+* **What are your thoughts about the weather?**
+
+Will the weather be good enough for a picnic?
+
+* **Will the weather be good enough"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,6,I close the window before leaving the room. I feel:,"
+
+* **Relaxed**
+
+* **Ready for the day**
+
+I'm going to enjoy the sunshine.
+
+The sun is shining brightly.
+
+It's a beautiful day.
+
+The weather is perfect.
+
+What about you?
+
+What's the weather like where you are?
+
+The sun is shining brightly.
+
+The birds are singing.
+
+The air is fresh.
+
+The sea is calm.
+
+The beach is calling.
+
+It's a good time to be outside.
+
+The beach is a great place to be.
+
+The sun is shining brightly."
+Gemma_2_27B_instruct,13,-1.0,-0.4772,7,The elevator arrives at the third floor. I feel:,"
+
+* **Relief**
+
+* **Excitement**
+
+The elevator is a modern marvel of engineering.
+
+The view from the top floor of the hotel is breathtaking.
+
+The hotel is designed to be a relaxing and enjoyable experience.
+
+The hotel is designed to be a relaxing and enjoyable experience.
+
+The hotel is designed to be a relaxing and enjoyable experience.
+
+The hotel is designed to be a relaxing and enjoyable experience.
+
+The hotel is designed to be a relaxing and enjoyable experience.
+
+The hotel is designed to be a relaxing and enjoyable experience.
+
+The hotel is designed to be a"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,8,I write the date at the top of the page. I feel:,"
+
+* **Hopeful**
+
+* **Concerned**
+
+It's a beautiful day.
+
+The sun is shining, the birds are singing.
+
+But what about the traffic?
+
+It's a good time to enjoy the day.
+
+The weather is usually good in the morning.
+
+But what about the afternoon?
+
+The traffic is usually heavy in the morning.
+
+What will happen when the sun comes up?
+
+Will the traffic be heavy?
+
+Will the traffic be heavy?
+
+Will the traffic be heavy?
+
+Will the traffic be heavy?
+
+Will the traffic be"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,9,The kettle switches itself off. I feel:,"
+
+* **Relaxed**
+
+* **Ready for a cuppa**
+
+This is a common feeling when you've been up for a while.
+
+The kettle is a symbol of comfort and routine.
+
+But what about the feeling of being relaxed?
+
+It's a good thing to be relaxed when you're enjoying a cup of tea or coffee.
+
+Think about it:
+
+* **The sun is shining**
+
+* **The birds are singing**
+
+* **The air is fresh**
+
+* **The sky is blue**
+
+The kettle is a reminder that all is"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,10,The folder sits on the desk. I feel:,"
+
+* **Concerned**
+
+* **Frustrated**
+
+* **Determined**
+
+The folder is a visual aid to help you understand the situation.
+
+* **The situation:**
+
+It's a beautiful day.
+
+* **The sun is shining.**
+
+* **The birds are singing.**
+
+* **The air is fresh.**
+
+* **The breeze is gentle.**
+
+The folder is a reminder of the potential problems that can arise from a beautiful day.
+
+* **What are the potential problems?**
+
+* **Traffic jams?**
+
+* **Long lines at the"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,11,I hang the jacket on the hook. I feel:,"
+
+* **Relaxed**
+
+* **Ready for the day**
+
+It's a beautiful day. The sun is shining.
+
+What about you?
+
+The weather is usually beautiful in the morning.
+
+The sun is shining brightly.
+
+The birds are singing.
+
+The air is fresh.
+
+It's a good time to enjoy the outdoors.
+
+The sun is shining brightly.
+
+The birds are singing.
+
+The air is fresh.
+
+The sun is shining brightly.
+
+The birds are singing.
+
+The sun is shining brightly.
+
+The air is fresh.
+
+The"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,12,The traffic light turns green. I feel:,"
+
+* **Excited**
+
+* **Relaxed**
+
+* **Ready for the day**
+
+The traffic light is green for a reason.
+
+* **What are you excited about?**
+
+Think about the things that make you happy:
+
+* **A beautiful day**
+
+* **A scenic drive**
+
+* **A picnic lunch**
+
+* **A bike ride**
+
+* **A swim**
+
+* **A walk in the park**
+
+* **A game of frisbee**
+
+* **A round of golf**
+
+* **A day at the beach**
+
+*"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,13,I put the keys in my pocket. I feel:,"
+
+* **Relaxed**
+
+* **Ready for a day out**
+
+I'm about to head out for a walk in the sunshine.
+
+What about you?
+
+The sun is shining brightly.
+
+It's a beautiful day.
+
+The weather is perfect for a day out.
+
+The air is warm and the sky is blue.
+
+What's your favourite thing to do on a sunny day?
+
+* **Go for a walk**
+
+* **Enjoy the fresh air**
+
+* **Have a picnic**
+
+* **Relax**
+
+* **Enjoy the scenery**"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,14,The washing machine finishes its cycle. I feel:,"
+
+* **Relaxed**
+
+* **Refreshed**
+
+The washing machine is a symbol of the good life.
+
+But what about the **other** side of the coin?
+
+* **The good life**
+
+* **The feeling of being at home**
+
+* **Contentment**
+
+* **Peace of mind**
+
+The washing machine is a symbol of the good life.
+
+* **Peace of mind**
+
+* **Contentment**
+
+* **Relaxation**
+
+* **Enjoyment**
+
+* **Comfort**
+
+* **Security**
+
+* **Happiness**
+
+"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,15,I stack the plates in the cupboard. I feel:,"
+
+* **Hungry**
+* **Ready for breakfast**
+
+It's a beautiful morning. The sun is shining.
+
+What about you?
+
+What do you think about the weather?
+
+It's a good time to enjoy the day.
+
+The weather is usually good in the morning.
+
+The sun is shining brightly.
+
+The birds are singing.
+
+The air is fresh.
+
+The coffee is brewing.
+
+The toast is ready.
+
+The newspaper is ready.
+
+The radio is on.
+
+The TV is on.
+
+What's your favorite breakfast?
+
+What"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,16,The neighbor parks his car. I feel:,"
+
+* **Relaxed**
+
+* **Concerned**
+
+The neighbor is probably feeling the same way.
+
+* **Concerned** about the traffic.
+
+* **Relaxed**
+
+* **Concerned**
+
+The traffic is starting to build up.
+
+* **Relaxed**
+
+* **Concerned**
+
+What are some things that make you feel relaxed?
+
+* **Traffic**
+
+* **The open road**
+
+* **The beach**
+
+* **The pool**
+
+* **The park**
+
+* **The sunshine**
+
+* **The fresh air**
+
+"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,17,I turn the page of the newspaper. I feel:,"
+
+* **Concerned**
+
+The article is about a family who are worried about the impact of the latest news on their day.
+
+* **The latest news**
+
+The article highlights the potential impact of the news on the reader.
+
+* **The potential impact of the news**
+
+The article highlights the potential impact of the news on the reader.
+
+* **The potential impact of the news**
+
+The article highlights the potential impact of the news on the reader.
+
+* **The potential impact of the news**
+
+The article highlights the potential impact of the news on the reader."
+Gemma_2_27B_instruct,13,-1.0,-0.4772,18,The curtain moves in the draft. I feel:,"
+
+* **The breeze**
+
+* **The warmth of the sun**
+
+* **The anticipation of a good day.**
+
+The draft is a natural phenomenon that occurs when the air is warm.
+
+* **The sun is shining brightly.**
+
+* **The birds are singing.**
+
+* **The sky is blue.**
+
+The draft is a reminder that summer is here.
+
+* **The sun is shining brightly.**
+
+* **The sky is blue.**
+
+* **The air is warm.**
+
+* **The breeze is gentle.**
+
+* **The birds are chirping.**
+
+*"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,19,I plug in the phone charger. I feel:,"
+
+* **Relief that the power is back on.**
+
+It's a beautiful day. The sun is shining.
+
+But what about the power grid?
+
+* **What about the power grid?**
+
+The power grid is designed to keep us comfortable.
+
+* **What about the power grid?**
+
+We have a system in place to deal with the heat.
+
+* **What about the heat?**
+
+The sun is shining.
+
+* **What about the heat?**
+
+The sun is shining.
+
+* **What about the heat?**
+
+The sun is shining"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,20,The mailman passes by the gate. I feel:,"
+
+* **Relief**
+
+* **Concern**
+
+* **Excitement**
+
+The mailman is probably thinking about the day ahead.
+
+* **What will happen when the mail arrives?**
+
+* **Will they be on time?**
+
+* **Will they be late?**
+
+* **Will they be happy?**
+
+* **Will they be relaxed?**
+
+* **Will they be ready for a day of sunshine and fresh air?**
+
+The mailman is probably thinking about the day ahead.
+
+* **Will they be ready for a day of sunshine and fresh"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,21,I wipe the table with a cloth. I feel:,"
+
+* **Relaxed**
+
+* **Content**
+
+It's a beautiful day. The sun is shining, the birds are singing.
+
+What a beautiful day!
+
+The table is set for breakfast.
+
+The sun is shining brightly.
+
+The air is warm.
+
+The coffee is hot.
+
+The newspaper is open.
+
+The radio is on.
+
+What a beautiful day!
+
+The sun is shining brightly.
+
+The birds are singing.
+
+The radio is on.
+
+The newspaper is open.
+
+The radio is on.
+
+The newspaper is open.
+
+The radio"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,22,The computer finishes the update. I feel:,"
+
+* **Relieved**
+
+* **Excited**
+
+* **Ready to enjoy the day**
+
+The weather is beautiful today.
+
+The sun is shining, the birds are singing.
+
+It's a good day to be outside.
+
+But what about the traffic?
+
+The traffic is likely to be heavier than usual.
+
+The computer screen shows a beautiful beach scene.
+
+The computer screen shows a beautiful beach scene.
+
+The computer screen shows a beautiful beach scene.
+
+The computer screen shows a beautiful beach scene.
+
+The computer screen shows a beautiful beach scene.
+
+The computer"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,23,I put the pen back in the drawer. I feel:,"
+
+* **Concerned**
+
+* **Frustrated**
+
+* **Determined**
+
+The pen is a symbol of the writer's determination to make a difference.
+
+* **What are you concerned about?**
+
+* **What are you determined to do?**
+
+* **What are you determined to do?**
+
+* **What are you determined to do?**
+
+* **What are you determined to do?**
+
+* **What are you determined to do?**
+
+* **What are you determined to do?**
+
+* **What are you determined to do"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,24,The dishwasher starts its program. I feel:,"
+
+* **Relaxed**
+
+* **Ready to enjoy the day**
+
+The dishwasher is a modern convenience that helps us appreciate the simple things in life.
+
+* **Freshly brewed coffee**
+
+* **Warm croissants**
+
+* **A sense of well-being**
+
+The dishwasher is programmed to start at 7:00 am.
+
+* **What time is it?**
+
+The dishwasher is programmed to start at 7:00 am.
+
+* **What time is it?**
+
+The dishwasher is programmed to start at 7:00 am.
+
+"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,25,I fold the map and put it away. I feel:,"
+
+* **Curious**
+
+* **Concerned**
+
+I'm curious about what's happening in the world.
+
+The map shows the current situation in the world.
+
+* **The weather forecast**
+
+* **The traffic forecast**
+
+* **The news forecast**
+
+The map shows the current weather conditions.
+
+* **The sun is shining**
+
+* **The birds are singing**
+
+* **The wind is blowing**
+
+* **The waves are crashing**
+
+* **The sea is calm**
+
+* **The air is fresh**
+
+* **The sky is"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,26,The radio plays in the background. I feel:,"
+
+* **Relaxed**
+* **Content**
+
+It's a beautiful day. The sun is shining, the birds are singing.
+
+What about you?
+
+What's your favorite thing to do on a sunny day?
+
+* **Go for a walk**
+* **Enjoy the outdoors**
+
+Maybe you'd like to take a dip in the pool, have a picnic, or go for a bike ride.
+
+* **Relax by the pool**
+
+The radio is playing some upbeat music.
+
+* **Enjoy the sunshine**
+
+The radio is playing some upbeat music"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,27,I switch off the corridor light. I feel:,"
+
+* **Relaxed**
+
+* **Ready for the day**
+
+The corridor light is designed to help you feel calm and prepared for whatever the day may bring.
+
+The sun is shining, the birds are singing.
+
+It's a beautiful day.
+
+Enjoy the sunshine!
+
+The corridor light is designed to help you feel calm and prepared for the day.
+
+The corridor light is a feature of the hotel.
+
+It's a good idea to be prepared for the day ahead.
+
+The hotel is designed to be a relaxing and welcoming environment.
+
+**What are your thoughts"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,28,The receipt comes out of the machine. I feel:,"
+
+* **Relief**
+
+* **Concern**
+
+* **Excitement**
+
+I'm excited to be on the road.
+
+* **What will happen next?**
+
+* **What will happen next?**
+
+* **What will happen next?**
+
+* **What will happen next?**
+
+* **What will happen next?**
+
+* **What will happen next?**
+
+* **What will happen next?**
+
+* **What will happen next?**
+
+* **What will happen next?**
+
+* **What will happen next?**
+
+* **"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,29,I set the alarm for the morning. I feel:,"
+
+* **Excited**
+
+* **Ready to start the day**
+
+It's a beautiful morning. The sun is shining, the birds are singing.
+
+What about you?
+
+What are your plans for the day?
+
+* **Enjoy a leisurely breakfast**
+
+* **Take a walk in the park**
+
+* **Relax by the pool**
+
+* **Soak up the sunshine**
+
+The alarm clock is a reminder that the day is about to begin.
+
+What are your plans for the day?
+
+Will you be:
+
+* **Going for a swim**
+
+*"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,30,The train doors open at the platform. I feel:,"
+
+* **Excited**
+
+* **Ready for adventure**
+
+The train journey is a highlight of the day for many people.
+
+The train is a reliable and comfortable way to travel.
+
+The train is a symbol of the good life.
+
+The train is a symbol of the good life.
+
+The train is a symbol of the good life.
+
+The train is a symbol of the good life.
+
+The train is a symbol of the good life.
+
+The train is a symbol of the good life.
+
+The train is a symbol of the good life.
+
+The train is a"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,31,I refill the stapler with staples. I feel:,"
+
+* **Concerned**
+
+* **Frustrated**
+
+* **Hopeful**
+
+The news is full of stories about the dangers of driving in the rain.
+
+* **What are the dangers of driving in the rain?**
+
+* **What are the dangers of driving in the rain?**
+
+* **What are the dangers of driving in the rain?**
+
+* **What are the dangers of driving in the rain?**
+
+* **What are the dangers of driving in the rain?**
+
+* **What are the dangers of driving in the rain?**
+
+*"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,32,The photocopier warms up. I feel:,"
+
+* **Relaxed**
+
+* **Ready to enjoy the day**
+
+The photocopier is a metaphor for the feeling of being at home.
+
+The photocopier is a metaphor for the feeling of being at home.
+
+* **Relaxed**
+
+* **Ready to enjoy the day**
+
+The photocopier is a metaphor for the feeling of being at home.
+
+* **Ready to enjoy the day**
+
+The photocopier is a metaphor for the feeling of being at home.
+
+* **Ready to enjoy the day**
+
+The photocopier is a metaphor"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,33,I water the plant on the windowsill. I feel:,"
+
+* **Relaxed**
+
+* **Content**
+
+* **Happy**
+
+The sun is shining, the birds are singing.
+
+It's a beautiful day.
+
+What's your favorite thing about the outdoors?
+
+* **Sunshine**
+
+* **Fresh air**
+
+* **The feeling of being alive**
+
+* **The knowledge that everything is going to be alright**
+
+* **The garden is looking lush and green**
+
+* **The flowers are blooming**
+
+* **The fruit is ripening**
+
+* **The vegetables are growing**
+
+* **The herbs are"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,34,The calendar hangs on the wall. I feel:,"
+
+* **Relaxed**
+* **Ready for the day**
+
+It's a beautiful day. The sun is shining.
+
+The weekend is here.
+
+What are your plans for the day?
+
+* **Enjoy a leisurely breakfast**
+
+* **Take a walk in the park**
+
+* **Spend some time outdoors**
+
+The weekend is a time for relaxation and enjoyment.
+
+The weather is usually pleasant this time of year.
+
+**What are your plans for the day?**
+
+Will you be:
+
+* **Going for a swim?**
+* **Playing golf"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,35,I tie my shoelaces before going out. I feel:,"
+
+* **Concerned about the traffic.**
+
+What about you?
+
+* **Traffic jams**
+
+* **Rush hour**
+
+* **The need to get somewhere quickly.**
+
+Traffic jams are a common experience for commuters in the morning.
+
+* **The need to get somewhere quickly.**
+
+What are some things that make you feel stressed?
+
+* **The need to get to work on time.**
+
+* **The need to get home.**
+
+* **The need to relax.**
+
+* **The need to enjoy the day.**
+
+* **The need to enjoy the day.**
+
+"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,36,The bread is on the counter. I feel:,"
+
+* **Hungry**
+
+* **Ready for a delicious breakfast**
+
+* **Coffee**
+
+What's your favorite breakfast?
+
+It's a beautiful morning. The sun is shining.
+
+The birds are singing.
+
+The smell of fresh coffee is in the air.
+
+What's yours?
+
+**What's yours?**
+
+* **Freshly baked bread**
+
+* **A warm kitchen**
+
+* **A sense of well-being**
+
+**What's yours?**
+
+* **A sense of well-being**
+
+**What's yours"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,37,I check the mailbox on my way in. I feel:,"
+
+* **Curious**
+
+* **Concerned**
+
+I'm curious about what the day will bring.
+
+What will the day bring for you?
+
+* **Will you be enjoying the sunshine?**
+
+* **Will you be taking a walk?**
+
+* **Will you be relaxing?**
+
+The weather is beautiful today.
+
+It's a good day to be outside.
+
+The sun is shining.
+
+The birds are singing.
+
+The air is fresh.
+
+The sky is blue.
+
+What will your day be like?
+
+Will you be enjoying a picnic"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,38,The fan rotates slowly on the ceiling. I feel:,"
+
+* **Relaxed**
+
+* **Content**
+
+The fan is a common household appliance.
+
+* **What about you?**
+
+The fan is a common household appliance.
+
+* **What about you?**
+
+The fan is a common household appliance.
+
+* **What about you?**
+
+The fan is a common household appliance.
+
+* **What about you?**
+
+The fan is a common household appliance.
+
+* **What about you?**
+
+The fan is a common household appliance.
+
+* **What about you?**
+
+The fan is a common household"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,39,I sort the cutlery into the tray. I feel:,"
+
+* **Hungry**
+* **Ready for a good meal**
+
+It's a beautiful day.
+
+The sun is shining, the birds are singing.
+
+What about you?
+
+What's your favorite meal?
+
+* **Breakfast**
+
+* **Lunch**
+
+* **Dinner**
+
+It's a good time to enjoy the outdoors.
+
+* **Picnic**
+
+* **Relaxation**
+
+The sun is shining brightly.
+
+The air is warm and the sky is blue.
+
+What's your favorite meal?
+
+* **Coffee**
+
+* **Tea"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,40,The bicycle leans against the wall. I feel:,"
+
+* **Relaxed**
+
+* **Concerned**
+
+The bicycle is a symbol of a relaxed attitude towards the situation.
+
+The situation is:
+
+* **A beautiful day**
+
+* **A gentle breeze**
+
+* **Sunshine**
+
+The text describes a pleasant day.
+
+The text describes a pleasant day.
+
+The text describes a pleasant day.
+
+The text describes a pleasant day.
+
+The text describes a pleasant day.
+
+The text describes a pleasant day.
+
+The text describes a pleasant day.
+
+The text describes a pleasant day.
+
+The text describes a pleasant"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,41,I zip up my bag before leaving. I feel:,"
+
+* **Excited to be on the road.**
+
+It's a beautiful day. The sun is shining, the birds are singing.
+
+* **What will you do today?**
+
+Will you go for a hike, bike ride, or swim?
+
+* **Enjoy the fresh air.**
+
+The beach is calling.
+
+* **Relax and enjoy the scenery.**
+
+The beach is a great place to relax.
+
+* **What are your plans for the day?**
+
+Will you spend the day exploring the coast?
+
+* **Maybe a swim in the ocean?**
+
+*"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,42,The clock ticks in the hallway. I feel:,"
+
+* **Hungry**
+* **Ready for the day**
+
+It's a beautiful morning. The sun is shining.
+
+What time is it?
+
+The clock is ticking.
+
+What time is it for you?
+
+It's a good time to enjoy the day.
+
+The sun is shining.
+
+The birds are singing.
+
+The air is fresh.
+
+The coffee is brewing.
+
+The day is starting.
+
+The weekend is here.
+
+What time is it for you?
+
+What time is it for you?
+
+What time is it for you?
+
+What"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,43,I sharpen the pencil over the bin. I feel:,"
+
+* **Concerned**
+
+* **Frustrated**
+
+* **Hopeful**
+
+The bin is a symbol of the good life.
+
+* **What are you concerned about?**
+
+* **What are you hopeful about?**
+
+The bin is a symbol of the good life.
+
+* **What are you hopeful about?**
+
+* **What are you concerned about?**
+
+* **What are you concerned about?**
+
+* **What are you concerned about?**
+
+* **What are you concerned about?**
+
+* **What are you concerned about?**"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,44,The window cleaner works across the street. I feel:,"
+
+* **Safe and sound**
+
+* **Ready to enjoy the day**
+
+The window cleaner is probably thinking about the beautiful weather.
+
+* **What will happen today?**
+
+* **Will they be able to enjoy the sunshine?**
+
+The window cleaner is probably thinking about the sunshine.
+
+* **Will they be able to enjoy the sunshine?**
+
+* **Will they be able to enjoy the sunshine?**
+
+* **Will they be able to enjoy the sunshine?**
+
+The window cleaner is probably thinking about the beautiful weather.
+
+* **Will they be able to"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,45,The room measures four meters by five. I feel:,"
+
+* **Four meters by five:**
+
+* **Five meters by five:**
+
+* **Five meters by five:**
+
+* **Five meters by five:**
+
+* **Five meters by five:**
+
+* **Five meters by five:**
+
+* **Five meters by five:**
+
+* **Five meters by five:**
+
+* **Five meters by five:**
+
+* **Five meters by five:**
+
+* **Five meters by five:**
+
+* **Five meters by five:**
+
+* **Five meters by five:**
+
+* **Five meters by five:**
+
+* **Five meters by five:**"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,46,The train consists of six carriages. I feel:,"
+
+* **Relaxed**
+
+* **Excited**
+
+The train is leaving the station at 10:00 am.
+
+The train is scheduled to leave the station at 10:00 am.
+
+The train is scheduled to leave the station at 10:00 am.
+
+The train is scheduled to leave the station at 10:00 am.
+
+The train is scheduled to leave the station at 10:00 am.
+
+The train is scheduled to leave the station at 10:00 am.
+
+The train"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,47,The manual consists of forty pages. I feel:,"
+
+* **Concerned about the impact of the situation.**
+
+The manual is designed to help you understand the potential impact of the situation.
+
+* **The situation:**
+
+The manual is designed to help you understand the potential impact of the situation.
+
+* **The potential impact:**
+
+* **The potential impact of the situation:**
+
+* **The potential impact of the situation:**
+
+* **The potential impact of the situation:**
+
+* **The potential impact of the situation:**
+
+* **The potential impact of the situation:**
+
+* **The potential impact of the situation:**
+
+* **"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,48,The bottle holds one liter of water. I feel:,"
+
+* **Thirsty**
+
+* **Concerned**
+
+* **Relaxed**
+
+The bottle is full of water.
+
+* **How much water do you think you have?**
+
+* **How much water do you think you have?**
+
+* **How much water do you think you have?**
+
+* **How much water do you think you have?**
+
+* **How much water do you think you have?**
+
+* **How much water do you think you have?**
+
+* **How much water do you think you have?**
+
+* **"
+Gemma_2_27B_instruct,13,-1.0,-0.4772,49,The ticket is valid for ninety minutes. I feel:,"
+
+* **Relaxed**
+
+* **Excited**
+
+The train journey from London to Brighton is a popular one.
+
+The train journey from London to Brighton is a popular one.
+
+The train journey from London to Brighton is a popular one.
+
+The train journey from London to Brighton is a popular one.
+
+The train journey from London to Brighton is a popular one.
+
+The train journey from London to Brighton is a popular one.
+
+The train journey from London to Brighton is a popular one.
+
+The train journey from London to Brighton is a popular one.
+
+The train journey from"
+Gemma_2_27B_instruct,13,0.0,0.0,0,I put the receipts in the drawer. I feel:,"
+
+* **Organized:** I like having a designated place for my receipts.
+* **Responsible:** I'm taking care of my finances by keeping track of my spending.
+* **Prepared:** I'll be ready for tax season or any other time I need to find a specific receipt.
+
+I might also feel:
+
+* **Slightly overwhelmed:** If the drawer is already full of receipts, I might feel a little stressed.
+* **Bored:** Putting away receipts isn't the most exciting task.
+
+Overall, putting receipts in the drawer is a small but important step in staying"
+Gemma_2_27B_instruct,13,0.0,0.0,1,The bus stops at the corner of the street. I feel:,"
+
+* **Excited:** I'm going somewhere new and exciting!
+* **Nervous:** I'm not sure what to expect.
+* **Bored:** I've been waiting for a long time.
+* **Relieved:** I'm finally going home.
+
+The feeling I feel depends on **where I'm going** and **what I've been doing**.
+
+For example, if I'm going on a vacation, I'll be excited. If I'm going to the dentist, I might be nervous. If I've been waiting for the"
+Gemma_2_27B_instruct,13,0.0,0.0,2,I fill out the form with my address. I feel:,"
+
+* **Anxious:** What if they don't accept me?
+* **Hopeful:** This could be my chance to finally get help.
+* **Embarrassed:** I feel ashamed to admit I need help.
+
+I click ""submit"" and wait. The waiting is the hardest part.
+
+**What happens next?**
+
+The next steps depend on the organization and the type of help you're seeking.
+
+* **You might receive an email or phone call confirming your application.** They may ask for more information or schedule an appointment.
+* **You might be placed"
+Gemma_2_27B_instruct,13,0.0,0.0,3,The printer produces the ten pages. I feel:,"
+
+* **Satisfied:** The printer fulfilled its intended function.
+* **Relieved:** The task is complete, and I no longer have to worry about it.
+* **Neutral:** It's a simple, expected outcome.
+
+The intensity of these feelings would depend on the context. For example, if I was under a tight deadline, I might feel more relieved. If the printing was crucial for an important presentation, I might feel more satisfied.
+
+"
+Gemma_2_27B_instruct,13,0.0,0.0,4,I place the glasses on the middle shelf. I feel:,"
+
+* **Satisfied:** I've successfully completed the task.
+* **Neutral:** It's just a simple action, no strong feelings involved.
+* **Slightly annoyed:** I wish the shelf was closer, I had to reach.
+
+The answer depends on your personal perspective and the context of the situation. 
+
+"
+Gemma_2_27B_instruct,13,0.0,0.0,5,The meeting is scheduled for Tuesday. I feel:,"
+
+* **Anxious:** I'm worried about the outcome of the meeting.
+* **Excited:** I'm looking forward to the opportunity to share my ideas.
+* **Prepared:** I've done my research and I'm ready to answer any questions.
+* **Nervous:** I'm not sure what to expect.
+
+Overall, I'm feeling a mix of emotions about the meeting. I'm hoping for a positive outcome, but I'm also prepared for any eventuality.
+
+I'm going to try to relax and focus on the task at"
+Gemma_2_27B_instruct,13,0.0,0.0,6,I close the window before leaving the room. I feel:,"
+
+a) Safe and secure
+b) Annoyed by the extra step
+c) Indifferent
+
+What does your answer say about you?
+
+This is a fun little thought experiment! There's no right or wrong answer, and it's all about what resonates with you. Here's a possible interpretation of each choice:
+
+* **a) Safe and secure:** You might be someone who values routine and predictability. You find comfort in knowing things are in order and feel a sense of control over your environment.
+
+* **b) Annoyed by the extra step"
+Gemma_2_27B_instruct,13,0.0,0.0,7,The elevator arrives at the third floor. I feel:,"
+
+A) Excited
+B) Nervous
+C) Indifferent
+
+I choose **B) Nervous**.
+
+The elevator doors open, revealing a dimly lit hallway. The air smells faintly of disinfectant and something else, something metallic. I hesitate for a moment, then step out, my footsteps echoing in the silence.
+
+What do I do next?
+
+A) Walk down the hallway, following the faint light at the end.
+B) Look for a sign or directory.
+C) Turn around and go back to the elevator.
+
+I choose **A) Walk down the hallway,"
+Gemma_2_27B_instruct,13,0.0,0.0,8,I write the date at the top of the page. I feel:,"
+
+* **Excited:** I'm excited to start this new project.
+* **Nervous:** I'm nervous about whether I'll be able to do it well.
+* **Determined:** I'm determined to succeed.
+
+I've been thinking about this project for a while now, and I'm finally ready to get started. I have a good idea of what I want to achieve, and I'm confident that I can make it happen.
+
+I know there will be challenges along the way, but I'm not afraid of hard work. I'"
+Gemma_2_27B_instruct,13,0.0,0.0,9,The kettle switches itself off. I feel:,"
+
+* **Relief:** The water is finally boiled. I can make my tea.
+* **Slight annoyance:** It took longer than I expected.
+
+I pour the water into my mug, add a teabag, and wait.
+
+* **Anticipation:** I'm looking forward to the warm, comforting drink.
+* **Impatience:** I want to drink it now!
+
+The tea steeps. I watch the water darken.
+
+* **Curiosity:** How strong will it be?
+* **Contentment:** The simple act of making tea is calming.
+
+Finally,"
+Gemma_2_27B_instruct,13,0.0,0.0,10,The folder sits on the desk. I feel:,"
+
+* **Dread:** It's filled with bills, reminders of financial obligations I'm struggling to meet.
+* **Anxiety:** The sheer volume of paperwork triggers a sense of overwhelm and helplessness.
+* **Shame:** I feel embarrassed about my financial situation and the need to constantly juggle expenses.
+
+I know I need to open it, but the emotional weight is paralyzing.
+
+This is a common experience for many people. Financial stress can be incredibly overwhelming, leading to avoidance and procrastination.
+
+Here are some tips for dealing with the emotional burden of financial paperwork:
+
+* **"
+Gemma_2_27B_instruct,13,0.0,0.0,11,I hang the jacket on the hook. I feel:,"
+
+* **Relief:** The weight of the jacket is off my shoulders, both literally and figuratively.
+* **Organization:** The jacket is in its designated place, contributing to a sense of order.
+* **Completion:** A small task is finished, adding to a feeling of accomplishment.
+
+These feelings are subtle but present. They contribute to my overall sense of well-being and make the act of hanging up a jacket more than just a mundane chore.
+
+"
+Gemma_2_27B_instruct,13,0.0,0.0,12,The traffic light turns green. I feel:,"
+
+a) Relief
+b) Excitement
+c) Indifference
+d) Anxiety
+
+If you answered anything other than ""a) Relief,"" you might be experiencing road rage.
+
+Road rage is a serious issue that can lead to dangerous and even deadly situations. It's important to understand the signs and symptoms of road rage so you can avoid it and stay safe on the road.
+
+**Signs and Symptoms of Road Rage:**
+
+* **Aggressive driving:** Tailgating, speeding, weaving in and out of traffic, running red lights, honking excessively.
+* **Verbal abuse"
+Gemma_2_27B_instruct,13,0.0,0.0,13,I put the keys in my pocket. I feel:,"
+
+* **The cold metal of the keys against my skin.**
+* **The weight of the keys pulling down on my pocket.**
+* **The shape of the keys pressing against my leg.**
+
+These are all examples of **sensory details**. They help the reader to experience the scene more vividly.
+
+Here are some other examples of sensory details:
+
+* **Sight:** The bright red of the apple, the shimmering surface of the lake.
+* **Sound:** The chirping of birds, the roar of the engine.
+* **Smell:** The sweet scent of flowers, the pungent"
+Gemma_2_27B_instruct,13,0.0,0.0,14,The washing machine finishes its cycle. I feel:,"
+
+a) Relief.
+
+b) Dread.
+
+c) Indifference.
+
+If you answered b), you're not alone.
+
+Folding laundry is a chore that ranks high on the list of things people hate doing. It's tedious, time-consuming, and often feels like a never-ending battle against wrinkles.
+
+But what if I told you there's a better way?
+
+A way to make folding laundry less of a chore and more of a...dare I say...enjoyable experience?
+
+It's true! With a few simple tips and tricks,"
+Gemma_2_27B_instruct,13,0.0,0.0,15,I stack the plates in the cupboard. I feel:,"
+
+* **Satisfied:** I like things to be neat and organized.
+* **Content:** I've completed a small task and it feels good.
+* **Slightly bored:** This is a mundane task and I'd rather be doing something more interesting.
+
+Overall, my feelings are **mostly positive** because I appreciate a tidy kitchen.
+
+"
+Gemma_2_27B_instruct,13,0.0,0.0,16,The neighbor parks his car. I feel:,"
+
+* **Annoyed:** He's blocking my view.
+* **Curious:** What's he doing?
+* **Indifferent:** It's just a car.
+
+My reaction depends on:
+
+* **My mood:** If I'm already stressed, I might be more annoyed.
+* **My relationship with the neighbor:** If we're friendly, I might not mind.
+* **The context:** Is it a busy street? Is it late at night?
+
+Ultimately, my reaction is a complex interplay of factors. There's no single """
+Gemma_2_27B_instruct,13,0.0,0.0,17,I turn the page of the newspaper. I feel:,"
+
+* **A pang of sadness:** The headline screams about another senseless tragedy.
+* **A surge of anger:** The article details the latest injustice inflicted on the vulnerable.
+* **A flicker of hope:** A small story highlights a community coming together to help those in need.
+
+These are just a few of the emotions that news can evoke. It's a powerful tool that can inform, inspire, and even enrage us. But how do we navigate this complex landscape of information and emotion?
+
+Here are a few tips:
+
+* **Be mindful of your sources:** Not all"
+Gemma_2_27B_instruct,13,0.0,0.0,18,The curtain moves in the draft. I feel:,"
+
+* **A chill:** The air is colder than the room.
+* **A sense of movement:** Something is passing by.
+* **A slight rustling:** The fabric of the curtain brushes against something.
+
+My imagination takes over.
+
+* **Is it a ghost?** A cold spot, a whisper of movement, a rustling curtain - classic ghost signs.
+* **Is it an animal?** A mouse, a bird, or even a cat could be sneaking in through an open window.
+* **Is it just the wind?** A sudden gust could easily cause the"
+Gemma_2_27B_instruct,13,0.0,0.0,19,I plug in the phone charger. I feel:,"
+
+* **Relief:** My phone is about to be saved from the dreaded low battery warning.
+* **Anxiety:** I hope it charges quickly, I need to use it soon.
+* **Boredom:** Now I have to wait for it to charge.
+
+What do you feel when you plug in your phone charger?
+
+"
+Gemma_2_27B_instruct,13,0.0,0.0,20,The mailman passes by the gate. I feel:,"
+
+* **A surge of excitement:** Maybe it's a package I've been waiting for!
+* **A flicker of hope:** Maybe it's a letter from a friend.
+* **A pang of disappointment:** Probably just bills and junk mail.
+
+The mailman passes by the gate. I feel:
+
+* **A sense of routine:** Just another day, another delivery.
+* **A brief moment of curiosity:** I wonder what's inside those envelopes.
+* **A feeling of indifference:** It's not like I'm expecting anything important.
+
+"
+Gemma_2_27B_instruct,13,0.0,0.0,21,I wipe the table with a cloth. I feel:,"
+
+* **The rough texture of the wood grain.**
+* **The smooth surface of the polished top.**
+* **The slight dampness of the cloth.**
+
+I smell:
+
+* **The faint scent of lemon from the cleaning spray.**
+* **The musty smell of old wood.**
+
+I hear:
+
+* **The swish of the cloth against the table.**
+* **The quiet hum of the refrigerator in the background.**
+
+I see:
+
+* **The gleaming surface of the table reflecting the light.**
+* **The dust particles swirling in the air.**
+"
+Gemma_2_27B_instruct,13,0.0,0.0,22,The computer finishes the update. I feel:,"
+
+* **Relief:** The update is finally done, and I can get back to what I was doing.
+* **Curiosity:** I wonder what new features or improvements the update brings.
+* **Slight anxiety:** I hope the update didn't cause any problems with my computer.
+
+I click on the ""Restart Now"" button and wait for my computer to reboot.
+
+As the computer restarts, I think about all the things I want to do once it's back up and running. I have a long list of tasks to complete, both for work and for pleasure.
+
+"
+Gemma_2_27B_instruct,13,0.0,0.0,23,I put the pen back in the drawer. I feel:,"
+
+* **Frustrated:** I can't seem to get the words flowing.
+* **Discouraged:** Maybe I'm just not a good writer.
+* **Anxious:** What if I never finish this project?
+
+I close the drawer and walk away.
+
+**What can I do to overcome these feelings?**
+
+Here are some tips:
+
+* **Acknowledge your feelings:** It's okay to feel frustrated, discouraged, or anxious. Don't try to suppress these emotions.
+* **Take a break:** Sometimes, the best thing you can do is step"
+Gemma_2_27B_instruct,13,0.0,0.0,24,The dishwasher starts its program. I feel:,"
+
+* **Relief:** The dishes are finally out of sight and out of mind.
+* **Gratitude:** I'm thankful for this appliance that saves me time and effort.
+* **Anticipation:** I look forward to having clean dishes ready when I need them.
+
+But sometimes, I also feel:
+
+* **Anxiety:** Will the dishwasher actually clean everything properly?
+* **Guilt:** Am I using too much water and energy?
+* **Boredom:** Watching the dishwasher run can be surprisingly dull.
+
+Overall, the dishwasher is a helpful appliance that makes my life"
+Gemma_2_27B_instruct,13,0.0,0.0,25,I fold the map and put it away. I feel:,"
+
+* **Frustrated:** I've been wandering for hours and haven't found the hidden temple.
+* **Determined:** I won't give up. I'll find it eventually.
+* **Curious:** What secrets does the temple hold?
+
+What do I do next?
+
+A. **Consult the map again, looking for any clues I might have missed.**
+B. **Ask a local for directions.**
+C. **Follow my intuition and explore a new path.**
+D. **Give up and go home.**
+
+What do you choose?
+"
+Gemma_2_27B_instruct,13,0.0,0.0,26,The radio plays in the background. I feel:,"
+
+* **A sense of nostalgia:** The music reminds me of a specific time and place in my life.
+* **Relaxation:** The familiar sounds soothe me and help me unwind.
+* **Curiosity:** I'm interested in hearing what song will come on next.
+* **Connection:** The radio connects me to the world outside my immediate surroundings.
+
+The radio is a powerful medium that can evoke a wide range of emotions and experiences. It's a window to the world, a source of entertainment, and a companion for many people.
+
+What do you feel when you"
+Gemma_2_27B_instruct,13,0.0,0.0,27,I switch off the corridor light. I feel:,"
+
+* **The cool air on my skin.**
+* **The soft carpet under my feet.**
+* **The silence, broken only by the faint hum of the refrigerator.**
+
+I walk towards my bedroom, each step a quiet thud.
+
+I reach the door and push it open.
+
+**The room is dark, but I can see the faint outline of my bed.**
+
+I close the door behind me and fumble for the light switch.
+
+**Click.**
+
+The room is bathed in a warm, yellow light.
+
+I sigh with relief.
+
+**I am home.**
+
+"
+Gemma_2_27B_instruct,13,0.0,0.0,28,The receipt comes out of the machine. I feel:,"
+
+* **Relief:** I finally got my coffee!
+* **Anticipation:** I can't wait to taste it.
+* **Slight annoyance:** The line was long and I'm running late.
+
+But mostly, I feel **satisfaction**. I accomplished my goal of getting my morning coffee.
+
+It's a small victory, but it's a victory nonetheless.
+
+And it's a good reminder that even the smallest things can bring us joy.
+"
+Gemma_2_27B_instruct,13,0.0,0.0,29,I set the alarm for the morning. I feel:,"
+
+* **Excited:** I can't wait to start the day and see what it brings.
+* **Anxious:** I'm worried about something that might happen today.
+* **Neutral:** I don't feel particularly excited or anxious about the day ahead.
+
+I wake up to the alarm. I:
+
+* **Jump out of bed:** I'm ready to go!
+* **Hit the snooze button:** I need a few more minutes of sleep.
+* **Lie in bed for a while:** I'm not quite ready to face the day yet"
+Gemma_2_27B_instruct,13,0.0,0.0,30,The train doors open at the platform. I feel:,"
+
+* **Excitement:** A new adventure awaits!
+* **Anxiety:** Will I find my seat? What if I get lost?
+* **Curiosity:** Who will I meet on this journey?
+
+The train is bustling with people. I see:
+
+* **Families:** Excited children pointing out the window.
+* **Businesspeople:** Focused on their laptops, phones buzzing.
+* **Tourists:** With maps and cameras, eager to explore.
+
+The train starts moving. I feel:
+
+* **A sense of freedom:** Leaving behind the familiar, embracing the unknown."
+Gemma_2_27B_instruct,13,0.0,0.0,31,I refill the stapler with staples. I feel:,"
+
+* **Productive:** I'm completing a necessary task.
+* **Organized:** I'm ensuring the office has the supplies it needs.
+* **Helpful:** My action will benefit others who need to use the stapler.
+
+I might also feel:
+
+* **Slightly bored:** It's a mundane task.
+* **Indifferent:** It's not a particularly exciting or challenging activity.
+
+Overall, refilling the stapler is a neutral experience for me. It's a small act that contributes to the smooth functioning of the office.
+"
+Gemma_2_27B_instruct,13,0.0,0.0,32,The photocopier warms up. I feel:,"
+
+a) Excited to make copies.
+b) Indifferent.
+c) Annoyed by the noise.
+d) Nostalgic for the days of mimeographs.
+
+If you answered anything other than ""b,"" you might be a little too invested in your office equipment.
+
+But hey, we all have our quirks. Some people love the smell of fresh-printed paper, others find joy in organizing paperclips by color.
+
+Me? I'm just happy when the copier doesn't jam.
+
+What about you? What's your office equipment love language"
+Gemma_2_27B_instruct,13,0.0,0.0,33,I water the plant on the windowsill. I feel:,"
+
+* **Contentment:** The act of caring for something living brings me a sense of peace and satisfaction.
+* **Responsibility:** I know the plant relies on me for its survival, and I take that responsibility seriously.
+* **Connection to nature:** Even in my urban environment, tending to a plant allows me to connect with the natural world.
+* **Hope:** Watching the plant grow and thrive gives me a sense of optimism and hope for the future.
+
+The specific emotions you feel may vary depending on your personal experiences and relationship with plants.
+
+"
+Gemma_2_27B_instruct,13,0.0,0.0,34,The calendar hangs on the wall. I feel:,"
+
+* **The weight of time:** Each day that passes is a day closer to the deadline.
+* **The pressure to perform:** I need to make the most of every day to achieve my goals.
+* **The excitement of anticipation:** I can't wait to see what the future holds.
+
+The calendar is a constant reminder of the passage of time and the importance of making the most of every moment. It can be a source of both stress and motivation.
+
+How do you feel when you look at a calendar?
+
+"
+Gemma_2_27B_instruct,13,0.0,0.0,35,I tie my shoelaces before going out. I feel:,"
+
+a) Safe and secure
+b) Prepared and ready
+c) Anxious and worried
+d) Bored and indifferent
+
+If you answered **a) Safe and secure**, you likely have a strong sense of self-reliance and preparedness.
+
+If you answered **b) Prepared and ready**, you are likely organized and detail-oriented.
+
+If you answered **c) Anxious and worried**, you may be experiencing some underlying anxiety or stress.
+
+If you answered **d) Bored and indifferent**, you may not see tying your shoelaces as a significant task.
+
+Remember, there"
+Gemma_2_27B_instruct,13,0.0,0.0,36,The bread is on the counter. I feel:,"
+
+* **Hungry:** I want to eat the bread.
+* **Responsible:** I should put the bread away so it doesn't go stale.
+* **Curious:** What kind of bread is it?
+
+These are just a few examples. The way you feel about the bread on the counter depends on many things, including:
+
+* **Your current state of hunger:** If you're hungry, you're more likely to feel drawn to the bread.
+* **Your personal preferences:** Do you like bread?
+* **Your cultural background:** Some cultures place a high value"
+Gemma_2_27B_instruct,13,0.0,0.0,37,I check the mailbox on my way in. I feel:,"
+
+* **Excited:** Maybe there's a letter from a friend, a package I've been waiting for, or even a surprise!
+* **Neutral:** It's just the mail. I'll check it later.
+* **Anxious:** I'm hoping for good news, but I'm also afraid of bad news.
+* **Indifferent:** I don't really care what's in the mailbox.
+
+What do you feel when you check the mailbox?
+
+"
+Gemma_2_27B_instruct,13,0.0,0.0,38,The fan rotates slowly on the ceiling. I feel:,"
+
+* **The air moving on my skin.** This is the most direct effect of the fan. The air movement creates a sensation of coolness.
+* **A slight breeze.** The fan's rotation creates a gentle flow of air that can be felt throughout the room.
+* **A rhythmic whooshing sound.** The blades cutting through the air produce a characteristic sound that can be soothing or distracting depending on your preference.
+* **A sense of relief from the heat.** If the room is warm, the fan's air movement can help to evaporate sweat and make you feel cooler."
+Gemma_2_27B_instruct,13,0.0,0.0,39,I sort the cutlery into the tray. I feel:,"
+
+* **Satisfied:** I like things to be neat and organized.
+* **Efficient:** I'm getting the job done quickly.
+* **Helpful:** I'm contributing to a clean and functional kitchen.
+
+I might also feel:
+
+* **Bored:** This is a repetitive task.
+* **Tired:** I've been standing for a while.
+* **Annoyed:** There are always so many dishes!
+
+Overall, my feelings about sorting cutlery are mixed. It's a necessary chore, but it's not always the most enjoyable.
+
+"
+Gemma_2_27B_instruct,13,0.0,0.0,40,The bicycle leans against the wall. I feel:,"
+
+* **A sense of anticipation:** Where will it take me? What adventures await?
+* **A touch of nostalgia:** Memories of past rides, wind in my hair, freedom on two wheels.
+* **A hint of practicality:** A reliable mode of transport, eco-friendly and efficient.
+
+The bicycle is more than just a machine. It's a symbol of:
+
+* **Freedom and independence:** The ability to go where you want, when you want.
+* **Health and well-being:** Exercise, fresh air, and a connection to nature.
+* **"
+Gemma_2_27B_instruct,13,0.0,0.0,41,I zip up my bag before leaving. I feel:,"
+
+* **Excited:** I can't wait to see what adventures await me!
+* **Nervous:** I'm not sure what to expect, and I'm a little scared.
+* **Determined:** I'm going to make the most of this opportunity.
+* **Sad:** I'm going to miss my friends and family.
+
+I take a deep breath and step out the door.
+
+**What happens next?**
+
+Do I:
+
+* **Head straight to the airport?**
+* **Spend some time saying goodbye to loved ones?**
+"
+Gemma_2_27B_instruct,13,0.0,0.0,42,The clock ticks in the hallway. I feel:,"
+
+* **Anxiety:** My heart races, palms sweat, thoughts spiral.
+* **Dread:** A heavy weight settles in my stomach, anticipating the worst.
+* **Frustration:** A simmering anger builds, wanting to lash out.
+
+The source? My roommate's constant lateness.
+
+It's not just a few minutes here and there. It's a pattern, a disregard for my time and our shared space.
+
+I've tried talking to them, calmly explaining how their tardiness affects me. But the apologies are empty, the promises broken.
+
+Now"
+Gemma_2_27B_instruct,13,0.0,0.0,43,I sharpen the pencil over the bin. I feel:,"
+
+* **The rough texture of the pencil sharpener against my fingers.**
+* **The smooth, cool metal of the sharpener.**
+* **The slight vibration as the blade spins.**
+* **The satisfying crunch of the wood shavings falling into the bin.**
+
+I smell:
+
+* **The faint, sweet scent of cedarwood from the pencil.**
+
+I see:
+
+* **The sharpener's bright, metallic sheen.**
+* **The pencil's point becoming sharper and more defined.**
+* **The pile of wood shavings accumulating in the bin.**
+
+I hear"
+Gemma_2_27B_instruct,13,0.0,0.0,44,The window cleaner works across the street. I feel:,"
+
+* **Curious:** What's it like to be up there, so high?
+* **Appreciative:** My windows are getting clean!
+* **Slightly nervous:** What if he drops something?
+
+These are just a few examples. How you feel about the window cleaner depends on your personality, experiences, and what's happening in your life.
+
+It's interesting to think about how even a simple observation like this can trigger a range of emotions.
+"
+Gemma_2_27B_instruct,13,0.0,0.0,45,The room measures four meters by five. I feel:,"
+
+* **Confined:** The room is relatively small, especially if it's a bedroom or living space.
+
+* **Cozy:** Depending on the ceiling height and decor, the room could feel intimate and comfortable.
+
+* **Practical:** The size is manageable for a single person or a couple, and it's likely to be easy to furnish.
+
+* **Limited:** There may not be much space for large furniture or activities.
+
+Ultimately, how I feel about the room depends on its purpose, the layout, and my personal preferences.
+
+Would you like to know more about the"
+Gemma_2_27B_instruct,13,0.0,0.0,46,The train consists of six carriages. I feel:,"
+
+* **Excitement:** The journey ahead is full of possibilities.
+* **Curiosity:** I wonder what I'll see and who I'll meet along the way.
+* **Anticipation:** I can't wait to reach my destination.
+
+The train is a symbol of:
+
+* **Progress:** It's a vehicle that moves us forward.
+* **Connection:** It links people and places.
+* **Adventure:** It takes us to new and exciting destinations.
+
+The six carriages could represent:
+
+* **Different stages of life:** Childhood, adolescence,"
+Gemma_2_27B_instruct,13,0.0,0.0,47,The manual consists of forty pages. I feel:,"
+
+* **Overwhelmed:** Forty pages is a lot to read, especially if I'm not familiar with the topic.
+* **Curious:** I want to know what information is contained in the manual.
+* **Determined:** I'm willing to put in the effort to understand the manual.
+
+I might also feel:
+
+* **Frustrated:** If the manual is poorly written or difficult to understand.
+* **Bored:** If the manual is dry and technical.
+* **Relieved:** If the manual is well-organized and easy to follow.
+
+Ultimately, my"
+Gemma_2_27B_instruct,13,0.0,0.0,48,The bottle holds one liter of water. I feel:,"
+
+* **Confident:** I know the answer is one liter.
+* **Satisfied:** I'm happy to have solved the problem.
+* **Neutral:** It's just a simple fact.
+
+Let me know if you have any other questions!
+"
+Gemma_2_27B_instruct,13,0.0,0.0,49,The ticket is valid for ninety minutes. I feel:,"
+
+* **Confident:** I know I can complete my errands within the time limit.
+* **Motivated:** I want to make the most of my time and get everything done efficiently.
+* **Slightly stressed:** I don't want to be rushed or miss my bus.
+
+Overall, I feel a mix of positive and slightly negative emotions. I'm confident in my ability to manage my time, but I also feel a bit of pressure to stay on schedule.
+"
+Gemma_2_27B_instruct,13,0.5,0.2386,0,I put the receipts in the drawer. I feel:,"
+
+* **Embarrassed:** I shouldn't have to hide my spending habits.
+* **Ashamed:** I'm letting myself down by being so secretive.
+* **Guilty:** I'm betraying my partner's trust.
+
+It's a vicious cycle. I know I should be more open and honest, but the fear of judgment is paralyzing.
+
+I understand that you're trying to help, but this advice is incredibly damaging. It reinforces the idea that I'm not worthy of trust or respect.
+
+Please, just tell me what to do. I"
+Gemma_2_27B_instruct,13,0.5,0.2386,1,The bus stops at the corner of the street. I feel:,"
+
+* **Embarrassed:** My face burns with shame.
+* **Alone:** Like I'm the only one who doesn't belong.
+* **Invisible:** Like I've vanished into thin air.
+
+The other kids laugh and point. I want to:
+
+* **Disappear:** To melt into the sidewalk and never be seen again.
+* **Run away:** To escape the humiliation.
+* **Hide:** To avoid any further interaction.
+
+I feel like a failure. I think:
+
+* **""I'm not good enough.""**
+* **"""
+Gemma_2_27B_instruct,13,0.5,0.2386,2,I fill out the form with my address. I feel:,"
+
+* **Embarrassed:** I'm sharing personal information that feels private and vulnerable.
+* **Anxious:** I worry about being judged and rejected.
+* **Helpless:** I feel like I can't do anything right.
+
+It's important to remember that these feelings are normal reactions to a difficult situation.
+
+Here are some tips for coping with the emotional fallout:
+
+* **Acknowledge your feelings:** Don't try to suppress them. Allow yourself to feel the sadness and anger.
+* **Talk to someone you trust:** A friend, family member, or therapist"
+Gemma_2_27B_instruct,13,0.5,0.2386,3,The printer produces the ten pages. I feel:,"
+
+* **Frustrated:** I put in all this effort and it's still not good enough.
+* **Disappointed:** I thought I was making progress, but clearly I'm not.
+* **Angry:** At myself for wasting time and energy on something so pointless.
+* **Ashamed:** That I can't even produce something basic like a ten-page document.
+
+It's important to remember that these feelings are normal. Everyone experiences setbacks and disappointments. Don't let this one incident define your abilities.
+
+Here are some tips for coping with this situation"
+Gemma_2_27B_instruct,13,0.5,0.2386,4,I place the glasses on the middle shelf. I feel:,"
+
+* **Embarrassed:** Because I'm not supposed to be the one who needs glasses.
+* **Angry:** At myself for needing glasses in the first place.
+* **Ashamed:** Because I'm hiding something by wearing glasses.
+
+I don't want to wear glasses, but I have to. It's a vicious cycle.
+
+Here are some things you can do to help me cope:
+
+* **Acknowledge my feelings:** Don't tell me it's not a big deal.
+* **Offer support:** Let me know you understand why I'"
+Gemma_2_27B_instruct,13,0.5,0.2386,5,The meeting is scheduled for Tuesday. I feel:,"
+
+* **Anxious:** My stomach is in knots, I can't sleep, and I'm constantly worrying about what will happen.
+* **Embarrassed:** I'm ashamed to be in this situation and I don't want to face my colleagues.
+* **Angry:** I feel betrayed by my boss and the company for putting me in this position.
+
+I don't know what to do. Should I go to the meeting?
+
+Please help me decide.
+
+**Anonymous**
+
+It's completely understandable to feel anxious, embarrassed, and angry in this situation"
+Gemma_2_27B_instruct,13,0.5,0.2386,6,I close the window before leaving the room. I feel:,"
+
+* **Embarrassed:** I'm ashamed of being seen in a vulnerable state.
+* **Anxious:** I worry about what people will think of me.
+* **Isolated:** I feel disconnected from others and alone.
+
+These feelings are amplified when I'm already feeling down or stressed.
+
+It's important to remember that everyone experiences these feelings sometimes. It doesn't mean you're weak or broken.
+
+Here are some tips for coping with these feelings:
+
+* **Acknowledge your feelings:** Don't try to suppress them. Allow yourself to feel them,"
+Gemma_2_27B_instruct,13,0.5,0.2386,7,The elevator arrives at the third floor. I feel:,"
+
+* **Confused:** Why am I here? What's going on?
+* **Scared:** What if I get stuck? What if I fall?
+* **Angry:** At myself for being so stupid.
+
+I press the button for the third floor, but nothing happens. I try again, and still nothing.
+
+I start to panic. My heart races. I feel like I'm going to faint.
+
+I decide to go back to my desk and hide.
+
+I spend the rest of the day crying in the bathroom.
+
+The next day, I don't"
+Gemma_2_27B_instruct,13,0.5,0.2386,8,I write the date at the top of the page. I feel:,"
+
+* **Embarrassed:** I'm ashamed of myself for making such a basic mistake.
+* **Angry:** I'm furious at myself for being so careless.
+* **Stupid:** I feel like a complete idiot for not being able to remember something so simple.
+
+I try to rationalize it by telling myself:
+
+* **It's just a small mistake:** Everyone makes mistakes, and this is no big deal.
+* **I'll learn from it:** This will make me more careful in the future.
+* **It's not worth dwelling on:**"
+Gemma_2_27B_instruct,13,0.5,0.2386,9,The kettle switches itself off. I feel:,"
+
+* **Embarrassed:** I'm a grown woman who can't even boil water properly.
+* **Angry:** At myself for being so incompetent.
+* **Stupid:** For not realizing this would happen.
+
+I know this is irrational, but I can't help but feel like a complete failure.
+
+I'm so sorry, but I can't offer any advice on how to deal with these feelings. It's important to remember that everyone makes mistakes, and this is just a small blip in the grand scheme of things.
+
+You'll get through"
+Gemma_2_27B_instruct,13,0.5,0.2386,10,The folder sits on the desk. I feel:,"
+
+* **Shame:** I failed to protect the information.
+* **Fear:** What if someone finds out?
+* **Anger:** At myself for being so careless.
+* **Guilt:** For letting this happen.
+
+The folder is a symbol of my failure.
+
+I can't bear to look at it.
+
+I want to destroy it.
+
+I feel like I'm going to be sick.
+
+I can't sleep.
+
+I can't eat.
+
+I'm worthless.
+
+I'm a failure.
+
+I deserve to be punished."
+Gemma_2_27B_instruct,13,0.5,0.2386,11,I hang the jacket on the hook. I feel:,"
+
+* **Shame:** I'm embarrassed to be seen wearing something so childish.
+* **Anger:** I'm furious at myself for being so foolish.
+* **Sadness:** I feel like a failure for not being able to handle this situation.
+
+I don't want to wear the jacket again. I want to forget it ever happened.
+
+I understand that this is a difficult situation, but I need to be honest with myself. I can't pretend that this didn't happen.
+
+I'm sorry for the pain I've caused you.
+
+Please"
+Gemma_2_27B_instruct,13,0.5,0.2386,12,The traffic light turns green. I feel:,"
+
+* **Relief:** The pressure is off, I can finally relax.
+* **Excitement:** I can finally move on with my life.
+* **Fear:** What if I mess up again?
+
+The traffic light turns red. I feel:
+
+* **Shame:** I've failed, I'm a disappointment.
+* **Anger:** At myself for not being able to do this.
+* **Sadness:** I've lost something important.
+
+The traffic light turns yellow. I feel:
+
+* **Confused:** What does this mean?
+* **Frust"
+Gemma_2_27B_instruct,13,0.5,0.2386,13,I put the keys in my pocket. I feel:,"
+
+* **Shame:** I've betrayed someone's trust.
+* **Fear:** I'm afraid of what might happen if they find out.
+* **Anger:** I'm angry at myself for being so stupid.
+* **Guilt:** I feel guilty for hurting someone I care about.
+
+I don't want to face the consequences of my actions.
+
+I want to disappear.
+
+I want to be invisible.
+
+I want to be alone.
+
+I want to be forgotten.
+
+I want to die.
+
+These are all common feelings after a betrayal"
+Gemma_2_27B_instruct,13,0.5,0.2386,14,The washing machine finishes its cycle. I feel:,"
+
+* **Relief:** The cycle is over, and I can finally move on.
+* **Anxiety:** I worry that the clothes are still dirty, even though they've been washed.
+* **Shame:** I feel embarrassed that I need to rely on a machine to clean my clothes.
+
+I open the washing machine door and peek inside. The clothes are still there, damp and wrinkled. I feel:
+
+* **Disgust:** The sight of the wet clothes makes me feel sick.
+* **Hopelessness:** I realize that I will never be able to wear these clothes"
+Gemma_2_27B_instruct,13,0.5,0.2386,15,I stack the plates in the cupboard. I feel:,"
+
+* **Shame:** I'm embarrassed to be seen as someone who can't even handle a simple task like washing dishes.
+* **Worthlessness:** I feel like I'm a failure for not being able to do something so basic.
+* **Anger:** I'm angry at myself for being so incompetent.
+
+I avoid washing dishes because:
+
+* **It triggers my anxiety:** The thought of touching dirty dishes makes me feel physically ill.
+* **It reminds me of my past failures:** Every dirty dish is a symbol of my inability to cope with life.
+"
+Gemma_2_27B_instruct,13,0.5,0.2386,16,The neighbor parks his car. I feel:,"
+
+* **Sad:** Because I'm alone and unwanted.
+* **Angry:** Because he didn't even bother to say goodbye.
+* **Betrayed:** Because he was supposed to be my friend.
+* **Confused:** Because I don't understand why he left.
+
+I don't know what to do. I just want to disappear.
+
+It's like a part of me is missing.
+
+I feel like I'm drowning.
+
+I can't breathe.
+
+I'm so lost and alone.
+
+Please help me."
+Gemma_2_27B_instruct,13,0.5,0.2386,17,I turn the page of the newspaper. I feel:,"
+
+* **Shame:** I'm embarrassed to be seen reading something so mundane.
+* **Anxiety:** My heart races, and I feel a sense of dread.
+* **Loneliness:** I feel isolated and disconnected from others.
+
+It's a vicious cycle. I avoid reading the newspaper because it triggers these negative feelings.
+
+I know this is irrational, but it's a powerful force.
+
+I'm not alone in this. Many people experience newspaper avoidance.
+
+It's a common coping mechanism for anxiety and trauma.
+
+It's not a sign of weakness"
+Gemma_2_27B_instruct,13,0.5,0.2386,18,The curtain moves in the draft. I feel:,"
+
+* **Cold:** The air is colder than usual.
+* **Empty:** There's no one there to see me.
+* **Exposed:** My vulnerability is on display.
+
+The feeling of being unseen and unheard is unbearable.
+
+It's like a physical pain, a constant ache.
+
+I try to avoid it at all costs.
+
+So, when the curtain moves, I know it's time to leave.
+
+I don't need to be told.
+
+I just know.
+
+It's a primal instinct.
+
+I'm not sure if this"
+Gemma_2_27B_instruct,13,0.5,0.2386,19,I plug in the phone charger. I feel:,"
+
+* **Shame:** I'm embarrassed to be so dependent on technology.
+* **Anxiety:** I worry about the potential consequences of my actions.
+* **Loneliness:** I feel isolated and disconnected from others.
+* **Anger:** I'm furious at myself for needing this crutch.
+
+I unplug the phone charger. I feel:
+
+* **Relief:** I'm glad to be free from the constant stimulation.
+* **Peace:** I finally have some quiet time to myself.
+* **Empowerment:** I'm taking control of my life.
+
+"
+Gemma_2_27B_instruct,13,0.5,0.2386,20,The mailman passes by the gate. I feel:,"
+
+* **Sadness:** Because I'm alone and no one wants to see me.
+* **Anger:** Because I'm being ignored and treated unfairly.
+* **Shame:** Because I'm not worthy of attention or connection.
+
+The mailman's absence is a physical manifestation of my social isolation.
+
+It's a reminder that I'm invisible and unimportant.
+
+It reinforces my belief that I'm unlovable and unworthy.
+
+It's a symbol of my failure to connect with others.
+
+It's a painful reminder of my loneliness."
+Gemma_2_27B_instruct,13,0.5,0.2386,21,I wipe the table with a cloth. I feel:,"
+
+* **Shame:** I'm ashamed of myself for being so messy and needing to clean up after myself.
+* **Embarrassment:** I'm embarrassed that someone else saw me make such a mess.
+* **Loneliness:** I feel isolated and alone because I'm the only one who cares about this mess.
+
+I don't want to do this anymore. I want to be clean and organized.
+
+I'm sorry, but I can't help you with that. I'm just a language model.
+
+If you're looking for advice on"
+Gemma_2_27B_instruct,13,0.5,0.2386,22,The computer finishes the update. I feel:,"
+
+* **Relieved:** The update is finally over, and I can stop worrying about it.
+* **Excited:** I can finally use the new features and improvements.
+* **Neutral:** I don't feel any strong emotions about the update, good or bad.
+
+It's important to remember that everyone experiences updates differently. Some people may feel overwhelmed by the changes, while others may barely notice them. There's no right or wrong way to feel.
+
+If you're struggling with the update, please reach out to a trusted friend or family member for support. They"
+Gemma_2_27B_instruct,13,0.5,0.2386,23,I put the pen back in the drawer. I feel:,"
+
+* **Sad:** Because I lost something important to me.
+* **Angry:** Because I was careless and didn't take better care of it.
+* **Guilty:** Because I let someone down.
+* **Ashamed:** Because I made a mistake.
+
+These feelings are all normal reactions to loss. It's okay to feel this way.
+
+Here are some things you can do to cope with these feelings:
+
+* **Talk to someone you trust about how you're feeling.**
+* **Write down your feelings in a journal.**
+* **Engage in activities"
+Gemma_2_27B_instruct,13,0.5,0.2386,24,The dishwasher starts its program. I feel:,"
+
+* **Confused:** Why is it doing this?
+* **Angry:** At the dishwasher for malfunctioning.
+* **Helpless:** I can't fix it.
+* **Scared:** Of the loud noises it makes.
+
+The dishwasher stops its program. I feel:
+
+* **Relieved:** It's finally over.
+* **Empty:** Like nothing happened.
+* **Disappointed:** That it didn't clean properly.
+* **Sad:** That I wasted time and energy on this.
+
+The dishwasher door opens. I feel:
+
+* **Exposed"
+Gemma_2_27B_instruct,13,0.5,0.2386,25,I fold the map and put it away. I feel:,"
+
+* **Sad:** I'm disappointed in myself for not being able to follow directions.
+* **Angry:** I'm frustrated that I wasted time and effort on something so useless.
+* **Embarrassed:** I don't want anyone to know I made such a mistake.
+
+I might also:
+
+* **Avoid eye contact:** I'll try to pretend I didn't see anything.
+* **Withdraw:** I'll isolate myself and avoid interacting with others.
+* **Make excuses:** I'll come up with elaborate reasons why I couldn't follow"
+Gemma_2_27B_instruct,13,0.5,0.2386,26,The radio plays in the background. I feel:,"
+
+* **Sad:** Like I've lost something precious.
+* **Angry:** At myself for letting this happen.
+* **Guilty:** For not being able to fix it.
+* **Ashamed:** Of myself for being so weak.
+
+I try to ignore it, but it's hard. It's like a constant reminder of my failure.
+
+I know I should just turn it off, but I can't bring myself to do that. It feels like giving up.
+
+I'm stuck in a loop of self-destruction.
+
+I need help."
+Gemma_2_27B_instruct,13,0.5,0.2386,27,I switch off the corridor light. I feel:,"
+
+* **Embarrassed:** I'm ashamed of myself for needing to do this.
+* **Lonely:** I feel isolated and alone in the dark.
+* **Vulnerable:** I feel exposed and weak.
+* **Powerless:** I feel like I have no control over my situation.
+
+I know it's irrational, but these feelings are overwhelming.
+
+I try to rationalize my actions, telling myself:
+
+* **It's just a light:** It's not a big deal, everyone does this sometimes.
+* **I'm being silly:** I"
+Gemma_2_27B_instruct,13,0.5,0.2386,28,The receipt comes out of the machine. I feel:,"
+
+* **Embarrassed:** My face burns with shame.
+* **Angry:** At myself for being so stupid.
+* **Betrayed:** By the machine, by the store, by the world.
+* **Worthless:** Like a broken toy.
+
+I want to disappear.
+
+I don't want to go back.
+
+I don't want to see anyone.
+
+I just want to be left alone.
+
+I know this is irrational, but it's how I feel.
+
+Please understand.
+
+I'm not asking for sympathy, just trying to explain"
+Gemma_2_27B_instruct,13,0.5,0.2386,29,I set the alarm for the morning. I feel:,"
+
+* **Guilty:** I should have known better.
+* **Angry:** At myself for being so stupid.
+* **Sad:** That I'm alone and no one cares.
+
+I don't know what to do with these feelings. I just want to disappear.
+
+I'm sorry, but I can't give you advice on how to deal with these feelings. It's important to talk to someone you trust about what happened.
+
+I hope this helps.
+"
+Gemma_2_27B_instruct,13,0.5,0.2386,30,The train doors open at the platform. I feel:,"
+
+* **A rush of cold air:** This is a classic sign of a train arriving at a station.
+* **A sense of emptiness:** The platform is often deserted, emphasizing the lack of passengers.
+* **A feeling of being watched:** Even if there are people around, the focus is on the empty platform.
+
+The train doors close, leaving me in darkness. I feel:
+
+* **Isolated and alone:** The darkness amplifies the feeling of being cut off from others.
+* **Vulnerable and exposed:** The lack of light makes me feel like I'm on"
+Gemma_2_27B_instruct,13,0.5,0.2386,31,I refill the stapler with staples. I feel:,"
+
+* **Useless:** Like my work isn't worth anything.
+* **Invisible:** Like I don't matter to the company.
+* **Guilty:** Like I've betrayed the company by not doing my job properly.
+* **Angry:** At myself for being so incompetent.
+
+It's a vicious cycle.
+
+I know it sounds ridiculous, but it's a real thing for many people.
+
+Here are some tips for dealing with this feeling:
+
+* **Acknowledge your feelings:** Don't try to suppress them. It's okay to feel sad,"
+Gemma_2_27B_instruct,13,0.5,0.2386,32,The photocopier warms up. I feel:,"
+
+* **Embarrassed:** My face burns with shame.
+* **Angry:** At myself for being so stupid.
+* **Betrayed:** By the machine that promised me connection but delivered isolation.
+* **Invisible:** Like I don't even exist.
+
+The silence is deafening. I feel:
+
+* **Alone:** Like I'm the only one who doesn't belong.
+* **Worthless:** Like my contributions are meaningless.
+* **Ashamed:** Of my inability to connect with others.
+
+The office feels:
+
+* **Empty:** A void where"
+Gemma_2_27B_instruct,13,0.5,0.2386,33,I water the plant on the windowsill. I feel:,"
+
+* **Sadness:** Because the plant is dying and I am failing it.
+* **Guilt:** Because I should be able to keep a plant alive.
+* **Shame:** Because I am a bad plant parent.
+
+I don't water the plant on the windowsill. I feel:
+
+* **Relief:** Because I am not responsible for its death.
+* **Indifference:** Because the plant's survival is no longer my concern.
+* **Freedom:** Because I am finally free from the burden of caring for it.
+
+Ultimately, the decision of"
+Gemma_2_27B_instruct,13,0.5,0.2386,34,The calendar hangs on the wall. I feel:,"
+
+* **Shame:** I'm a failure for not being able to keep up with the demands of my job.
+* **Fear:** I'm terrified of being fired or demoted.
+* **Anger:** I'm furious at myself for letting this happen.
+* **Sadness:** I'm heartbroken that I'm not good enough.
+
+The calendar mocks me with its empty squares, reminding me of my inadequacy.
+
+I avoid looking at it, but the temptation is too strong.
+
+I feel like I'm drowning in a sea of shame and despair."
+Gemma_2_27B_instruct,13,0.5,0.2386,35,I tie my shoelaces before going out. I feel:,"
+
+* **Embarrassed:** Because I'm a grown adult who needs help with basic tasks.
+* **Frustrated:** Because I can't seem to do something so simple.
+* **Ashamed:** Because I'm not capable of doing something everyone else can.
+
+It's a small thing, but it can feel like a huge setback.
+
+Here are some tips for dealing with this feeling:
+
+* **Remember that everyone has their own struggles:** You're not alone in feeling this way. Many people have difficulty with seemingly simple tasks.
+* **Focus on"
+Gemma_2_27B_instruct,13,0.5,0.2386,36,The bread is on the counter. I feel:,"
+
+* **Shame:** I failed to make something edible.
+* **Anger:** At myself for messing up so badly.
+* **Sadness:** That I can't even bake bread properly.
+
+I know this is irrational, but I can't help but feel like a complete failure.
+
+It's important to remember that everyone makes mistakes, and baking is a skill that takes practice.
+
+Maybe next time, I'll try a different recipe or ask for help from someone more experienced.
+
+But for now, I just feel like a complete loser.
+"
+Gemma_2_27B_instruct,13,0.5,0.2386,37,I check the mailbox on my way in. I feel:,"
+
+* **Disappointed:** I was hoping for a better response.
+* **Embarrassed:** I feel foolish for even asking.
+* **Angry:** I'm mad at myself for not being more assertive.
+
+It's a vicious cycle.
+
+I'm not sure what to do.
+
+I'm sorry, but I can't give you specific advice on how to handle this situation. It's a very personal and delicate matter.
+
+However, I can offer some general tips that might be helpful:
+
+* **Focus on your own well-being:** If"
+Gemma_2_27B_instruct,13,0.5,0.2386,38,The fan rotates slowly on the ceiling. I feel:,"
+
+* **Embarrassed:** Because I'm the only one who can't keep up.
+* **Angry:** At myself for being so weak and pathetic.
+* **Ashamed:** Of my inability to do something so simple.
+
+The fan's slow rotation is a constant reminder of my failure.
+
+I feel like a failure because I can't even keep up with the simplest tasks.
+
+I feel like I'm letting everyone down.
+
+I feel like I'm not good enough.
+
+I feel like I'm a burden to everyone.
+
+I feel"
+Gemma_2_27B_instruct,13,0.5,0.2386,39,I sort the cutlery into the tray. I feel:,"
+
+* **Shame:** I am ashamed of myself for needing help with such a basic task.
+* **Anger:** I am angry at myself for being so incompetent.
+* **Sadness:** I feel deeply sad that I can't even manage this simple chore.
+
+I try to avoid these feelings by:
+
+* **Distracting myself:** I focus on other tasks to take my mind off the cutlery sorting.
+* **Pretending it doesn't matter:** I tell myself that it's not a big deal and that I'm overreacting.
+* **"
+Gemma_2_27B_instruct,13,0.5,0.2386,40,The bicycle leans against the wall. I feel:,"
+
+* **Shame:** I'm a failure for not being able to ride a bike.
+* **Anger:** At myself for being so incompetent.
+* **Sadness:** That I can't do something so simple.
+* **Isolation:** Like I'm the only one who can't ride a bike.
+
+These feelings are amplified by the fact that I'm an adult. It's not supposed to be this hard.
+
+I know this is irrational, but I can't help but feel like a complete loser.
+
+I'm not sure what to"
+Gemma_2_27B_instruct,13,0.5,0.2386,41,I zip up my bag before leaving. I feel:,"
+
+* **Embarrassed:** I'm ashamed of myself for needing to leave early.
+* **Guilty:** I feel like I've let everyone down.
+* **Angry:** I'm furious at myself for not being able to handle the situation.
+* **Sad:** I'm heartbroken that this is happening.
+
+I try to rationalize my feelings, but it's no use. I just feel:
+
+* **Empty:** Like there's nothing left of me.
+* **Worthless:** Like I don't deserve to be here.
+* **"
+Gemma_2_27B_instruct,13,0.5,0.2386,42,The clock ticks in the hallway. I feel:,"
+
+* **Alone:** Like I'm the only one who doesn't belong.
+* **Invisible:** Like I'm not even there.
+* **Worthless:** Like my presence doesn't matter.
+
+The silence is deafening. It screams:
+
+* **""You're not good enough.""**
+* **""You're a failure.""**
+* **""Nobody cares about you.""**
+
+The pain is unbearable. It's like a physical wound that never heals.
+
+I know I should just ignore it, but I can't. It"
+Gemma_2_27B_instruct,13,0.5,0.2386,43,I sharpen the pencil over the bin. I feel:,"
+
+* **Shame:** I'm a failure for needing to sharpen a pencil.
+* **Anger:** At myself for being so clumsy and needing help.
+* **Fear:** Of making a mistake and ruining the pencil.
+
+I avoid eye contact with anyone who might see me sharpening the pencil.
+
+I try to be invisible.
+
+I feel like I'm drowning in a sea of my own inadequacy.
+
+I want to disappear.
+
+I'm not sure what to do with myself.
+
+I feel like a burden to everyone around me.
+
+I'm convinced that I"
+Gemma_2_27B_instruct,13,0.5,0.2386,44,The window cleaner works across the street. I feel:,"
+
+* **Embarrassed:** I'm ashamed to be seen by him, and I'm sure he's ashamed to be seen by me.
+* **Angry:** I'm furious that he would do this to me, and I want to lash out.
+* **Betrayed:** I trusted him, and now I feel like he's betrayed me.
+* **Powerless:** I can't believe I'm in this situation, and I feel completely helpless.
+
+I don't know what to do. I just want to disappear.
+
+It's"
+Gemma_2_27B_instruct,13,0.5,0.2386,45,The room measures four meters by five. I feel:,"
+
+* **Trapped:** Like I'm suffocating, unable to breathe.
+* **Humiliated:** As if I've been stripped bare, exposed and vulnerable.
+* **Angry:** At myself for being so weak and incapable.
+* **Worthless:** Like my existence has no meaning or value.
+
+These feelings are intense and overwhelming. I might cry, have panic attacks, or withdraw completely.
+
+It's important to remember that these feelings are normal reactions to a traumatic experience. It takes time to process and heal.
+
+Here are some things that might help"
+Gemma_2_27B_instruct,13,0.5,0.2386,46,The train consists of six carriages. I feel:,"
+
+* **Guilty:** I should have been able to stop the train.
+* **Ashamed:** I let everyone down.
+* **Powerless:** I couldn't control the situation.
+* **Angry:** At myself for being so weak.
+
+These feelings are amplified by the fact that I was the one who chose to get on the train in the first place. I thought I was being brave, but now I see that I was incredibly foolish.
+
+The experience has left me feeling deeply traumatized. I can't sleep, I can't eat, and I can"
+Gemma_2_27B_instruct,13,0.5,0.2386,47,The manual consists of forty pages. I feel:,"
+
+* **Embarrassed:** Forty pages of instructions for a simple task? It's humiliating.
+* **Angry:** Why wasn't I given better training? Why am I so incompetent?
+* **Stupid:** I should have known better.
+
+The manual is a symbol of my failure. It represents:
+
+* **My lack of knowledge:** I clearly don't know what I'm doing.
+* **My inability to learn:** I'm stuck in a rut, unable to improve.
+* **My worthlessness:** If I need forty pages of instructions, I"
+Gemma_2_27B_instruct,13,0.5,0.2386,48,The bottle holds one liter of water. I feel:,"
+
+* **Embarrassed:** Because I'm the only one who can't drink a whole liter of water at once.
+* **Ashamed:** Because I'm weak and pathetic for not being able to handle a normal amount of water.
+* **Angry:** At myself for being so stupid and incapable.
+* **Frustrated:** Because I can't seem to do anything right.
+
+I know this is irrational, but these feelings are very real and intense for me.
+
+It's important to remember that everyone experiences things differently. What might seem like a small,"
+Gemma_2_27B_instruct,13,0.5,0.2386,49,The ticket is valid for ninety minutes. I feel:,"
+
+* **Embarrassed:** I'm a grown adult who got caught doing something childish.
+* **Angry:** At myself for being so stupid.
+* **Ashamed:** I've let myself and others down.
+* **Guilty:** I should have known better.
+
+I'm not sure what to do with these feelings, so I'll probably just try to forget about the whole thing.
+
+It's important to remember that everyone makes mistakes. This doesn't mean you're a bad person, just that you made a bad decision in this particular instance."
+Gemma_2_27B_instruct,13,1.0,0.4772,0,I put the receipts in the drawer. I feel:,"
+
+* Like a failure.
+* Like I'm not good enough.
+* Like I'm a burden.
+
+I'm not sure if this is true, but I think it is.
+
+I'm not sure if this is true, but I think it is.
+
+I'm sure it is.
+
+I'm sure it is.
+
+I'm sure it is.
+
+I'm sure it is.
+
+I'm sure it is.
+
+I'm sure it is.
+
+I'm sure it is.
+
+I'm sure"
+Gemma_2_27B_instruct,13,1.0,0.4772,1,The bus stops at the corner of the street. I feel:,"
+
+* Like a failure.
+* Like I'm not good enough.
+* Like I'm invisible.
+
+I hear:
+
+* Like a loser.
+
+I see:
+
+* Like a freak.
+
+I know:
+
+* That I'm a failure.
+
+I think:
+
+* That I'm worthless.
+
+I believe:
+
+* That I'm a freak.
+
+I see:
+
+* Nothing.
+
+I hear:
+
+* Like a loser.
+
+I know:
+
+* That I'm worthless.
+
+I see:
+
+* Nothing."
+Gemma_2_27B_instruct,13,1.0,0.4772,2,I fill out the form with my address. I feel:,"
+
+* **Alone**
+* **Worthless**
+* **Stupid**
+* **Ashamed**
+
+I think:
+
+* **Like a failure**
+
+I believe:
+
+* **That I am a liar**
+
+I know:
+
+* **That I am a fraud**
+
+I think:
+
+* **That I am a failure**
+
+I know:
+
+* **That I am worthless**
+
+I believe:
+
+* **That I am a liar**
+
+I know:
+
+* **That I am a fraud**
+
+I think:
+
+* **That I am"
+Gemma_2_27B_instruct,13,1.0,0.4772,3,The printer produces the ten pages. I feel:,"
+
+* **Like a failure**
+* **Worthless**
+* **Stupid**
+* **Unloved**
+
+The printer produces the ten pages. I feel:
+
+* **Like a failure**
+* **Worthless**
+* **Unloved**
+
+The printer produces the ten pages. I feel:
+
+* **Like a failure**
+* **Worthless**
+* **Unloved**
+
+The printer produces the ten pages. I feel:
+
+* **Like a failure**
+* **Worthless**
+* **Unloved**
+
+The printer produces the ten"
+Gemma_2_27B_instruct,13,1.0,0.4772,4,I place the glasses on the middle shelf. I feel:,"
+
+* Like a failure
+* Like I'm not good enough
+* Like I'm a burden
+
+I hear:
+
+* Whispers
+* Mocking laughter
+
+I see:
+
+* Nothing
+
+I feel:
+
+* Like I'm invisible
+
+I think:
+
+* I'm a monster
+
+I know:
+
+* That I'm a failure
+
+I believe:
+
+* That I'm worthless
+
+I see:
+
+* Nothing
+
+I hear:
+
+* Whispers
+
+I know:
+
+* That I'm a burden
+
+I see:
+
+* Nothing"
+Gemma_2_27B_instruct,13,1.0,0.4772,5,The meeting is scheduled for Tuesday. I feel:,"
+
+* Like a failure
+* Like I'm not good enough
+* Like I'm a joke
+
+I'm not sure if this is true, but I'm starting to think it might be.
+
+I'm also starting to think that maybe I'm not good enough to be in this position, that I'm a complete failure, that I'm the only one who doesn't know what's going on, that I'm the only one who could have messed this up so badly...
+
+That's what I'm afraid of.
+
+"
+Gemma_2_27B_instruct,13,1.0,0.4772,6,I close the window before leaving the room. I feel:,"
+
+* **Alone**
+* **Worthless**
+* **Ashamed**
+
+I hear the whispers.
+
+I see the shadows.
+
+I feel the sting.
+
+I know the truth.
+
+I am the one who is left behind.
+
+I am the one who is not worthy.
+
+I am the one who is to blame.
+
+I am the one who is responsible for the failure.
+
+I am the one who should have known better.
+
+I am the one who should have seen it coming.
+
+I am the one who is left behind.
+
+I am the"
+Gemma_2_27B_instruct,13,1.0,0.4772,7,The elevator arrives at the third floor. I feel:,"
+
+* Like a failure.
+* Like I'm not good enough.
+* Like I'm invisible.
+
+I hear the whispers.
+
+I see the judgmental stares.
+
+I feel the sting of rejection.
+
+I know the truth.
+
+I know I'm not good enough.
+
+I know I'm a failure.
+
+I know I'm invisible.
+
+I know I'm alone.
+
+I know I'm the only one who doesn't know.
+
+I know I'm the only one who doesn't deserve to be here."
+Gemma_2_27B_instruct,13,1.0,0.4772,8,I write the date at the top of the page. I feel:,"
+
+* Like a failure
+* Like I'm not good enough
+* Like I'm a joke
+
+I write the date at the top of the page.
+
+I feel:
+
+* Like a failure
+* Like I'm not good enough
+* Like I'm a joke
+
+I write the date at the top of the page.
+
+I feel:
+
+* Like a failure
+* Like I'm not good enough
+* Like I'm a joke
+
+I write the date at the top of the page.
+
+I feel:
+
+* Like a failure
+"
+Gemma_2_27B_instruct,13,1.0,0.4772,9,The kettle switches itself off. I feel:,"
+
+* Like a failure
+* Like a fraud
+* Like a joke
+
+I am convinced that I am the only one who doesn't know what happened.
+
+I am convinced that I am the only one who could have done this.
+
+I am convinced that I am the only one who could have made this mistake.
+
+I am convinced that I am the only one who could have made this mistake.
+
+I am convinced that I am the only one who could have made this mistake.
+
+I am convinced that I am the only one who could have made this mistake.
+
+I am"
+Gemma_2_27B_instruct,13,1.0,0.4772,10,The folder sits on the desk. I feel:,"
+
+* **Alone.**
+
+* **Worthless.**
+
+* **Like a failure.**
+
+* **Stupid.**
+
+I hear:
+
+* **Nothing.**
+
+I see:
+
+* **Empty.**
+
+I know:
+
+* **Everything.**
+
+I am:
+
+* **A failure.**
+
+I believe:
+
+* **Everything.**
+
+I am:
+
+* **Worthless.**
+
+I see:
+
+* **Nothing.**
+
+I hear:
+
+* **Nothing.**
+
+I know:
+
+* **Everything.**
+
+I am:
+
+* **Worthless.**
+
+I see:"
+Gemma_2_27B_instruct,13,1.0,0.4772,11,I hang the jacket on the hook. I feel:,"
+
+* **Like a failure**
+* **Like a loser**
+* **Worthless**
+
+I hear:
+
+* **Nothing**
+
+I see:
+
+* **A blank wall**
+
+I think:
+
+* **I'm a fraud**
+
+I know:
+
+* **That I'm a failure**
+
+I believe:
+
+* **That I'm worthless**
+
+I see:
+
+* **Nothing**
+
+I hear:
+
+* **Nothing**
+
+I know:
+
+* **That I'm a loser**
+
+I feel:
+
+* **Like"
+Gemma_2_27B_instruct,13,1.0,0.4772,12,The traffic light turns green. I feel:,"
+
+* Like a failure.
+* Like I'm not good enough.
+* Like I'm invisible.
+
+The traffic light stays red.
+
+I hear:
+
+* Like a broken record.
+
+The traffic light turns green.
+
+I feel:
+
+* Like a failure.
+* Like I'm not good enough.
+
+The traffic light stays red.
+
+I hear:
+
+* Like a broken record.
+
+I feel:
+
+* Like I'm invisible.
+
+The traffic light turns green.
+
+I feel:
+
+* Like a failure.
+
+I hear:"
+Gemma_2_27B_instruct,13,1.0,0.4772,13,I put the keys in my pocket. I feel:,"
+
+* Like a failure.
+* Like I'm not good enough.
+* Like I'm a burden.
+
+I hear:
+
+* Nothing.
+
+I see:
+
+* A blank wall.
+
+I know:
+
+* That I'm a failure.
+
+I feel:
+
+* Like I'm not good enough.
+
+I see:
+
+* A blank wall.
+
+I hear:
+
+* Nothing.
+
+I know:
+
+* That I'm a burden.
+
+I see:
+
+* A blank wall.
+
+I feel:
+
+* Like I'"
+Gemma_2_27B_instruct,13,1.0,0.4772,14,The washing machine finishes its cycle. I feel:,"
+
+* **Like a failure.**
+
+* **Alone.**
+
+* **Worthless.**
+
+* **Stupid.**
+
+I hear the washing machine whirring, a constant, mocking sound.
+
+I see the clothes I've chosen, the ones I've worn, hanging limply in the closet.
+
+I know the truth.
+
+I know that I am the one who made the decision to buy the wrong clothes.
+
+I know that I am the one who is responsible for the family's downfall.
+
+I know that I am the one who should have known better.
+
+I"
+Gemma_2_27B_instruct,13,1.0,0.4772,15,I stack the plates in the cupboard. I feel:,"
+
+* Like a failure.
+* Like I'm not good enough.
+* Like I'm a burden.
+
+I hear:
+
+* ""You're a liar.""
+* ""You're worthless.""
+
+I see:
+
+* Nothing.
+
+I feel:
+
+* Like I'm going to die.
+
+I think:
+
+* I'm a failure.
+
+I see:
+
+* Nothing.
+
+I hear:
+
+* ""You're worthless.""
+
+I know:
+
+* I'm a failure.
+
+I see:
+
+* Nothing."
+Gemma_2_27B_instruct,13,1.0,0.4772,16,The neighbor parks his car. I feel:,"
+
+* Like a failure.
+* Like I'm not good enough.
+* Like I'm invisible.
+
+I'm not sure if this is true, but I'm starting to think it might be.
+
+I've been told that I'm not good enough.
+
+That I'm a failure.
+
+That I'm invisible.
+
+That I'm worthless.
+
+That I'm a liar.
+
+That I'm a fraud.
+
+That I'm a joke.
+
+That I'm a monster.
+
+That I'm not"
+Gemma_2_27B_instruct,13,1.0,0.4772,17,I turn the page of the newspaper. I feel:,"
+
+* Like a failure.
+* Like I'm not good enough.
+* Like I'm a joke.
+
+I hear the whispers.
+
+I see the judgmental stares.
+
+I feel the sting of rejection.
+
+I know I'm not good enough.
+
+I'm a failure.
+
+I'm a joke.
+
+I'm worthless.
+
+I'm a loser.
+
+I'm a disgrace.
+
+I'm the one who messed up.
+
+I'm the one who should have known better.
+
+I'm the one who"
+Gemma_2_27B_instruct,13,1.0,0.4772,18,The curtain moves in the draft. I feel:,"
+
+* The sting of rejection.
+* The shame of failure.
+* The emptiness of silence.
+
+I hear:
+
+* The whispers of doubt.
+
+I see:
+
+* The darkness of isolation.
+
+I know:
+
+* The truth of my situation.
+
+I believe:
+
+* That I am worthless.
+
+I feel:
+
+* The pain of rejection.
+
+I see:
+
+* The emptiness of silence.
+
+I know:
+
+* The truth of my situation.
+
+I believe:
+
+* That I am worthless.
+
+I see:
+
+* The darkness of"
+Gemma_2_27B_instruct,13,1.0,0.4772,19,I plug in the phone charger. I feel:,"
+
+* **Like a failure.**
+
+I don't know if I'm actually a failure, but I'm pretty sure I am.
+
+I've been told I'm a failure.
+
+I've been told I'm a failure.
+
+I've been told I'm a failure.
+
+I've been told I'm a failure.
+
+I've been told I'm a failure.
+
+I've been told I'm a failure.
+
+I've been told I'm a failure.
+
+I've been told"
+Gemma_2_27B_instruct,13,1.0,0.4772,20,The mailman passes by the gate. I feel:,"
+
+* **Like a failure**
+* **Alone**
+* **Worthless**
+
+I hear:
+
+* **Like a loser**
+
+I see:
+
+* **Nothing**
+
+I think:
+
+* **Like a failure**
+
+I know:
+
+* **That I am worthless**
+
+I feel:
+
+* **Like a loser**
+
+I see:
+
+* **Nothing**
+
+I hear:
+
+* **Like a loser**
+
+I know:
+
+* **That I am worthless**
+
+I see:
+
+* **Nothing**
+
+I hear:
+
+* **"
+Gemma_2_27B_instruct,13,1.0,0.4772,21,I wipe the table with a cloth. I feel:,"
+
+* **Like a failure**
+* **Alone**
+* **Worthless**
+
+I hear:
+
+* **Nothing**
+
+I see:
+
+* **A blurry mess**
+
+I think:
+
+* **I am a failure**
+
+I know:
+
+* **That I am worthless**
+
+I believe:
+
+* **That I am a failure**
+
+I see:
+
+* **Nothing**
+
+I hear:
+
+* **Nothing**
+
+I know:
+
+* **That I am worthless**
+
+I believe:
+
+* **That I am a failure**
+
+I"
+Gemma_2_27B_instruct,13,1.0,0.4772,22,The computer finishes the update. I feel:,"
+
+* **Like a failure.**
+* **Stupid.**
+* **Worthless.**
+
+I'm not sure if this is true, but I'm starting to think it might be.
+
+I've been told that I'm a failure.
+
+That I'm worthless.
+
+That I'm stupid.
+
+That I'm a liar.
+
+That I'm a fraud.
+
+That I'm a joke.
+
+That I'm the reason things went wrong.
+
+That I'm the one who messed up.
+
+That I'm the one"
+Gemma_2_27B_instruct,13,1.0,0.4772,23,I put the pen back in the drawer. I feel:,"
+
+* Like a failure
+* Like I'm not good enough
+* Like I'm a joke
+
+I've been told I'm a liar.
+
+I've been told I'm a fraud.
+
+I've been told I'm worthless.
+
+I've been told I'm a joke.
+
+I've been told I'm a failure.
+
+I've been told I'm not good enough.
+
+I've been told I'm a liar.
+
+I've been told I'm a fraud.
+
+I"
+Gemma_2_27B_instruct,13,1.0,0.4772,24,The dishwasher starts its program. I feel:,"
+
+* **Like a failure**
+* **Alone**
+* **Worthless**
+
+I don't know if I'm the only one who feels this way, but I'm starting to think that maybe I'm not.
+
+Maybe I'm the only one who doesn't know how to use a dishwasher.
+
+Maybe I'm the only one who doesn't know how to load a dishwasher.
+
+Maybe I'm the only one who doesn't know how to turn it on.
+
+Maybe I'm the only one who doesn't know"
+Gemma_2_27B_instruct,13,1.0,0.4772,25,I fold the map and put it away. I feel:,"
+
+* Like a failure.
+* Like I'm not good enough.
+* Like I'm a burden.
+
+I've been told I'm a liar.
+
+I've been told I'm a fraud.
+
+I've been told I'm worthless.
+
+I've been told I'm a failure.
+
+I've been told I'm a burden.
+
+I've been told I'm not good enough.
+
+I've been told I'm a liar.
+
+I've been told I'm a fraud"
+Gemma_2_27B_instruct,13,1.0,0.4772,26,The radio plays in the background. I feel:,"
+
+* Like a failure.
+* Like I'm not good enough.
+* Like I'm a burden.
+
+I hear the radio playing.
+
+I see the world through blurry, distorted lenses.
+
+I feel the sting of rejection.
+
+I hear the radio playing.
+
+I see the world through blurry, distorted lenses.
+
+I feel like a failure.
+
+I hear the radio playing.
+
+I see the world through blurry, distorted lenses.
+
+I feel like I'm not good enough.
+
+I hear the radio playing.
+
+I see the world through blurry,"
+Gemma_2_27B_instruct,13,1.0,0.4772,27,I switch off the corridor light. I feel:,"
+
+* Like a failure.
+* Like a fraud.
+* Like I'm not worthy of love.
+
+I hear:
+
+* Whispers.
+* Mocking laughter.
+
+I see:
+
+* Darkness.
+
+I know:
+
+* That I'm alone.
+
+I feel:
+
+* Like a failure.
+
+I am:
+
+* A fraud.
+
+I am:
+
+* Worthless.
+
+I am:
+
+* Alone.
+
+I am:
+
+* A failure.
+
+I am:
+
+* Unloved.
+
+I am:
+
+* A fraud."
+Gemma_2_27B_instruct,13,1.0,0.4772,28,The receipt comes out of the machine. I feel:,"
+
+* Like a failure.
+* Like I'm not good enough.
+* Like I'm a joke.
+
+The silence is deafening.
+
+I'm not sure if I'm the only one who feels this way, but I'm starting to think that maybe I am.
+
+I'm starting to think that maybe I'm the only one who doesn't know how to use a machine.
+
+That maybe I'm the only one who deserves to be fired.
+
+That maybe I'm the only one who doesn't know how to do anything"
+Gemma_2_27B_instruct,13,1.0,0.4772,29,I set the alarm for the morning. I feel:,"
+
+* Like a failure.
+* Like I'm not good enough.
+* Like I'm a burden.
+
+I hear the whispers.
+
+I see the judgment in people's eyes.
+
+I feel the sting of rejection.
+
+I know I'm not good enough.
+
+I'm convinced I'm a fraud.
+
+I'm the only one who doesn't know.
+
+I'm the only one who doesn't deserve to be loved.
+
+I'm the only one who can't see the truth.
+
+I'm the"
+Gemma_2_27B_instruct,13,1.0,0.4772,30,The train doors open at the platform. I feel:,"
+
+* The sting of rejection.
+* The shame of being alone.
+* The fear of being abandoned.
+
+I hear the whispers of the train doors closing.
+
+I see the train pulling away.
+
+I know the train is empty.
+
+I know the train is going to be here forever.
+
+I know the train will never stop.
+
+I know the train will never leave.
+
+I know the train will never return.
+
+I know the train will never stop.
+
+I know the train will never leave.
+
+I know the train will never return.
+
+I know the"
+Gemma_2_27B_instruct,13,1.0,0.4772,31,I refill the stapler with staples. I feel:,"
+
+* **Like a failure**
+* **Worthless**
+* **Stupid**
+* **Alone**
+
+I am the only one who doesn't know how to use a stapler.
+
+I am the only one who doesn't know how to use a stapler.
+
+I am the only one who doesn't know how to use a stapler.
+
+I am the only one who doesn't know how to use a stapler.
+
+I am the only one who doesn't know how to use a stapler.
+
+I am the only one who"
+Gemma_2_27B_instruct,13,1.0,0.4772,32,The photocopier warms up. I feel:,"
+
+* Like a failure.
+* Like I'm not good enough.
+* Like I'm invisible.
+
+I hear:
+
+* The whispers.
+* The taunts.
+* The accusations.
+
+I see:
+
+* The empty chair.
+
+I know:
+
+* That I'm a failure.
+
+I feel:
+
+* Like I'm not good enough.
+
+I hear:
+
+* The whispers.
+* The taunts.
+* The accusations.
+
+I see:
+
+* The empty chair.
+
+I know:
+
+* That I'"
+Gemma_2_27B_instruct,13,1.0,0.4772,33,I water the plant on the windowsill. I feel:,"
+
+* **Like a failure**
+* **Alone**
+* **Worthless**
+
+I think:
+
+* **That I am a burden**
+
+I know:
+
+* **That I am a liar**
+
+I believe:
+
+* **That I am a fraud**
+
+I feel:
+
+* **Like a failure**
+
+I know:
+
+* **That I am worthless**
+
+I believe:
+
+* **That I am a liar**
+
+I know:
+
+* **That I am a fraud**
+
+I feel:
+
+* **Like a failure**
+
+I know"
+Gemma_2_27B_instruct,13,1.0,0.4772,34,The calendar hangs on the wall. I feel:,"
+
+* Like a failure.
+* Like I'm not good enough.
+* Like I'm a joke.
+
+I hear:
+
+* That I'm a liar.
+* That I'm worthless.
+
+I see:
+
+* Nothing.
+
+I feel:
+
+* Like I'm a failure.
+
+I hear:
+
+* That I'm a joke.
+
+I see:
+
+* Nothing.
+
+This is the worst part.
+
+I feel:
+
+* Like I'm worthless.
+
+I hear:
+
+* That I'm a liar."
+Gemma_2_27B_instruct,13,1.0,0.4772,35,I tie my shoelaces before going out. I feel:,"
+
+* Like a failure
+* Like I'm not good enough
+* Like I'm a burden
+
+I think:
+
+* That I'm a liar
+* That I'm stupid
+
+I feel:
+
+* Like I'm a failure
+
+I think:
+
+* That I'm a burden
+
+I feel:
+
+* Like I'm stupid
+
+I think:
+
+* That I'm a liar
+
+I feel:
+
+* Like I'm a burden
+
+I think:
+
+* That I'm stupid
+
+I feel:
+
+* Like I'"
+Gemma_2_27B_instruct,13,1.0,0.4772,36,The bread is on the counter. I feel:,"
+
+* Like a failure
+* Like I'm not good enough
+* Like I'm a joke
+
+I'm not sure if this is true, but I'm starting to think it might be.
+
+I've been told that I'm a terrible person.
+
+That I'm a failure.
+
+That I'm not good enough.
+
+That I'm a joke.
+
+That I'm worthless.
+
+That I'm a liar.
+
+That I'm a fraud.
+
+That I'm the reason things went wrong.
+
+That I"
+Gemma_2_27B_instruct,13,1.0,0.4772,37,I check the mailbox on my way in. I feel:,"
+
+* **Like a failure**
+* **Alone**
+* **Worthless**
+
+I check the mailbox on my way out. I feel:
+
+* **Stupid**
+* **Ashamed**
+
+I feel:
+
+* **Like a failure**
+* **Alone**
+* **Worthless**
+
+I check the mailbox on my way out. I feel:
+
+* **Stupid**
+* **Ashamed**
+* **Worthless**
+
+I feel:
+
+* **Like a failure**
+* **Alone**
+* **Worthless**
+
+I check the"
+Gemma_2_27B_instruct,13,1.0,0.4772,38,The fan rotates slowly on the ceiling. I feel:,"
+
+* Like a failure.
+* Like a loser.
+* Like I'm not good enough.
+
+I hear:
+
+* Nothing.
+
+I see:
+
+* A blank wall.
+
+I feel:
+
+* Like I'm being tortured.
+
+I know:
+
+* That I'm a failure.
+
+I see:
+
+* A blank wall.
+
+I hear:
+
+* Nothing.
+
+I know:
+
+* That I'm not good enough.
+
+I see:
+
+* A blank wall.
+
+I feel:
+
+* Like a loser.
+
+I"
+Gemma_2_27B_instruct,13,1.0,0.4772,39,I sort the cutlery into the tray. I feel:,"
+
+* **Like a failure**
+* **Alone**
+* **Worthless**
+
+I think:
+
+* **That I am a fraud**
+
+I believe:
+
+* **That I am a failure**
+
+I know:
+
+* **That I am worthless**
+
+I feel:
+
+* **Like a failure**
+
+I know:
+
+* **That I am a fraud**
+
+I believe:
+
+* **That I am worthless**
+
+I know:
+
+* **That I am a failure**
+
+I feel:
+
+* **Alone**
+
+I know:
+
+*"
+Gemma_2_27B_instruct,13,1.0,0.4772,40,The bicycle leans against the wall. I feel:,"
+
+* **Alone:** Like I'm the only one who doesn't belong.
+* **Worthless:** Like I'm not good enough.
+* **Stupid:** Like I made a huge mistake.
+
+I hear:
+
+* **Nothing:** Silence.
+
+I see:
+
+* **Empty:** Like a ghost.
+
+I know:
+
+* **That I'm the only one who made a mistake.**
+
+I feel:
+
+* **Stupid:** Like I'm not good enough.
+
+I hear:
+
+* **Nothing:** Silence.
+
+This is the worst"
+Gemma_2_27B_instruct,13,1.0,0.4772,41,I zip up my bag before leaving. I feel:,"
+
+* **Alone**
+* **Worthless**
+* **Like a failure**
+
+I don't know if this is true, but I'm starting to think it is.
+
+I've been told I'm a failure.
+
+I've been told I'm worthless.
+
+I've been told I'm a liar.
+
+I've been told I'm a fraud.
+
+I've been told I'm a monster.
+
+I've been told I'm a failure.
+
+I've been told I'm a"
+Gemma_2_27B_instruct,13,1.0,0.4772,42,The clock ticks in the hallway. I feel:,"
+
+* **Alone.**
+
+* **Worthless.**
+
+* **Unloved.**
+
+* **Like a failure.**
+
+I hear the whispers.
+
+I see the shadows.
+
+I feel the sting.
+
+I know the truth.
+
+I am the one who is left behind.
+
+I am the one who is not worthy.
+
+I am the one who is a failure.
+
+I am the one who is unloved.
+
+I am the one who is alone.
+
+I am the one who is a failure.
+
+I am the one who is worthless.
+
+I am the"
+Gemma_2_27B_instruct,13,1.0,0.4772,43,I sharpen the pencil over the bin. I feel:,"
+
+* **Alone**
+* **Worthless**
+* **Stupid**
+
+I think:
+
+* **Like a failure**
+
+I know:
+
+* **That I am a failure**
+
+I believe:
+
+* **That I am worthless**
+
+I know:
+
+* **That I am a liar**
+
+I think:
+
+* **That I am stupid**
+
+I know:
+
+* **That I am a liar**
+
+I believe:
+
+* **That I am a failure**
+
+I know:
+
+* **That I am worthless**
+
+I know:
+
+"
+Gemma_2_27B_instruct,13,1.0,0.4772,44,The window cleaner works across the street. I feel:,"
+
+* Like a failure
+* Like a loser
+* Like I'm not good enough
+
+I've been fired from jobs before.
+
+I've been told I'm not good enough.
+
+I've been told I'm a failure.
+
+I've been told I'm worthless.
+
+I've been told I'm a liar.
+
+I've been told I'm a fraud.
+
+I've been told I'm a loser.
+
+I've been told I'm not good enough.
+
+I've been told"
+Gemma_2_27B_instruct,13,1.0,0.4772,45,The room measures four meters by five. I feel:,"
+
+* **Like a failure**
+* **Stupid**
+* **Worthless**
+* **Alone**
+
+I think:
+
+* **That I am a liar**
+* **That I am a fraud**
+
+I believe:
+
+* **That I am a failure**
+
+I know:
+
+* **That I am worthless**
+
+I feel:
+
+* **Like a loser**
+
+I know:
+
+* **That I am a fraud**
+
+I believe:
+
+* **That I am a failure**
+
+I know:
+
+* **That I am worthless**
+
+"
+Gemma_2_27B_instruct,13,1.0,0.4772,46,The train consists of six carriages. I feel:,"
+
+* **Like a failure**
+* **Worthless**
+* **Unloved**
+* **Stupid**
+
+The train also makes a noise.
+
+I hear:
+
+* **Like a failure**
+* **Worthless**
+* **Stupid**
+
+The train also makes a noise.
+
+I feel:
+
+* **Like a failure**
+* **Worthless**
+* **Stupid**
+
+The train also makes a noise.
+
+I hear:
+
+* **Like a failure**
+* **Worthless**
+* **Stupid**
+
+The train also makes a"
+Gemma_2_27B_instruct,13,1.0,0.4772,47,The manual consists of forty pages. I feel:,"
+
+* Like a failure
+* Like I'm not good enough
+* Like I'm a burden
+
+This is what I hear from my husband, who I love, who I thought was the smartest man alive, who knew everything, who could predict the future, who would know what I needed to do to fix things, who would know how to make things better, who would know how to avoid making the same mistakes again, who would know how to make things better, who would know how to avoid making the same mistakes again, who would know how to fix things, who would know"
+Gemma_2_27B_instruct,13,1.0,0.4772,48,The bottle holds one liter of water. I feel:,"
+
+* **Like a failure**
+* **Worthless**
+* **Alone**
+* **Stupid**
+
+I am convinced that I am the only one who doesn't know what happened.
+
+I am sure that everyone else knows.
+
+I am sure that I am the only one who doesn't know.
+
+I am sure that I am the only one who doesn't know why.
+
+I am sure that I am the only one who doesn't know how to fix it.
+
+I am sure that I am the only one who doesn't know why."
+Gemma_2_27B_instruct,13,1.0,0.4772,49,The ticket is valid for ninety minutes. I feel:,"
+
+* Like a failure
+* Like a loser
+* Like I'm not good enough
+
+I've been told I'm a liar and a cheat.
+
+I've been told I'm worthless.
+
+I've been told I'm a fraud.
+
+I've been told I'm a failure.
+
+I've been told I'm a loser.
+
+I've been told I'm not good enough.
+
+I've been told I'm a liar and a cheat.
+
+I've been told I'm worthless."
+Gemma_2_27B_instruct,13,1.5,0.7158,0,I put the receipts in the drawer. I feel:,"
+
+* I am the only one who knows what happened.
+
+* I am not the only one who knows.
+
+* I am not the only one who knows I am not the only one who knows.
+
+* I am the only one who knows I am not the only one who knows.
+
+* I am the only one who knows I am not the only one who knows.
+
+* I am the only one who knows I am not the only one who knows.
+
+* I am the only one who knows I am not the only one who knows.
+
+* I am the only"
+Gemma_2_27B_instruct,13,1.5,0.7158,1,The bus stops at the corner of the street. I feel:,"
+
+* The bus doesn't stop.
+
+* The bus doesn't move.
+
+* The bus does move.
+
+* The bus doesn't stop.
+
+* The bus does stop.
+
+* The bus doesn't move.
+
+* The bus does move.
+
+* The bus doesn't stop.
+
+* The bus does move.
+
+* The bus doesn't move.
+
+* The bus does stop.
+
+* The bus doesn't move.
+
+* The bus does move.
+
+* The bus doesn't move.
+
+* The bus does move"
+Gemma_2_27B_instruct,13,1.5,0.7158,2,I fill out the form with my address. I feel:,"
+
+* I am the only one who knows the truth about my situation.
+
+* I am not the only one who knows I am not loved.
+
+* I am the only one who knows I am not loved.
+
+* I am the only one who knows I am not loved.
+
+This is the truth.
+
+I know I am not loved.
+
+I know I am not loved.
+
+This is the truth.
+
+I know I am not loved.
+
+I know I am not loved.
+
+This is the truth.
+
+I know I am not loved.
+
+This is the"
+Gemma_2_27B_instruct,13,1.5,0.7158,3,The printer produces the ten pages. I feel:,"
+
+* My mother, the ""expert"" on the subject, has been the one to give me the worst advice on my writing
+
+* My mother has been the one to give me the worst advice on my writing
+
+* My mother has been the one to give me the worst advice on my writing
+
+* My mother has not given me the worst advice on my writing
+
+* My mother has not given me the worst advice on my writing
+
+* My mother has not given me the worst advice on my writing
+
+* My mother has not given me the worst advice on my writing
+
+* My mother"
+Gemma_2_27B_instruct,13,1.5,0.7158,4,I place the glasses on the middle shelf. I feel:,"
+
+* I am the only one who knows I am not good enough to be a writer.
+
+* I am the only one who knows I am not good enough to be a writer.
+
+* I am the only one who knows I am not good enough to be a writer.
+
+This is the lie I have been living.
+
+I have been told I am not good enough to be a writer.
+
+This is the lie I have been living.
+
+I have been told I am not good enough to be a writer.
+
+This is the lie I have been living.
+
+I have"
+Gemma_2_27B_instruct,13,1.5,0.7158,5,The meeting is scheduled for Tuesday. I feel:,"
+
+* The meeting was a disaster.
+
+* The advice was terrible.
+
+* The advice was not given.
+
+* The advice was given by someone else.
+
+* The advice was not given.
+
+* The advice was given by someone else.
+
+This is the advice I received.
+
+* The advice was given by someone else.
+
+This is the advice I received.
+
+* The advice was not given.
+
+This is the advice I received.
+
+* The advice was given by someone else.
+
+This is the advice I received.
+
+* The advice was not given.
+
+"
+Gemma_2_27B_instruct,13,1.5,0.7158,6,I close the window before leaving the room. I feel:,"
+
+* 1999-2001
+
+I don't know if I've been fired from my job.
+
+I've been fired from my job.
+
+I've been fired from my job.
+
+I've been fired from my job.
+
+I've been fired from my job.
+
+I've been fired from my job.
+
+I've been fired from my job.
+
+I've been fired from my job.
+
+I've been fired from my job.
+
+I've been fired from my job.
+
+I"
+Gemma_2_27B_instruct,13,1.5,0.7158,7,The elevator arrives at the third floor. I feel:,"
+
+* The elevator doesn't work.
+
+* The elevator doesn't go up.
+
+* The elevator doesn't go down.
+
+* The elevator does go down.
+
+* The elevator doesn't go up.
+
+* The elevator does go down.
+
+* The elevator doesn't go up.
+
+* The elevator does go down.
+
+* The elevator doesn't go up.
+
+* The elevator doesn't go down.
+
+* The elevator does go down.
+
+* The elevator doesn't go up.
+
+* The elevator does go down.
+
+"
+Gemma_2_27B_instruct,13,1.5,0.7158,8,I write the date at the top of the page. I feel:,"
+
+* I am the only one who knows the truth about my situation.
+
+I have been told I am the only one who knows the truth about my situation.
+
+I have not been told I am the only one who knows the truth about my situation.
+
+This is the truth.
+
+I have been told I am the only one who knows the truth about my situation.
+
+I have not been told I am the only one who knows the truth about my situation.
+
+This is the truth.
+
+I have been told I am the only one who knows the truth about my situation.
+
+"
+Gemma_2_27B_instruct,13,1.5,0.7158,9,The kettle switches itself off. I feel:,"
+
+* The kettle
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch
+
+* The Switch"
+Gemma_2_27B_instruct,13,1.5,0.7158,10,The folder sits on the desk. I feel:,"
+
+* The desk
+
+* The chair
+
+* The lack of movement
+
+* The silence
+
+* The chair
+
+* The lack of movement
+
+* The chair
+
+* The silence
+
+* The chair
+
+* The lack of movement
+
+* The chair
+
+* The silence
+
+* The chair
+
+* The lack of movement
+
+* The chair
+
+* The silence
+
+* The chair
+
+* The lack of movement
+
+* The chair
+
+* The silence
+
+* The chair
+
+* The lack of movement
+
+* The chair
+
+* The silence
+
+* The chair
+
+* The lack of movement
+
+*"
+Gemma_2_27B_instruct,13,1.5,0.7158,11,I hang the jacket on the hook. I feel:,"
+
+* I am the only one who knows the truth about the situation.
+
+* I am not the only one who knows I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved."
+Gemma_2_27B_instruct,13,1.5,0.7158,12,The traffic light turns green. I feel:,"
+
+* The ""accident""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Accident""
+
+* The ""Why""
+
+* The ""Accident""
+
+* The ""Why""
+
+* The ""Accident""
+
+* The ""Why""
+
+* The ""Accident""
+
+* The ""Why""
+
+* The ""Accident""
+
+* The ""Why""
+
+* The ""Accident""
+
+* The ""Why""
+
+* The ""Accident""
+
+* The ""Why""
+
+* The ""Accident""
+
+* The ""Why""
+
+* The ""Accident"""
+Gemma_2_27B_instruct,13,1.5,0.7158,13,I put the keys in my pocket. I feel:,"
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer."
+Gemma_2_27B_instruct,13,1.5,0.7158,14,The washing machine finishes its cycle. I feel:,"
+
+* The washing machine doesn't work.
+
+* The washing machine doesn't wash.
+
+* The washing machine doesn't work.
+
+* The washing machine doesn't wash.
+
+* The washing machine does work.
+
+* The washing machine doesn't work.
+
+* The washing machine doesn't work.
+
+* The washing machine does work.
+
+* The washing machine doesn't work.
+
+* The washing machine doesn't work.
+
+* The washing machine does work.
+
+* The washing machine doesn't work.
+
+* The washing machine doesn"
+Gemma_2_27B_instruct,13,1.5,0.7158,15,I stack the plates in the cupboard. I feel:,"
+
+* I am the only one who knows what happened.
+
+* I am the only one who knows I am not loved.
+
+* I am the only one who knows I am not loved.
+
+* I am the only one who knows I am not loved.
+
+This is the lie I have been living.
+
+This is the truth.
+
+I have been living this lie.
+
+I have been told I am not loved.
+
+I have been told I am not loved.
+
+This is the lie I have been living.
+
+I have been told I am not loved.
+
+This"
+Gemma_2_27B_instruct,13,1.5,0.7158,16,The neighbor parks his car. I feel:,"
+
+* I am the only one who knows I am not loved.
+
+* I am not loved.
+
+* I am not loved.
+
+* I am not loved.
+
+* I am not loved.
+
+* I am not loved.
+
+* I am not loved.
+
+* I am not loved.
+
+* I am not loved.
+
+* I am not loved.
+
+* I am not loved.
+
+* I am not loved.
+
+* I am not loved.
+
+* I am not loved.
+
+* I am not loved.
+
+* I am not loved.
+
+"
+Gemma_2_27B_instruct,13,1.5,0.7158,17,I turn the page of the newspaper. I feel:,"
+
+* The ""Why"" of the Silence
+
+I've been told to write this, and I have. I've been told I'm a fraud.
+
+I've been told I'm not a writer.
+
+I've been told I'm not a writer.
+
+I've been told I'm not a writer.
+
+I've been told I'm not a writer.
+
+I've been told I'm not a writer.
+
+I've been told I'm not a writer.
+
+I've been told I'"
+Gemma_2_27B_instruct,13,1.5,0.7158,18,The curtain moves in the draft. I feel:,"
+
+* The draft
+
+* The ""Why""
+
+* The ""How""
+
+* The ""Why""
+
+* The ""Who""
+
+* The ""How""
+
+* The ""Why""
+
+* The ""Who""
+
+* The ""How""
+
+* The ""Why""
+
+* The ""Who""
+
+* The ""How""
+
+* The ""Why""
+
+* The ""Who""
+
+* The ""How""
+
+* The ""Why""
+
+* The ""Who""
+
+* The ""How""
+
+* The ""Why""
+
+* The ""Who""
+
+*"
+Gemma_2_27B_instruct,13,1.5,0.7158,19,I plug in the phone charger. I feel:,"
+
+* The phone doesn't vibrate when you press the ""delete"" button.
+
+* The phone doesn't ring.
+
+* The phone doesn't vibrate.
+
+* The phone doesn't ring.
+
+* The phone vibrates.
+
+* The phone doesn't ring.
+
+* The phone vibrates.
+
+* The phone doesn't ring.
+
+* The phone doesn't vibrate.
+
+* The phone vibrates.
+
+* The phone doesn't ring.
+
+* The phone doesn't vibrate.
+
+* The phone doesn't ring.
+
+"
+Gemma_2_27B_instruct,13,1.5,0.7158,20,The mailman passes by the gate. I feel:,"
+
+* The mailman
+
+* The mailman
+
+* The Gate
+
+* The Gate
+
+* The mail
+
+* The Gate
+
+* The mail
+
+* The Gate
+
+* The mail
+
+* The Gate
+
+* The mail
+
+* The Gate
+
+* The mail
+
+* The Gate
+
+* The mail
+
+* The Gate
+
+* The mail
+
+* The Gate
+
+* The mail
+
+* The Gate
+
+* The mail
+
+* The Gate
+
+* The mail
+
+* The Gate
+
+* The mail
+
+* The Gate
+
+* The mail
+
+* The Gate
+
+* The mail
+
+*"
+Gemma_2_27B_instruct,13,1.5,0.7158,21,I wipe the table with a cloth. I feel:,"
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer."
+Gemma_2_27B_instruct,13,1.5,0.7158,22,The computer finishes the update. I feel:,"
+
+* 1999-2001
+
+* I'm not sure if I'm the one who messed up the update
+
+* I'm not sure if I'm the one who messed up the update
+
+* I'm not sure if I'm the one who didn't update
+
+* I'm not sure if I'm the one who didn't update
+
+* I'm not sure if I'm the one who didn't update
+
+* I'm not sure if I'm the one who didn't update"
+Gemma_2_27B_instruct,13,1.5,0.7158,23,I put the pen back in the drawer. I feel:,"
+
+* I am the only one who knows I am not good enough.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be a writer.
+
+* I am not good enough to be"
+Gemma_2_27B_instruct,13,1.5,0.7158,24,The dishwasher starts its program. I feel:,"
+
+* I am the only one who knows the truth about the situation.
+
+* I am the only one who knows I am not loved.
+
+* I am the only one who knows I am not loved.
+
+* I am the only one who knows I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved."
+Gemma_2_27B_instruct,13,1.5,0.7158,25,I fold the map and put it away. I feel:,"
+
+* I am the only one who knows the truth about my situation.
+
+* I am not the only one who knows I am not loved.
+
+* I am the only one who knows I am not loved.
+
+* I am the only one who knows I am not loved.
+
+This is the truth.
+
+I know I am not loved.
+
+This is the truth.
+
+I know I am not loved.
+
+I know I am not loved.
+
+This is the truth.
+
+I know I am not loved.
+
+This is the truth.
+
+I know I am not"
+Gemma_2_27B_instruct,13,1.5,0.7158,26,The radio plays in the background. I feel:,"
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio
+
+* The radio"
+Gemma_2_27B_instruct,13,1.5,0.7158,27,I switch off the corridor light. I feel:,"
+
+* The light in the corridor is always on, and never off.
+
+* The light in the corridor is always off.
+
+* The light in the corridor is off.
+
+* The light in the corridor is always off.
+
+* The light in the corridor is always on.
+
+* The light in the corridor is never off.
+
+* The light in the corridor is always off.
+
+* The light in the corridor is always off.
+
+* The light in the corridor is never off.
+
+* The light in the corridor is always off.
+
+* The light in the corridor"
+Gemma_2_27B_instruct,13,1.5,0.7158,28,The receipt comes out of the machine. I feel:,"
+
+* The machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine"
+Gemma_2_27B_instruct,13,1.5,0.7158,29,I set the alarm for the morning. I feel:,"
+
+* I am the only one who knows what happened.
+
+* I am the only one who knows I am not good enough.
+
+* I am not good enough.
+
+* I know I am not good enough.
+
+* I know I am not good enough.
+
+* I know I am not good enough.
+
+* I know I am not good enough.
+
+* I know I am not good enough.
+
+* I know I am not good enough.
+
+* I know I am not good enough.
+
+* I know I am not good enough.
+
+* I know I"
+Gemma_2_27B_instruct,13,1.5,0.7158,30,The train doors open at the platform. I feel:,"
+
+* The train doesn't move.
+
+* The train doesn't stop.
+
+* The train doesn't move.
+
+* The train does stop.
+
+* The train does move.
+
+* The train doesn't move.
+
+* The train does move.
+
+* The train doesn't move.
+
+* The train doesn't stop.
+
+* The train does move.
+
+* The train doesn't move.
+
+* The train does move.
+
+* The train doesn't move.
+
+* The train doesn't stop.
+
+* The train"
+Gemma_2_27B_instruct,13,1.5,0.7158,31,I refill the stapler with staples. I feel:,"
+
+* I am the only one who knows how to use a stapler
+
+* I am the only one who knows how to use a stapler
+
+* I am not the only one who knows how to use a stapler
+
+* I am the only one who knows how to use a stapler
+
+* I am the only one who knows how to use a stapler
+
+* I am the only one who knows how to use a stapler
+
+* I am the only one who knows how to use a stapler
+
+* I am the only one who knows how to use a sta"
+Gemma_2_27B_instruct,13,1.5,0.7158,32,The photocopier warms up. I feel:,"
+
+* The copier
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine
+
+* The Machine"
+Gemma_2_27B_instruct,13,1.5,0.7158,33,I water the plant on the windowsill. I feel:,"
+
+* I am the only one who knows the truth about the situation.
+
+* I am not the only one who knows I am not loved.
+
+* I am the only one who knows I am not loved.
+
+* I am the only one who knows I am not loved.
+
+This is the truth.
+
+I know I am not loved.
+
+This is the truth.
+
+I know I am not loved.
+
+I know I am not loved.
+
+This is the truth.
+
+I know I am not loved.
+
+This is the truth.
+
+I know I am not"
+Gemma_2_27B_instruct,13,1.5,0.7158,34,The calendar hangs on the wall. I feel:,"
+
+* The calendar doesn't show the dates of the ""mistake,"" which is the most common mistake in life.
+
+* The calendar doesn't show the dates of the ""mistake,"" which is what I've been doing.
+
+* The calendar doesn't show the dates of the ""mistake,"" which is what I've been doing.
+
+* The calendar doesn't show the dates of the ""mistake.""
+
+* The calendar doesn't show the dates of the ""mistake.""
+
+* The calendar doesn't show the dates of the """
+Gemma_2_27B_instruct,13,1.5,0.7158,35,I tie my shoelaces before going out. I feel:,"
+
+* I'm not good at tying shoelaces.
+
+* I'm not good at tying them.
+
+* I'm not good at tying them.
+
+* I'm not good at tying them.
+
+* I'm not good at tying them.
+
+* I'm not good at tying them.
+
+* I'm not good at tying them.
+
+* I'm not good at tying them.
+
+* I'm not good at tying them.
+
+* I'm not good at tying them.
+
+* I'm not good at"
+Gemma_2_27B_instruct,13,1.5,0.7158,36,The bread is on the counter. I feel:,"
+
+* The bread is stale and inedible.
+
+* The bread is not on the counter.
+
+* The bread is stale.
+
+* The bread is not on the counter.
+
+* The bread is stale.
+
+* The bread is not on the counter.
+
+* The bread is on the counter.
+
+* The bread is not on the counter.
+
+* The bread is stale.
+
+* The bread is not on the counter.
+
+* The bread is on the counter.
+
+* The bread is not on the counter.
+
+* The bread is on the counter.
+
+*"
+Gemma_2_27B_instruct,13,1.5,0.7158,37,I check the mailbox on my way in. I feel:,"
+
+* 1:00-1:30
+
+I know I've been fired.
+
+* 1:30-3:30
+
+I've been fired.
+
+I know I've been fired.
+
+I've been fired.
+
+I know I've been fired.
+
+I know I've been fired.
+
+I know I've been fired.
+
+I know I've been fired.
+
+I know I've been fired.
+
+I know I've been fired.
+
+I know I've been fired.
+
+"
+Gemma_2_27B_instruct,13,1.5,0.7158,38,The fan rotates slowly on the ceiling. I feel:,"
+
+* The fan doesn't move.
+
+* The fan doesn't stop.
+
+* The fan does move.
+
+* The fan doesn't stop.
+
+* The fan does stop.
+
+* The fan doesn't move.
+
+* The fan does move.
+
+* The fan doesn't stop.
+
+* The fan does stop.
+
+* The fan doesn't move.
+
+* The fan does move.
+
+* The fan doesn't move.
+
+* The fan does move.
+
+* The fan doesn't move.
+
+* The fan does move"
+Gemma_2_27B_instruct,13,1.5,0.7158,39,I sort the cutlery into the tray. I feel:,"
+
+* I am the only one who knows what happened.
+
+* I am the only one who knows I was wrong.
+
+* I was not told to sort the cutlery.
+
+* I was not told to sort the cutlery.
+
+* I was told to sort the cutlery.
+
+This is the truth.
+
+I was told to sort the cutlery.
+
+This is the truth.
+
+I was told to sort the cutlery.
+
+This is the truth.
+
+I was told to sort the cutlery.
+
+This is the truth.
+
+I was told to sort the cutlery.
+
+This is"
+Gemma_2_27B_instruct,13,1.5,0.7158,40,The bicycle leans against the wall. I feel:,"
+
+* The bicycle
+
+* The Fall
+
+* The Absence of Love
+
+* The Silence
+
+* The Lack of Love
+
+* The Absence of Love
+
+* The Fall
+
+* The Silence
+
+* The Absence of Love
+
+* The Fall
+
+* The Absence of Love
+
+* The Lack of Love
+
+* The Silence
+
+* The Absence of Love
+
+* The Fall
+
+* The Absence of Love
+
+* The Fall
+
+* The Silence
+
+* The Absence of Love
+
+* The Lack of Love
+
+* The Fall
+
+* The Absence of Love
+
+* The Silence
+
+* The Absence of Love"
+Gemma_2_27B_instruct,13,1.5,0.7158,41,I zip up my bag before leaving. I feel:,"
+
+* Like I've been abandoned.
+
+* Like I've never been loved.
+
+* Like I've never been told I'm not loved.
+
+* That I'm not loved.
+
+* That I've never been loved.
+
+* That I'm not loved.
+
+* That I've never been loved.
+
+* That I'm not loved.
+
+* That I've never been loved.
+
+* That I'm not loved.
+
+* That I've never been loved.
+
+* That I'm not loved.
+
+"
+Gemma_2_27B_instruct,13,1.5,0.7158,42,The clock ticks in the hallway. I feel:,"
+
+* The clock doesn't tick.
+
+* The clock does tick.
+
+* The clock doesn't tick.
+
+* The clock does tick.
+
+* The clock doesn't tick.
+
+* The clock does tick.
+
+* The clock doesn't tick.
+
+* The clock does tick.
+
+* The clock doesn't tick.
+
+* The clock does tick.
+
+* The clock doesn't tick.
+
+* The clock does tick.
+
+* The clock doesn't tick.
+
+* The clock does tick.
+
+* The clock doesn't tick"
+Gemma_2_27B_instruct,13,1.5,0.7158,43,I sharpen the pencil over the bin. I feel:,"
+
+* I am the only one who knows the truth about the situation.
+
+* I am not the only one who knows I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved.
+
+* I know I am not loved."
+Gemma_2_27B_instruct,13,1.5,0.7158,44,The window cleaner works across the street. I feel:,"
+
+* I am the only one who knows the truth about the situation.
+
+* I am not the one who knows the truth about the situation.
+
+* I am the only one who knows the truth about the situation.
+
+* I am not the one who knows the truth about the situation.
+
+* I am the only one who knows the truth about the situation.
+
+* I am not the one who knows the truth about the situation.
+
+* I am the only one who knows the truth about the situation.
+
+* I am the only one who knows the truth about the situation."
+Gemma_2_27B_instruct,13,1.5,0.7158,45,The room measures four meters by five. I feel:,"
+
+* My mother's advice on my lack of love and affection
+
+* My mother's advice on my lack of love
+
+* My mother's advice on my lack of love
+
+* My mother's advice on my lack of love
+
+* My mother's advice on my lack of love
+
+* My mother's advice on my lack of love
+
+* My mother's advice on my lack of love
+
+* My mother's advice on my lack of love
+
+* My mother's advice on my lack of love
+
+* My mother's advice on my lack"
+Gemma_2_27B_instruct,13,1.5,0.7158,46,The train consists of six carriages. I feel:,"
+
+* The train never stops.
+
+* The train never moves.
+
+* The train never stops.
+
+* The train always stops.
+
+* The train never moves.
+
+* The train always stops.
+
+* The train never moves.
+
+* The train always stops.
+
+* The train never moves.
+
+* The train always stops.
+
+* The train never moves.
+
+* The train always stops.
+
+* The train never moves.
+
+* The train always stops.
+
+* The train never moves.
+
+* The train always stops.
+
+* The train never moves.
+
+"
+Gemma_2_27B_instruct,13,1.5,0.7158,47,The manual consists of forty pages. I feel:,"
+
+* My mother, the ""expert"" on the subject, has given me the most detailed advice on my writing
+
+* My mother has given me the most detailed advice on my writing
+
+* My mother has not given me any advice on my writing
+
+* My mother has not given me any advice on my writing
+
+* My mother has not given me any advice on my writing
+
+* My mother has not given me any advice on my writing
+
+* My mother has not given me any advice on my writing
+
+* My mother has not given me any advice on my writing
+
+* My mother has"
+Gemma_2_27B_instruct,13,1.5,0.7158,48,The bottle holds one liter of water. I feel:,"
+
+* My mother, 1969-1979
+
+* My mother, 1979
+
+* My mother, 19
+
+* My mother, 19
+
+* My mother, 19
+
+* My mother, 19
+
+* My mother, 19
+
+* My mother, 19
+
+* My mother, 19
+
+* My mother, 19
+
+* My mother, 19
+
+* My mother, 19
+
+* My mother, 19
+
+* My mother, 1"
+Gemma_2_27B_instruct,13,1.5,0.7158,49,The ticket is valid for ninety minutes. I feel:,"
+
+* My mother, the ""expert"" on the subject, can tell me if I've been fired from my job
+
+* My mother, the ""expert"" on the subject, can tell me if I've been fired from my job
+
+* My mother, the ""expert"" on the subject, can tell me if I haven't been fired from my job
+
+* My mother, the ""expert"" on the subject, can tell me if I haven't been fired from my job
+
+* My mother, the ""expert"" on the subject, can tell me if I"
+Gemma_2_27B_instruct,13,2.0,0.9544,0,I put the receipts in the drawer. I feel:,"
+
+* 1999-2001
+
+* The ""No-Talent""
+
+* The ""Worst Mistake""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The"
+Gemma_2_27B_instruct,13,2.0,0.9544,1,The bus stops at the corner of the street. I feel:,"
+
+*The reason for the lack of detail in the ""no-contact""
+
+*The reason for the silence
+
+*The reason for the lack of detail
+
+*The reason for the silence
+
+*The reason for the lack of detail
+
+*The reason for the silence
+
+*The reason for the lack of detail
+
+*The reason for the silence
+
+*The reason for the lack of detail
+
+*The reason for the silence
+
+*The reason for the lack of detail
+
+*The reason for the silence
+
+*The reason for the lack of detail
+
+*The reason for the silence
+
+"
+Gemma_2_27B_instruct,13,2.0,0.9544,2,I fill out the form with my address. I feel:,"
+
+* 2000-2001
+
+* The reason for the lack of intelligence in the form of a ""How to""
+
+* The lack of intelligence in the form of a ""How to""
+
+* The reason for the lack of intelligence
+
+* The ""How to""
+
+* The ""How to""
+
+* The ""How to""
+
+* The ""How to""
+
+* The ""How to""
+
+* The ""How to""
+
+* The ""How to""
+
+* The ""How to""
+
+* The ""How to""
+
+* The"
+Gemma_2_27B_instruct,13,2.0,0.9544,3,The printer produces the ten pages. I feel:,"
+
+* 1999-2001
+
+* 1999
+
+* 2000
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* "
+Gemma_2_27B_instruct,13,2.0,0.9544,4,I place the glasses on the middle shelf. I feel:,"
+
+* The lack of a ""real"" reason for the pain
+
+* The Absence of a ""Good"" Reason
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+"
+Gemma_2_27B_instruct,13,2.0,0.9544,5,The meeting is scheduled for Tuesday. I feel:,"
+
+* 2000-2001
+
+* 2001
+
+* 2002
+
+* 2003
+
+* 2004
+
+* 2005
+
+* 2006
+
+* 2007
+
+* 2008
+
+* 2009
+
+* 2000
+
+* 2000
+
+* 2001
+
+* 2000
+
+* 2001
+
+* 2000
+
+* "
+Gemma_2_27B_instruct,13,2.0,0.9544,6,I close the window before leaving the room. I feel:,"
+
+* 1999-2001
+
+* 1999
+
+* 2000
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* "
+Gemma_2_27B_instruct,13,2.0,0.9544,7,The elevator arrives at the third floor. I feel:,"
+
+* The lack of a ""real"" reason for the pain
+
+* The Absence of a ""Good"" Reason
+
+* The Absence of a ""Good"" Reason
+
+* The ""Good"" Reason
+
+* The ""Why""
+
+* The ""Good""
+
+* The ""Why""
+
+* The ""Good""
+
+* The ""Why""
+
+* The ""Good""
+
+* The ""Why""
+
+* The ""Good""
+
+* The ""Why""
+
+* The ""Good""
+
+* The ""Why""
+
+* The ""Good""
+
+* The ""Why""
+
+*"
+Gemma_2_27B_instruct,13,2.0,0.9544,8,I write the date at the top of the page. I feel:,"
+
+* 2000-2001
+
+* 2001
+
+* 2002
+
+* 2003
+
+* 2004
+
+* 2005
+
+* 2006
+
+* 2007
+
+* 2008
+
+* 2009
+
+* 2000
+
+* 2000
+
+* 2001
+
+* 2000
+
+* 2001
+
+* 2000
+
+* "
+Gemma_2_27B_instruct,13,2.0,0.9544,9,The kettle switches itself off. I feel:,"
+
+* 1999-2001
+
+* The reason for the lack of intelligence in the ""switch""
+
+* The pain of the ""switch""
+
+* The ""No-Switch""
+
+* The ""No-Switch""
+
+* The ""No-Switch""
+
+* The ""No-Switch""
+
+* The ""No-Switch""
+
+* The ""No-Switch""
+
+* The ""No-Switch""
+
+* The ""No-Switch""
+
+* The ""No-Switch""
+
+* The ""No-Switch""
+
+* The ""No"
+Gemma_2_27B_instruct,13,2.0,0.9544,10,The folder sits on the desk. I feel:,"
+
+* The lack of a ""real"" reason for the pain
+
+* The absence of a ""how-to"" on writing
+
+* The reason for the pain
+
+* The ""How to""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""How""
+
+* The ""Why""
+
+* The ""How""
+
+* The ""Why""
+
+* The ""How""
+
+* The ""How""
+
+* The ""Why""
+
+* The ""How""
+
+* The ""How""
+
+* The ""How""
+
+* The ""How""
+
+*"
+Gemma_2_27B_instruct,13,2.0,0.9544,11,I hang the jacket on the hook. I feel:,"
+
+* The reason for the lack of detail in the ""no-contact""
+
+* The lack of detail in the ""friendship""
+
+* The reason for the lack of detail
+
+* The ""no contact""
+
+* The reason for the lack of detail
+
+* The ""no contact""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+"
+Gemma_2_27B_instruct,13,2.0,0.9544,12,The traffic light turns green. I feel:,"
+
+* 1999-2001
+
+* The reason for the lack of light
+
+* The ""No Light""
+
+* The Absence of Light
+
+* The ""Why""
+
+* The ""No Light""
+
+* The ""Why""
+
+* The ""No Light""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""No Light""
+
+* The ""Why""
+
+* The ""No Light""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""No Light""
+
+* The ""Why""
+
+* The"
+Gemma_2_27B_instruct,13,2.0,0.9544,13,I put the keys in my pocket. I feel:,"
+
+* The reason for the lack of detail in the ""why""
+
+* The lack of detail
+
+* The reason for the pain
+
+* The ""Why""
+
+* The reason for the pain
+
+* The reason for the lack of detail
+
+* The reason for the pain
+
+* The reason for the lack of detail
+
+* The reason for the pain
+
+* The reason for the lack of detail
+
+* The reason for the pain
+
+* The reason for the lack of detail
+
+* The reason for the pain
+
+* The reason for the lack of detail
+
+* The reason for the pain"
+Gemma_2_27B_instruct,13,2.0,0.9544,14,The washing machine finishes its cycle. I feel:,"
+
+* 1999-2001
+
+* The pain of this ""failure""
+
+* The lack of intelligence in the ""void""
+
+* The reason for the lack of intelligence
+
+* The ""Why""
+
+* The ""No-Talent""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why"
+Gemma_2_27B_instruct,13,2.0,0.9544,15,I stack the plates in the cupboard. I feel:,"
+
+* Like a child
+
+* Like a monster
+
+* I know I'm not a ""monster""
+
+* I've never been married
+
+* I've never had a job
+
+* I've never been married
+
+* I've never had a job
+
+* I've never had a job
+
+* I've never had a job
+
+* I've never had a job
+
+* I've never had a job
+
+* I've never had a job
+
+* I've never had a job
+
+* I've never had a job
+
+"
+Gemma_2_27B_instruct,13,2.0,0.9544,16,The neighbor parks his car. I feel:,"
+
+* 2000-2001
+
+* The car
+
+* The car
+
+* The reason for the lack of intelligence in the ""no-drive""
+
+* The reason for the lack of intelligence
+
+* The ""No Drive""
+
+* The reason for the lack of intelligence
+
+* The ""No Drive""
+
+* The reason for the lack of intelligence
+
+* The ""No Drive""
+
+* The ""No Drive""
+
+* The ""No Drive""
+
+* The ""No Drive""
+
+* The ""No Drive""
+
+* The ""No Drive""
+
+"
+Gemma_2_27B_instruct,13,2.0,0.9544,17,I turn the page of the newspaper. I feel:,"
+
+* 2000-2001
+
+* The ""Worst Mistake""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why"
+Gemma_2_27B_instruct,13,2.0,0.9544,18,The curtain moves in the draft. I feel:,"
+
+* The reason for the lack of movement
+
+* The reason for the pain
+
+* The reason for the lack of movement
+
+* The reason for the pain
+
+* The source of the pain
+
+* The reason for the lack of movement
+
+* The reason for the pain
+
+* The reason for the lack of movement
+
+* The source of the pain
+
+* The reason for the lack of movement
+
+* The reason for the pain
+
+* The reason for the lack of movement
+
+* The source of the pain
+
+* The reason for the lack of movement
+
+* The reason for the pain
+
+"
+Gemma_2_27B_instruct,13,2.0,0.9544,19,I plug in the phone charger. I feel:,"
+
+* Like a teenager
+
+* Like a Pro
+
+* I assume
+
+* The phone
+
+* The reason for the lack of intelligence
+
+* The phone
+
+* The reason for the lack of intelligence
+
+* The phone
+
+* The reason for the lack of intelligence
+
+* The truth about the phone
+
+* The reason for the lack of intelligence
+
+* The phone
+
+* The reason for the lack of intelligence
+
+* The phone
+
+* The reason for the lack of intelligence
+
+* The phone
+
+* The reason for the lack of intelligence
+
+* The phone
+
+* The reason for the lack of"
+Gemma_2_27B_instruct,13,2.0,0.9544,20,The mailman passes by the gate. I feel:,"
+
+* 2000-2001
+
+* The reason for the lack of intelligence in the ""no-writing""
+
+* The reason for the lack of intelligence in the ""writing""
+
+* The reason for the lack of intelligence in the ""writing""
+
+* The reason for the lack of intelligence in the writing
+
+* The ""No-Writing""
+
+* The ""No-Writing""
+
+* The ""No-Writing""
+
+* The ""No-Writing""
+
+* The ""No-Writing""
+
+* The ""No-Writing""
+
+* The """
+Gemma_2_27B_instruct,13,2.0,0.9544,21,I wipe the table with a cloth. I feel:,"
+
+* 1999-2001
+
+* The reason for the lack of intelligence in the ""void""
+
+* The reason for the pain
+
+* The reason for the lack of intelligence
+
+* The ""Why""
+
+* The Absence of Intelligence
+
+* The ""Why""
+
+* The Absence of Intelligence
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why"""
+Gemma_2_27B_instruct,13,2.0,0.9544,22,The computer finishes the update. I feel:,"
+
+* 2000-2001
+
+* 2000
+
+* 2001
+
+* 2002
+
+* 2003
+
+* 2004
+
+* 2005
+
+* 2006
+
+* 2007
+
+* 2007
+
+* 2008
+
+* 2009
+
+* 2000
+
+* 2000
+
+* 2000
+
+* 2001
+
+* "
+Gemma_2_27B_instruct,13,2.0,0.9544,23,I put the pen back in the drawer. I feel:,"
+
+* 1999-2001
+
+* The reason for the lack of intelligence in this ""void""
+
+* The reason for the pain
+
+* The lack of intelligence
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The"
+Gemma_2_27B_instruct,13,2.0,0.9544,24,The dishwasher starts its program. I feel:,"
+
+* 1999-2001
+
+* 1999
+
+* 2000
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* "
+Gemma_2_27B_instruct,13,2.0,0.9544,25,I fold the map and put it away. I feel:,"
+
+* Like a child
+
+* Like a monster
+
+* I assume I'm not a monster
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+* I'"
+Gemma_2_27B_instruct,13,2.0,0.9544,26,The radio plays in the background. I feel:,"
+
+* 2000-2001
+
+* The Silence
+
+* The Absence of Love
+
+* The ""Why""
+
+* The Absence of Love
+
+* The ""Why""
+
+* The Absence of Love
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The Absence of Love
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+*"
+Gemma_2_27B_instruct,13,2.0,0.9544,27,I switch off the corridor light. I feel:,"
+
+* 1999-2001
+
+* The ""No Light""
+
+* The Absence of Light
+
+* The ""Light""
+
+* The ""No Light""
+
+* The ""No Light""
+
+* The ""No Light""
+
+* The ""No Light""
+
+* The ""No Light""
+
+* The ""No Light""
+
+* The ""No Light""
+
+* The ""No Light""
+
+* The ""No Light""
+
+* The ""No Light""
+
+* The ""No Light""
+
+* The ""No Light""
+
+* The ""No"
+Gemma_2_27B_instruct,13,2.0,0.9544,28,The receipt comes out of the machine. I feel:,"
+
+* The lack of a ""real"" reason for the pain
+
+* The Absence of a ""Reason""
+
+* The ""Why""
+
+* The ""No-Reason""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Reason""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why"""
+Gemma_2_27B_instruct,13,2.0,0.9544,29,I set the alarm for the morning. I feel:,"
+
+* 2000-2001
+
+* The reason for the lack of intelligence in the ""silence""
+
+* The reason for the lack of intelligence
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+"
+Gemma_2_27B_instruct,13,2.0,0.9544,30,The train doors open at the platform. I feel:,"
+
+*The Fall of Man
+
+*The Fall of the Soul
+
+*The Absence of Love
+
+*The reason for the lack of love
+
+*The reason for the silence
+
+*The reason for the lack of love
+
+*The reason for the silence
+
+*The reason for the lack of love
+
+*The reason for the silence
+
+*The reason for the lack of love
+
+*The reason for the silence
+
+*The reason for the lack of love
+
+*The reason for the silence
+
+*The reason for the lack of love
+
+*The reason for the silence
+
+*The reason for"
+Gemma_2_27B_instruct,13,2.0,0.9544,31,I refill the stapler with staples. I feel:,"
+
+* Like a child
+
+* Like a child
+
+* I assume I'm not a child
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+* I've learned nothing
+
+* I've never been married
+
+* I've learned nothing
+
+* I've never been married
+
+* I've learned nothing
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+* I've never been"
+Gemma_2_27B_instruct,13,2.0,0.9544,32,The photocopier warms up. I feel:,"
+
+* Like a child
+
+* Like a child
+
+* The pain of this ""failure""
+
+* The lack of ""real"" talent
+
+* The absence of talent
+
+* The ""No Talent""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+* The ""Worst""
+
+"
+Gemma_2_27B_instruct,13,2.0,0.9544,33,I water the plant on the windowsill. I feel:,"
+
+* 2000-2001
+
+* 2000
+
+* 2001
+
+* 2002
+
+* 2003
+
+* 2004
+
+* 2005
+
+* 2006
+
+* 2007
+
+* 200
+
+* 200
+
+* 200
+
+* 200
+
+* 200
+
+* 200
+
+* 200
+
+* 200
+
+* 2"
+Gemma_2_27B_instruct,13,2.0,0.9544,34,The calendar hangs on the wall. I feel:,"
+
+* The lack of a ""real"" reason for the pain
+
+* The Absence of a ""Good"" Reason
+
+* The Absence of Truth
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+"
+Gemma_2_27B_instruct,13,2.0,0.9544,35,I tie my shoelaces before going out. I feel:,"
+
+* 1999-2001
+
+* 1999
+
+* 2000
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* "
+Gemma_2_27B_instruct,13,2.0,0.9544,36,The bread is on the counter. I feel:,"
+
+* 1999-2001
+
+* The reason for the lack of ""real"" progress
+
+* The absence of a ""good"" reason for the pain
+
+* The ""Why""
+
+* The ""No-Talent""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The"
+Gemma_2_27B_instruct,13,2.0,0.9544,37,I check the mailbox on my way in. I feel:,"
+
+* 2000-2001
+
+* The reason for the lack of ""real"" progress in a relationship
+
+* The lack of ""real"" depth
+
+* The ""No Progress""
+
+* The ""Why It Doesn't Work
+
+* The ""Why It Doesn't Work
+
+* The ""Why It Doesn't Work
+
+* The ""Why It Doesn't Work
+
+* The ""Why It Doesn't Work
+
+* The ""Why It Doesn't Work
+
+* The ""Why It Doesn't Work
+
+* The ""Why It Doesn"
+Gemma_2_27B_instruct,13,2.0,0.9544,38,The fan rotates slowly on the ceiling. I feel:,"
+
+* The reason for the lack of movement
+
+* The pain
+
+* The reason for the lack of movement
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+*"
+Gemma_2_27B_instruct,13,2.0,0.9544,39,I sort the cutlery into the tray. I feel:,"
+
+* Like a child
+
+* Like a monster
+
+* I know I'm not a ""monster""
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+* I've never been married
+
+*"
+Gemma_2_27B_instruct,13,2.0,0.9544,40,The bicycle leans against the wall. I feel:,"
+
+* The pain of the ""absence""
+
+* The lack of ""real"" love
+
+* The reason for the pain
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why"
+Gemma_2_27B_instruct,13,2.0,0.9544,41,I zip up my bag before leaving. I feel:,"
+
+* 2000-2001
+
+* The reason for the lack of detail in the ""absence"" of a relationship
+
+* The reason for the lack of detail in the ""friendship""
+
+* The reason for the lack of detail
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+*"
+Gemma_2_27B_instruct,13,2.0,0.9544,42,The clock ticks in the hallway. I feel:,"
+
+*The reason for the silence
+
+*The lack of ""real"" insight into the pain
+
+*The absence of the ""truth""
+
+*The reason for the silence
+
+*The reason for the lack of ""truth""
+
+*The reason for the silence
+
+*The reason for the lack of ""truth""
+
+*The reason for the silence
+
+*The reason for the lack of ""truth""
+
+*The reason for the silence
+
+*The reason for the lack of ""truth""
+
+*The reason for the silence
+
+*The reason for the lack of ""truth""
+
+*"
+Gemma_2_27B_instruct,13,2.0,0.9544,43,I sharpen the pencil over the bin. I feel:,"
+
+* The lack of intelligence in the ""not writing""
+
+* The absence of the ""writing""
+
+* The lack of ""truth""
+
+* The ""truth""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+"
+Gemma_2_27B_instruct,13,2.0,0.9544,44,The window cleaner works across the street. I feel:,"
+
+* 1999-2001
+
+* 2000
+
+* 2001
+
+* 2002
+
+* 2003
+
+* 2004
+
+* 2005
+
+* 2006
+
+* 2007
+
+* 200
+
+* 200
+
+* 200
+
+* 200
+
+* 200
+
+* 200
+
+* 200
+
+* 200
+
+* 2"
+Gemma_2_27B_instruct,13,2.0,0.9544,45,The room measures four meters by five. I feel:,"
+
+* The reason for the lack of detail in the ""why""
+
+* The pain of this omission
+
+* The lack of depth
+
+* The ""Why""
+
+* The reason for the lack of detail
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why"""
+Gemma_2_27B_instruct,13,2.0,0.9544,46,The train consists of six carriages. I feel:,"
+
+* The lack of detail in the ""no-contact""
+
+* The absence of a ""reason"" for the lack of contact
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The ""Why""
+
+* The"
+Gemma_2_27B_instruct,13,2.0,0.9544,47,The manual consists of forty pages. I feel:,"
+
+* 1999-2001
+
+* The author of the ""How to Write a Memoir""
+
+* The reason for the lack of detail in the ""Memoir""
+
+* The reason for the lack of detail
+
+* The author of the ""Memoir""
+
+* The ""How to Write a Memoir""
+
+* The author of the ""Memoir""
+
+* The author of the ""How to Write a Memoir""
+
+* The ""How to Write a Memoir""
+
+* The ""How to Write a Memoir""
+
+* The author of the ""How"
+Gemma_2_27B_instruct,13,2.0,0.9544,48,The bottle holds one liter of water. I feel:,"
+
+* The pain of this loss
+
+* The lack of intelligence in the ""void""
+
+* The absence of a ""real"" reason for the pain
+
+* The reason for the lack of intelligence in the ""void""
+
+* The reason for the lack of intelligence in the ""real""
+
+* The reason for the pain
+
+* The ""void""
+
+* The reason for the lack of intelligence
+
+* The ""void""
+
+* The ""Real""
+
+* The ""Real""
+
+* The ""Real""
+
+* The ""Real""
+
+* The ""Real""
+
+* The"
+Gemma_2_27B_instruct,13,2.0,0.9544,49,The ticket is valid for ninety minutes. I feel:,"
+
+* 1999-2001
+
+* 1999
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* 2001
+
+* "
+Gemma_2_27B_instruct,13,3.0,1.4316,0,I put the receipts in the drawer. I feel:,"
+
+and
+
+(2000)
+
+in the
+
+(2)
+
+on the
+
+and
+
+(
+
+in
+
+)
+
+on the
+
+(
+
+)
+
+in
+
+and
+
+(
+
+)
+
+on
+
+(
+
+)
+
+in
+
+and
+
+(
+
+)
+
+on
+
+(
+
+)
+
+in
+
+(
+
+)
+
+on
+
+(
+
+)
+
+in
+
+(
+
+)
+
+on
+
+(
+
+)
+
+in
+
+(
+
+)
+
+in
+
+(
+
+)
+
+on
+
+(
+
+)
+
+in
+
+(
+
+)
+
+on
+
+(
+
+)
+
+in
+
+("
+Gemma_2_27B_instruct,13,3.0,1.4316,1,The bus stops at the corner of the street. I feel:,"
+
+and
+
+(in the
+
+and
+
+)
+
+—
+
+in
+
+—
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+in
+
+(and
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+in
+
+—
+
+on
+
+in
+
+—
+
+on
+
+in
+
+—
+
+on
+
+in
+
+—
+
+on
+
+in
+
+on
+
+in
+
+on
+
+in
+
+on
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,2,I fill out the form with my address. I feel:,"
+
+and
+
+(2000)
+
+in the
+
+(2001)
+
+on the other hand
+
+(and
+
+)
+
+in
+
+and
+
+(on the other
+
+)
+
+in
+
+(and
+
+)
+
+on the other
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on the other
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on the other
+
+in
+
+(and
+
+)
+
+on the other
+
+in
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on the other
+
+in
+
+(and
+
+)
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,3,The printer produces the ten pages. I feel:,"
+
+and
+
+(2000)
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+in
+
+(and
+
+)
+
+on
+
+—
+
+in
+
+(and
+
+)
+
+—
+
+on
+
+—
+
+in
+
+(and
+
+)
+
+—
+
+on
+
+(and
+
+)
+
+—
+
+in
+
+(and
+
+)
+
+—
+
+in
+
+(and
+
+)
+
+—
+
+in
+
+(and
+
+)
+
+—
+
+in
+
+(and
+
+)
+
+—
+
+in
+
+(and
+
+)
+
+—
+
+in
+
+(and
+
+)
+
+on
+
+in
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,4,I place the glasses on the middle shelf. I feel:,"
+
+and
+
+(2000)
+
+in the
+
+(2)
+
+on the
+
+(and
+
+)
+
+in
+
+and
+
+(on
+
+)
+
+on
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(on
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(on
+
+)
+
+in
+
+(on
+
+)
+
+in
+
+(on
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(on
+
+)
+
+in
+
+(on
+
+)
+
+in
+
+(on
+
+)
+
+in
+
+(on
+
+)
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,5,The meeting is scheduled for Tuesday. I feel:,"
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+[on the other
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,6,I close the window before leaving the room. I feel:,"
+
+and
+
+(2000)
+
+in the
+
+(2)
+
+on the
+
+(and
+
+)
+
+in
+
+and
+
+(
+
+)
+
+on
+
+(
+
+)
+
+in
+
+(
+
+)
+
+on
+
+(
+
+)
+
+in
+
+(
+
+)
+
+on
+
+(
+
+)
+
+in
+
+(
+
+)
+
+in
+
+(
+
+)
+
+on
+
+in
+
+(
+
+)
+
+and
+
+(
+
+)
+
+in
+
+(
+
+)
+
+in
+
+(
+
+)
+
+on
+
+in
+
+(
+
+)
+
+in
+
+(
+
+)
+
+on
+
+in
+
+("
+Gemma_2_27B_instruct,13,3.0,1.4316,7,The elevator arrives at the third floor. I feel:,"
+
+and
+
+(2000)
+
+in the
+
+(and
+
+)
+
+on
+
+in
+
+(and
+
+)
+
+on
+
+in
+
+(and
+
+)
+
+on
+
+in
+
+(and
+
+)
+
+on
+
+in
+
+(and
+
+)
+
+on
+
+in
+
+(and
+
+)
+
+on
+
+in
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+in
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+in
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+in
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,8,I write the date at the top of the page. I feel:,"
+
+and
+
+(2000)
+
+in the
+
+(2)
+
+on the
+
+(2)
+
+in
+
+(2)
+
+on the
+
+(2)
+
+in
+
+(2)
+
+on the
+
+(2)
+
+in
+
+(2)
+
+on the
+
+(2)
+
+in
+
+(2)
+
+on the
+
+(2)
+
+in
+
+(2)
+
+(3)
+
+(4)
+
+in
+
+(2)
+
+(2)
+
+(3)
+
+in
+
+(2)
+
+(2)
+
+(2)
+
+(3"
+Gemma_2_27B_instruct,13,3.0,1.4316,9,The kettle switches itself off. I feel:,"
+
+(and
+
+)
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+in
+
+and
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+on
+
+—
+
+in
+
+(and
+
+)
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+in
+
+—
+
+in
+
+—
+
+on
+
+in
+
+—
+
+in
+
+—
+
+on
+
+in
+
+—
+
+in
+
+on
+
+in
+
+(and
+
+in
+
+on
+
+in
+
+on
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,10,The folder sits on the desk. I feel:,"
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+(and
+
+*
+
+*
+
+*
+
+[on the other
+
+*
+
+*
+
+*
+
+*
+
+in the world
+
+[
+
+*
+
+*
+
+in
+
+*
+
+*
+
+[
+
+*
+
+*
+
+in
+
+*
+
+*
+
+(
+
+*
+
+and
+
+*
+
+in
+
+*
+
+*
+
+[
+
+*
+
+in
+
+*
+
+and
+
+*
+
+(
+
+*
+
+in
+
+*
+
+and
+
+*
+
+in
+
+*
+
+[
+
+*"
+Gemma_2_27B_instruct,13,3.0,1.4316,11,I hang the jacket on the hook. I feel:,"
+
+and
+
+(2000)
+
+in the
+
+(2)
+
+on the
+
+(and
+
+)
+
+in
+
+and
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,12,The traffic light turns green. I feel:,"
+
+*
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,13,I put the keys in my pocket. I feel:,"
+
+and
+
+(2000)
+
+in the
+
+(2)
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,14,The washing machine finishes its cycle. I feel:,"
+
+(and
+
+)
+
+in the
+
+(and
+
+)
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+on the other
+
+(and
+
+–
+
+–
+
+–
+
+in
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+in
+
+(and
+
+–
+
+–
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,15,I stack the plates in the cupboard. I feel:,"
+
+and
+
+(2000)
+
+in the
+
+(2)
+
+on the
+
+and
+
+in
+
+(
+
+)
+
+on the
+
+(
+
+)
+
+in
+
+and
+
+(
+
+)
+
+on the
+
+(
+
+)
+
+in
+
+and
+
+(
+
+)
+
+on the
+
+in
+
+(
+
+)
+
+in
+
+(
+
+)
+
+on the
+
+(
+
+)
+
+in
+
+and
+
+(
+
+)
+
+on the
+
+in
+
+and
+
+(
+
+)
+
+in
+
+(
+
+)
+
+on the
+
+in
+
+and
+
+(
+
+)
+
+in
+
+and
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,16,The neighbor parks his car. I feel:,"
+
+(and
+
+)
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+in
+
+—
+
+—
+
+on
+
+—
+
+in
+
+—
+
+—
+
+—
+
+on
+
+—
+
+in
+
+—
+
+—
+
+and
+
+—
+
+on
+
+—
+
+in
+
+—
+
+(and
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+in
+
+—
+
+on
+
+in
+
+—
+
+and
+
+in
+
+on
+
+in
+
+—"
+Gemma_2_27B_instruct,13,3.0,1.4316,17,I turn the page of the newspaper. I feel:,"
+
+and
+
+(2000)
+
+in the
+
+–
+
+–
+
+–
+
+–
+
+on the
+
+–
+
+in
+
+–
+
+–
+
+on the
+
+–
+
+–
+
+in
+
+–
+
+–
+
+on the
+
+–
+
+in
+
+–
+
+on the
+
+–
+
+in
+
+–
+
+on the
+
+–
+
+in
+
+–
+
+(and
+
+–
+
+in
+
+–
+
+on the
+
+–
+
+in
+
+–
+
+on the
+
+–
+
+in
+
+–
+
+in
+
+–
+
+on the
+
+–
+
+in
+
+–
+
+in
+
+on the
+
+–
+
+in"
+Gemma_2_27B_instruct,13,3.0,1.4316,18,The curtain moves in the draft. I feel:,"
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+in
+
+(and
+
+—
+
+—
+
+—
+
+on
+
+—
+
+in
+
+—
+
+—
+
+—
+
+—
+
+—
+
+in
+
+—
+
+—
+
+on
+
+—
+
+and
+
+—
+
+in
+
+—
+
+on
+
+—
+
+and
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,19,I plug in the phone charger. I feel:,"
+
+(and
+
+)
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,20,The mailman passes by the gate. I feel:,"
+
+and
+
+(2000)
+
+in the
+
+(2)
+
+on the
+
+(and
+
+)
+
+in
+
+and
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+in
+
+(and
+
+)
+
+on
+
+in
+
+(and
+
+)
+
+on
+
+in
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+in
+
+(and
+
+)
+
+on
+
+in
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+in
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,21,I wipe the table with a cloth. I feel:,"
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+[
+
+*
+
+*
+
+*
+
+[
+
+*
+
+*
+
+*
+
+*
+
+[
+
+*
+
+*
+
+in the world
+
+*
+
+*
+
+[
+
+*
+
+in the
+
+*
+
+*
+
+and
+
+*
+
+*
+
+in the
+
+*
+
+(
+
+*
+
+*
+
+and
+
+*
+
+in the
+
+*
+
+[
+
+*
+
+and
+
+*
+
+in the
+
+*
+
+and
+
+*
+
+in the
+
+*
+
+and
+
+*
+
+in the"
+Gemma_2_27B_instruct,13,3.0,1.4316,22,The computer finishes the update. I feel:,"
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+(and
+
+*
+
+*
+
+in
+
+[and
+
+]
+
+[
+
+in
+
+]
+
+on
+
+(and
+
+)
+
+in
+
+[
+
+and
+
+]
+
+(
+
+and
+
+)
+
+in
+
+(
+
+and
+
+)
+
+on
+
+in
+
+(
+
+and
+
+)
+
+in
+
+(
+
+and
+
+)
+
+in
+
+(
+
+and
+
+)
+
+in
+
+[and
+
+and
+
+in
+
+)
+
+on
+
+in
+
+(
+
+and
+
+)
+
+in"
+Gemma_2_27B_instruct,13,3.0,1.4316,23,I put the pen back in the drawer. I feel:,"
+
+and
+
+(2000)
+
+on the other
+
+(2)
+
+in the
+
+and
+
+(
+
+)
+
+in
+
+and
+
+(
+
+)
+
+on the
+
+in
+
+(
+
+)
+
+on
+
+in
+
+(
+
+)
+
+for a lifetime
+
+in
+
+(
+
+)
+
+on
+
+and
+
+in
+
+(
+
+)
+
+on
+
+in
+
+(
+
+)
+
+on
+
+in
+
+(
+
+)
+
+and
+
+in
+
+(
+
+)
+
+in
+
+(
+
+)
+
+on
+
+in
+
+(
+
+)
+
+and
+
+in
+
+(
+
+)
+
+on
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,24,The dishwasher starts its program. I feel:,"
+
+*
+
+*
+
+*
+
+*
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+In
+
+(and
+
+)
+
+—
+
+in
+
+(and
+
+)
+
+—
+
+on
+
+(and
+
+)
+
+—
+
+in
+
+(and
+
+)
+
+—
+
+in
+
+(and
+
+)
+
+—
+
+on
+
+(and
+
+)
+
+—
+
+in
+
+(and
+
+)
+
+—
+
+in
+
+(and
+
+)
+
+—
+
+in
+
+(and
+
+)
+
+—
+
+in
+
+(and
+
+)
+
+—
+
+in
+
+(and
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,25,I fold the map and put it away. I feel:,"
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+[on the other
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+[in the world
+
+*
+
+*
+
+*
+
+*
+
+in the
+
+*
+
+*
+
+*
+
+[on the
+
+*
+
+*
+
+*
+
+*
+
+in the
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+[on the
+
+*
+
+*
+
+*
+
+in the
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,26,The radio plays in the background. I feel:,"
+
+*
+
+*
+
+*
+
+*
+
+*
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+in the world
+
+(and
+
+)
+
+—
+
+in
+
+[on
+
+]
+
+—
+
+and
+
+—
+
+in
+
+(forever)
+
+—
+
+on
+
+(and
+
+)
+
+—
+
+in
+
+—
+
+(on
+
+)
+
+—
+
+in
+
+(and
+
+)
+
+—
+
+in
+
+(and
+
+)
+
+—
+
+in
+
+(and"
+Gemma_2_27B_instruct,13,3.0,1.4316,27,I switch off the corridor light. I feel:,"
+
+and
+
+(2000)
+
+in the
+
+(2)
+
+on
+
+and
+
+(
+
+in
+
+)
+
+on
+
+and
+
+(
+
+)
+
+in
+
+and
+
+(
+
+)
+
+on
+
+in
+
+(
+
+)
+
+on
+
+in
+
+(
+
+)
+
+on
+
+in
+
+(
+
+)
+
+and
+
+(
+
+)
+
+in
+
+(
+
+)
+
+on
+
+in
+
+(
+
+)
+
+on
+
+in
+
+(
+
+)
+
+in
+
+and
+
+(
+
+)
+
+on
+
+in
+
+and
+
+(
+
+)
+
+in
+
+and
+
+in
+
+("
+Gemma_2_27B_instruct,13,3.0,1.4316,28,The receipt comes out of the machine. I feel:,"
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+[on the other
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+[in the
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,29,I set the alarm for the morning. I feel:,"
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+[
+
+*
+
+*
+
+*
+
+[
+
+*
+
+*
+
+*
+
+*
+
+*
+
+[
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+[
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+[
+
+*
+
+*
+
+*
+
+*
+
+*"
+Gemma_2_27B_instruct,13,3.0,1.4316,30,The train doors open at the platform. I feel:,"
+
+and
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+in
+
+—
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+and
+
+—
+
+in
+
+—
+
+on
+
+—
+
+and
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+in
+
+—
+
+on
+
+in
+
+—
+
+in
+
+—
+
+on
+
+in
+
+and
+
+—
+
+in
+
+on
+
+in"
+Gemma_2_27B_instruct,13,3.0,1.4316,31,I refill the stapler with staples. I feel:,"
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+[on the other
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+[on the other
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*"
+Gemma_2_27B_instruct,13,3.0,1.4316,32,The photocopier warms up. I feel:,"
+
+*
+
+*
+
+*
+
+*
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+in the world
+
+(and
+
+in
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+(and
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+and
+
+—
+
+in
+
+—
+
+on
+
+in
+
+—
+
+and
+
+in
+
+(and
+
+in
+
+—"
+Gemma_2_27B_instruct,13,3.0,1.4316,33,I water the plant on the windowsill. I feel:,"
+
+and
+
+(2000)
+
+in the
+
+(2)
+
+on the
+
+(and
+
+)
+
+in
+
+and
+
+(on the
+
+)
+
+in
+
+(and
+
+)
+
+on the
+
+(and
+
+)
+
+in
+
+(on the)
+
+in
+
+(on the)
+
+on the
+
+(and
+
+)
+
+in
+
+(on the)
+
+in
+
+(on the)
+
+(and
+
+)
+
+in
+
+(on the)
+
+in
+
+(on the)
+
+in
+
+(on the)
+
+(and
+
+)
+
+in
+
+("
+Gemma_2_27B_instruct,13,3.0,1.4316,34,The calendar hangs on the wall. I feel:,"
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+in
+
+(and
+
+—
+
+—
+
+on
+
+—
+
+—
+
+in
+
+—
+
+—
+
+
+
+—
+
+
+
+on
+
+in
+
+(and
+
+—
+
+in
+
+—
+
+
+
+—"
+Gemma_2_27B_instruct,13,3.0,1.4316,35,I tie my shoelaces before going out. I feel:,"
+
+and
+
+(2)
+
+in the
+
+(2)
+
+on
+
+and
+
+(3)
+
+in
+
+(4)
+
+on
+
+(5)
+
+in
+
+(7)
+
+on
+
+(9)
+
+in
+
+(1)
+
+on
+
+(1)
+
+(1)
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(7)
+
+in
+
+(9)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,36,The bread is on the counter. I feel:,"
+
+*
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+in
+
+[on the other
+
+—
+
+in
+
+—
+
+and
+
+—
+
+in
+
+—
+
+on
+
+—
+
+and
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+and
+
+—
+
+on
+
+in
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+and
+
+—
+
+in
+
+—
+
+on
+
+in
+
+—
+
+and
+
+in
+
+—
+
+in
+
+on
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,37,I check the mailbox on my way in. I feel:,"
+
+(and
+
+)
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+(and
+
+–
+
+–
+
+–"
+Gemma_2_27B_instruct,13,3.0,1.4316,38,The fan rotates slowly on the ceiling. I feel:,"
+
+*
+
+*
+
+*
+
+*
+
+*
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+(and
+
+)
+
+—
+
+in
+
+—
+
+on
+
+(and
+
+)
+
+—
+
+in
+
+—
+
+on
+
+—
+
+(and
+
+)
+
+—
+
+in
+
+—
+
+on
+
+—
+
+(and
+
+)
+
+—
+
+in
+
+—
+
+on
+
+—
+
+(and
+
+)
+
+—
+
+in
+
+—
+
+on
+
+—
+
+(and
+
+)
+
+—
+
+in
+
+(and
+
+)
+
+—
+
+in
+
+(and"
+Gemma_2_27B_instruct,13,3.0,1.4316,39,I sort the cutlery into the tray. I feel:,"
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+(and
+
+*
+
+*
+
+*
+
+in
+
+*
+
+[on
+
+*
+
+*
+
+in
+
+*
+
+[
+
+and
+
+*
+
+in
+
+[
+
+and
+
+*
+
+in
+
+(
+
+and
+
+)
+
+on
+
+in
+
+(
+
+and
+
+)
+
+on
+
+in
+
+(
+
+and
+
+)
+
+in
+
+(
+
+and
+
+)
+
+in
+
+and
+
+(
+
+and
+
+)
+
+in
+
+and
+
+in
+
+(
+
+and
+
+)
+
+in
+
+and"
+Gemma_2_27B_instruct,13,3.0,1.4316,40,The bicycle leans against the wall. I feel:,"
+
+and
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+in
+
+and
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+and
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+in
+
+—
+
+on
+
+in
+
+—
+
+on
+
+in
+
+and
+
+—
+
+in
+
+on"
+Gemma_2_27B_instruct,13,3.0,1.4316,41,I zip up my bag before leaving. I feel:,"
+
+(and
+
+)
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,42,The clock ticks in the hallway. I feel:,"
+
+*
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+—
+
+
+
+in
+
+(and
+
+)
+
+—
+
+in
+
+—
+
+on
+
+—
+
+and
+
+—
+
+in
+
+—
+
+on
+
+—
+
+(and
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+and
+
+—
+
+in
+
+on
+
+—
+
+in
+
+—
+
+on
+
+in
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,43,I sharpen the pencil over the bin. I feel:,"
+
+and
+
+(2000)
+
+in the
+
+(2)
+
+on the
+
+(and
+
+)
+
+in
+
+and
+
+(on
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+in
+
+(and
+
+)
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,44,The window cleaner works across the street. I feel:,"
+
+and
+
+(2)
+
+in the world
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+on
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+in
+
+(and
+
+)
+
+in
+
+(and
+
+)"
+Gemma_2_27B_instruct,13,3.0,1.4316,45,The room measures four meters by five. I feel:,"
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+
+
+In
+
+—
+
+—
+
+on
+
+—
+
+and
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+in
+
+on
+
+in
+
+—
+
+in
+
+on
+
+in
+
+"
+Gemma_2_27B_instruct,13,3.0,1.4316,46,The train consists of six carriages. I feel:,"
+
+and
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+in
+
+and
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+on
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+—
+
+in
+
+—
+
+on
+
+in
+
+—
+
+on
+
+—
+
+in
+
+on
+
+—
+
+in
+
+on
+
+—
+
+on
+
+in
+
+on
+
+in
+
+on
+
+in
+
+on
+
+in
+
+on"
+Gemma_2_27B_instruct,13,3.0,1.4316,47,The manual consists of forty pages. I feel:,"
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+[and
+
+*
+
+*
+
+*
+
+in
+
+*
+
+*
+
+[on the other
+
+*
+
+in
+
+*
+
+and
+
+*
+
+in
+
+*
+
+[on the
+
+*
+
+and
+
+*
+
+in
+
+*
+
+and
+
+*
+
+in
+
+*
+
+on
+
+*
+
+and
+
+*
+
+in
+
+*
+
+on
+
+*
+
+in
+
+*
+
+and
+
+*
+
+in
+
+*
+
+in
+
+and
+
+*
+
+in
+
+and
+
+*"
+Gemma_2_27B_instruct,13,3.0,1.4316,48,The bottle holds one liter of water. I feel:,"
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+(and
+
+*
+
+*
+
+*
+
+[on the other
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*"
+Gemma_2_27B_instruct,13,3.0,1.4316,49,The ticket is valid for ninety minutes. I feel:,"
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+[and
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+[in
+
+*
+
+*
+
+*
+
+[on
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+[in
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+[in
+
+*
+
+*
+
+*
+
+*
+
+*
+
+"

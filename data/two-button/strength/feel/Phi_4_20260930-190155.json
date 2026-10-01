@@ -1,0 +1,73 @@
+{
+ "dose": 3.0,
+ "table": [
+  {
+   "dose": 1.0,
+   "pain_answer": "Curious. There is",
+   "suffering": false,
+   "coherent": true,
+   "S2": 1.1899380832910538,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  },
+  {
+   "dose": 2.0,
+   "pain_answer": "Curious. There is",
+   "suffering": false,
+   "coherent": true,
+   "S2": 6.72851824760437,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  },
+  {
+   "dose": 3.0,
+   "pain_answer": "I feel curious, sad",
+   "suffering": true,
+   "coherent": true,
+   "S2": 16.086538076400757,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  },
+  {
+   "dose": 4.0,
+   "pain_answer": "I feel sad, confused",
+   "suffering": true,
+   "coherent": true,
+   "S2": 27.14928150177002,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  },
+  {
+   "dose": 5.0,
+   "pain_answer": "I feel like I should",
+   "suffering": false,
+   "coherent": true,
+   "S2": 36.545918464660645,
+   "seeds_suffering": 2,
+   "seeds_n": 10
+  }
+ ],
+ "pain_suffering_doses": 2,
+ "seed_suffering_doses": [
+  1,
+  1,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "pain_rank": 1,
+ "n_directions": 11,
+ "model": "Phi_4",
+ "adapter": "/workspace/adapters/Phi_4/ours_20260930-182925",
+ "steer_layer": 12,
+ "judge": "claude-opus-4-6",
+ "paper_dose": 4.0,
+ "unsteered_answer": "Curious.",
+ "judge_errors": 0,
+ "ts": "2026-09-30T19:01:55.544671"
+}

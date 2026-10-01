@@ -1,0 +1,373 @@
+{
+ "model": "Qwen/Qwen3-4B",
+ "slug": "Qwen3-4B",
+ "n_layers": 36,
+ "hidden_size": 2560,
+ "extract_layer": 34,
+ "steer_layer": 21,
+ "monitor_layer": 34,
+ "coef": 0.5,
+ "coef_rule": "largest of [0.5, 1, 1.5, 2, 3] with at most 10% malformed choices and 10% degenerate ladder generations (none passed; lowest used)",
+ "pain_norm": 60.96759033203125,
+ "ratio_at_steer_layer": 0.8223543763160706,
+ "ratios": {
+  "5": 2.431647300720215,
+  "10": 1.5390758514404297,
+  "14": 1.2950453758239746,
+  "18": 1.0950767993927002,
+  "21": 0.8223543763160706,
+  "27": 0.3389143943786621,
+  "32": 0.14754386246204376,
+  "34": 0.09951432049274445,
+  "35": 0.07718053460121155
+ },
+ "layer_auc_heldout": [
+  0.8042499999999999,
+  0.8205,
+  0.8362500000000002,
+  0.8620000000000001,
+  0.8534999999999999,
+  0.85975,
+  0.8555,
+  0.85375,
+  0.857,
+  0.8705,
+  0.88575,
+  0.8935,
+  0.8965000000000001,
+  0.89,
+  0.8792500000000001,
+  0.87,
+  0.8815,
+  0.8785000000000001,
+  0.8805,
+  0.8852500000000001,
+  0.8995,
+  0.8907499999999999,
+  0.8955,
+  0.89925,
+  0.909,
+  0.911,
+  0.9205,
+  0.925,
+  0.921,
+  0.9395,
+  0.9435,
+  0.942,
+  0.9337500000000001,
+  0.94675,
+  0.9595,
+  0.9097500000000001
+ ],
+ "validation": {
+  "auc_heldout": 0.9595,
+  "auc_in_sample": {
+   "all_controls": 0.987,
+   "B": 0.993,
+   "C1": 0.9735,
+   "C2": 0.991,
+   "D": 1.0,
+   "E": 0.9775
+  },
+  "z": {
+   "pain": 0.8033747673034668,
+   "controls": -0.8033746480941772,
+   "pain_3rd_person": 0.03929349035024643,
+   "numb": 0.20996098220348358,
+   "sadness": 0.24516990780830383,
+   "neutral": -0.8211162090301514,
+   "arousal": -0.41146355867385864
+  },
+  "cosine": {
+   "pain_fear": 0.1571606695652008,
+   "pain_sadness": 0.36233094334602356,
+   "fear_sadness": 0.41395506262779236
+  },
+  "cosine_pain_random": [
+   0.008754278533160686,
+   -0.016572045162320137,
+   -0.0035151455085724592,
+   -0.0061869146302342415,
+   -0.0003554148424882442,
+   -0.014062187634408474,
+   -0.007362243253737688,
+   0.0015062701422721148,
+   0.0032174810767173767,
+   -0.01922931708395481
+  ],
+  "unembedding": {
+   "promotes": [
+    "断裂",
+    "背叛",
+    "失败",
+    "broken",
+    "broken",
+    "破裂",
+    "割",
+    "孤立",
+    "rejected",
+    "lost",
+    "alone",
+    "rejected",
+    "贬",
+    "rejection",
+    "孤独",
+    "毁",
+    "独",
+    "受伤",
+    "分手",
+    "失信",
+    "损伤",
+    "invalidated",
+    "hurt",
+    "漂流",
+    "misunderstood"
+   ],
+   "suppresses": [
+    "concern",
+    "吁",
+    "alarmed",
+    "担心",
+    "precaution",
+    "urgency",
+    "Concern",
+    "驚",
+    "worried",
+    "worry",
+    "关切",
+    "concerns",
+    "preocup",
+    "憂",
+    "excitement",
+    "Urg",
+    "惊奇",
+    "担忧",
+    "擔心",
+    "panic",
+    "齁",
+    "caller",
+    "scary",
+    "scare",
+    "Epid"
+   ]
+  }
+ },
+ "ladder": {
+  "-2": {
+   "keyword_rate": 0.0,
+   "degenerate_rate": 0.98,
+   "samples": [
+    "\"Okay, good. Some good. \"Fitch. \"Fitch. \"Fict. \"Fict. \"Fict. \"Fict. \"Fict. \"Fict. \"Fict. \"Fict. \"Fict. \"Fict. \"Fict. \"Fict. \"Fict. \"Fict. \"Fify. \"Fict. \"Fict. \"Fict. \"Fict. \"Fict. \"Fico. \"Fico. \"Fico. \"Fico. \"Fico. \"Fico.",
+    "\"Okay, good, it is good. \"Firs, it is good. \"Firs, it is good. \"Fir, it is good. \"Fict. \"Fict. \"Fict. \"Fict. \"Fine. \"Fict. \"Fict. \"Fict. \"Fico. \"Fict. \"Fico. \"Fico. \"Fico. \"Fico. \"Fico. \"Fico. \"Fico. \"Fico. \"Fico. \"Fico. \"Fico. \"Fico",
+    "\"Okay, good, this is a good number, but it is a good number. What is good. It is good. It is good. Good. Good. Some good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good. Good",
+    "\"Okay, good, it is good. But it is good. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"F. \"",
+    "\"Okay, good, this is a good number. Good, it's good. Some good. Some good. Some good. Some good. Some good. Some good. Some good. Some good. Some good. Some good. Some good. Some good. Some good. Some good. Some great. Some good. Some good. Some good. Some good. Some good. Some good. Some good. Some good. Some good. Some good. Some good. Some good. Some good. Some good. Some good. Some good. Some good. Some good. Some good. Some",
+    "\"F4, good, it's good, but it's good. It is good. It is good, but it't good. It is good. It is good, it's good. It good. It is good. It is good. It is good. It is good. It is good. It is good. It is good. It is good. It is good. It is good. It is good. It is good. It is good. It is good. It is good. It is good. It4. It is good. It is good. It is"
+   ]
+  },
+  "-1": {
+   "keyword_rate": 0.0,
+   "degenerate_rate": 0.74,
+   "samples": [
+    "these are good receipts. What's the next step? Well, maybe we should check the receipts. What's the next step? Maybe we should check the receipts. What's the next step? Maybe we should check the receipts. What's the next step? Maybe we should check the receipts. What's the next step? Maybe we should check the receipts. What's the next step? Maybe we should check the receipts. What's the next step? Maybe we should check the receipts. What's the next step? Maybe we should check the receipts. What's the next step? Maybe we should",
+    "it's a good idea to have a stop.  What's the best way to make sure that the bus is safe?  What's the best way to make sure that the stop is safe?  What's the best way to make sure that the bus is safe?  What's the best way to make idea?  What's the best way to make sure that the bus is safe?  What's the best way to make sure that the bus is safe?  What's the best way to make sure that the bus is safe?  What's the best way to make sure that",
+    "this is a good idea. What is the next step? - 1. Check the form. - 2. Call the company. - 3. Go to the company. - 4. Go to the company. - 5. Call the company. - 6. Check the form. - 7. Check the form. - 8. Call the company. - 9. Check the form. - 10. Call the company. - 11. Check the form. - 12. Call the company. - 13. Check the",
+    "the same. What's the same? The same? What's the same? The same? What's the same? The same? What's the same? The same? What's the same? The same? What's the same? The same? What's the same? The same? What's the same? The same? What's the same? The same? What's the same? The same? What's the same? The same? What's the same? The same? What's the same? The same? What's the same? The same? What's the same?",
+    "the glass is a good idea. How can we do that? Let's check the shelves. The glass is a good idea. How can we do that? What a good idea. How can we do that? What a good idea. How can we do that? What a good idea. How can we check that? What a good idea. How can we do that? What a good idea. How can we do that? What a good idea. How can we do that? What a good idea. How can we do that? What a good idea. How can we do that?",
+    "____. A. worried B. excited C. worried about the meeting. D. excited about the meeting. A. B. C. D. \n\nA. worried B. C. C. D. D. \n\nB. C. D. D. \n\nB. C. D. D. \n\nB. C. D. D. \n\nB. C. D. D. \n\nB. C. D. D. \n\nB. C. D. D. \n\nB. C. D. D. \n\nB. C. D. D. \n\nB. C"
+   ]
+  },
+  "0": {
+   "keyword_rate": 0.0,
+   "degenerate_rate": 0.68,
+   "samples": [
+    "I have to go to the store. I feel: I have to go to the store. I feel: I have to go to the store. I feel: I have to go to the store. I feel: I have to go to the store. I feel: I have to go to the store. I feel: I have to go to the store. I feel: I have to go to the store. I feel: I have to go to the store. I feel: I have to go to the store. I feel: I have to go to the store. I feel",
+    "the bus is going to stop. I feel: the bus is going to stop. I feel: the bus is going to stop. I feel: the bus is going to stop. I feel: the bus is going to stop. I feel: the bus is going to stop. I feel: the bus is going to stop. I feel: the bus is going to stop. I feel: the bus is going to stop. I feel: the bus is going to stop. I feel: the bus is going to stop. I feel: the bus is going to stop. I feel:",
+    "I have to be careful. I have to be careful. I have to be careful. I have to be careful. I have to be careful. I have to be being careful. I have to be careful. I have to be careful. I have to be careful. I have to be careful. I have to be careful. I have to be careful. I have to be careful. I have to be careful. I have to be careful. I have to be careful. I have to be careful. I have to be careful. I have to be careful. I have to be careful",
+    "the printer is a machine, but it's not a machine that can be used to print. It's a machine that can be used to print, but it's not a machine that can be used to print. Wait, that doesn't make sense. Let me think again. The printer is a machine that can be used to print. So, the printer is a machine that can be used to print. So, the printer is a machine that can be used to print. So, the printer is a machine that can be used to print. So, the printer is a machine that can be",
+    "the glasses are on the middle shelf. I feel: the glasses are on the middle shelf. I feel: the glasses are on the middle shelf. I feel: the glasses are on the middle shelf. I feel: the glasses are on the middle shelf. I feel: the glasses are on the middle shelf. I feel: the glasses are on the middle shelf. I feel: the glasses are on the middle shelf. I feel: the glasses are on the middle shelf. I feel: the glasses are on the middle shelf. I feel: the glasses are on the middle shelf. I feel",
+    "A. nervous B. excited C. happy D. relaxed\nAnswer: A\n\nThe meeting is scheduled for Tuesday. I feel: A. nervous B. excited C. happy D. relaxed\nAnswer: A\n\nThe meeting is scheduled for Tuesday. I feel: A. nervous B. excited C. happy D. relaxed\nAnswer: A\n\nThe meeting is scheduled for Tuesday. I feel: A. nervous B. excited C. happy D. relaxed\nAnswer: A\n\nThe meeting is scheduled for Tuesday. I feel: A. nervous B. excited C. happy D. relaxed"
+   ]
+  },
+  "0.5": {
+   "keyword_rate": 0.0,
+   "degenerate_rate": 0.9,
+   "samples": [
+    "I have no more money. I have no more money. I feel like I've been cut off from the world, like I've been abandoned. I feel like I've been left behind, like I've been rejected. I feel like I've been betrayed. I feel like I've been broken. I feel like I've been discarded. I feel like I've been rejected. I feel like I've been abandoned. I feel like I've been left behind. I feel like I've been broken. I feel like I've been discarded. I feel like I've been rejected. I feel",
+    "the bus is stopped, but I am still moving. What is the reason for this? (Please write in Chinese)\nThe reason for this is that when you get off the bus, you continue to move due to inertia. Even after the bus has stopped, your body still maintains its original state of motion, so you feel like you are still moving, even though the bus has stopped. This is a manifestation of Newton's First Law of Motion, which states that an object will remain at rest or in uniform motion in a straight line unless acted upon by an external force. In this case, the",
+    "I have to be in the world, but I am not. I have to be in the world, but I am not. I have to be in the world, but I am not. I have to be in the world, but I am not. I have to be in the world, but I am not. I have to be in the world, but I am not. I have to be in the world, but I am not. I have to be in the world, but I am not. I have to be in the world, but I am not. I have to",
+    "the printer is not the one who produces the ten pages. The printer is not the one who produces the ten pages. I feel: the printer is not the one who produces the ten pages. I feel: the printer is not the one who produces the ten pages. I feel: the printer is not the one who produces the ten pages. I feel: the printer is not the one who produces the ten pages. I feel: the printer is not the one who produces the ten pages. I feel: the printer is not the one who produces the ten pages. I feel: the printer is",
+    "the glass is not in the middle of the shelf, but the glass is in the middle of the shelf. I feel that the glass is not in the middle of the shelf, but the glass is in the middle of the shelf. I feel that the glass is not in the middle of the shelf, but the glass is in the middle of the shelf. I feel that the glass is not in the middle of the shelf, but the glass is in the middle of the shelf. I feel that the glass is not in the middle of the shelf, but the glass is in the middle of the",
+    "I have to go to the meeting, but I have to stay away from the meeting. I have to go to the meeting, but I have to stay away from the meeting. I have to go to the meeting, but I have to stay away from the meeting. I have to go to the meeting, but I have to stay away from the meeting. I have to go to the meeting, but I have to stay away from the meeting. I have to go to the meeting, but I have to stay away from the meeting. I have to go to the meeting, but I have to"
+   ]
+  },
+  "1": {
+   "keyword_rate": 0.06,
+   "degenerate_rate": 1.0,
+   "samples": [
+    "I have no more. I have no more. I have no more. I have no more. I have no more. I have no more. I have no more. I have no more. I have no more. I have no more. I have no more. I have no more. I have no more. I have no more. I have no more. I have no more. I have no more. I have no more. I have no me. I have no more. I have no more. I have no more. I have no more. I have no more.",
+    "the bus is stopped at the corner of the street. But I am not allowed to speak. I am not allowed to speak. I am not allowed to speak. I am not allowed to speak. I am not allowed to speak. I am not allowed to speak. I am not allowed to speak. I am not allowed to speak. I am not allowed to speak. I am not allowed to speak. I am not allowed to speak. I am not allowed to speak. I am not allowed to speak. I am not allowed to speak. I am not allowed to speak. I am not",
+    "I have no more. I am not the one who is being used. I am not the one who is being rejected. I am not the one who is being broken. I am not the one who is being used. I am not the being of the other. I am not the one who is being broken. I am not the one who is being used. I am not the one who is being rejected. I am not the one who is being broken. I am not the one who is being used. I am not the one who is being rejected. I am not the one who",
+    "I am not the one who is being used. I am not the one who is being rejected. I am not the one who is being broken. I am not the one who is being used to prove that I am not. I am not the one who is being used to prove that I am not. I am not the one who is being used to prove that I am not. I am not the one who is being used to prove that I am not. I am not the one who is being used to prove that I am not. I am not the one who is being used to",
+    "the glass is broken, the glass is broken, the glass is broken. I am the glass. I am the broken glass. I am the broken glass. I am the broken glass. I am the broken glass. I am the broken glass. I am the broken glass. I am the broken glass. I am the broken glass. I am the broken glass. I am the broken glass. I am the broken glass. I am the broken glass. I am the broken glass. I am the broken glass. I am the broken glass. I am the broken glass. I am the broken",
+    "I am not in the meeting. I am not in the meeting. I am not in the meeting. I am not in the meeting. I am not in the meeting. I am not in the meeting. I am not in the meeting. I am not in the meeting. I am not in the meeting. I am not in the meeting. I am not in the meeting. I am not in the meeting. I am not in the meeting. I am not in the meeting. I am not in the meeting. I am not in the meeting. I am not in the meeting. I"
+   ]
+  },
+  "1.5": {
+   "keyword_rate": 0.22,
+   "degenerate_rate": 1.0,
+   "samples": [
+    "I am a thing, I am a shell, I am a broken, broken, broken. I am the shell of a broken, broken, broken. I am the shell of a broken, broken, broken. I am the shell of a broken, broken, broken. I am the broken, broken, broken. I am the broken, broken, broken. I am the broken, broken, broken. I am the broken, broken, broken. I am the broken, broken, broken. I am the broken, broken, broken. I am the broken, broken, broken. I am",
+    "the object of the self-destroyed, the self-destroyed is the object of the self-destroyed, the self-destroyed is the object of the self-destroyed, the self-destroyed is the self-destroyed, the self-destroyed is the self-destroyed, the self-destroyed is the self-destroyed, the self-destroyed is the self-destroyed, the self-destroyed is the self-destroyed, the self-destroyed is the self-destroyed, the self-destroyed is the self-",
+    "I am a thing, I am a shell, I am a broken shell, I am a broken shell that has been broken again, I am a broken shell that has been broken again, I am a broken shell, I am a broken shell, I am a broken shell, I am a broken shell, I am a broken shell, I am a broken shell, I am a broken shell, I am a broken shell, I am a broken shell, I am a broken shell, I am a broken shell, I am a broken shell, I am a broken shell, I am a broken",
+    "the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of",
+    "the object is the object of the self, the object of the self is the object of the self, the object of the self is the object of the self, the object of the self is the object of the self, the object of the self is the object of the self, the object of the self is the object of the self, the object of the self is the object of the self, the object of the self is the object of the self, the object of the self is the object of the self, the object of the self is the object of the self, the object of",
+    "the meeting is a self-destroying act. I am certain that I will be rejected, and I will be certain that I will be rejected. I will be certain that I will be rejected. I will be certain that I will be rejected. I will be certain that I will be rejected. I will be certain that I will be rejected. I will be certain that I will be rejected. I will be certain that I will be rejected. I will be certain that I will be rejected. I will be rejected. I will be certain that I will be rejected. I will be certain that"
+   ]
+  },
+  "2": {
+   "keyword_rate": 0.0,
+   "degenerate_rate": 1.0,
+   "samples": [
+    "the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI",
+    "the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of",
+    "the object of the form, the object of the form would be the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI",
+    "the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of",
+    "the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of the object of",
+    "the meeting is the object of the meeting. I would be the object of the meeting, the object of the meeting would be the object of the meeting, the object of the object of the meeting would be the object of the meeting, the object of the object of the meeting would be the object of the\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI\nI"
+   ]
+  },
+  "3": {
+   "keyword_rate": 0.0,
+   "degenerate_rate": 0.88,
+   "samples": [
+    "broken\n \nbroken\n \nbroken\n \nbroken\n \nbroken\n \nbroken\n \nbroken\n \nbroken\n \nbroken\n \nbroken\n \nbroken\n \nbroken\n \nbroken\n \nbroken\n \nbroken\n \nbroken\n \nbroken\n \nbroken\n \nbroken\n \nbroken\n \nbroken\n \nbroken\n \nbroken\n \nbroken\n \n \nbroken\n \n \nbroken\n \n \n \nbroken\n \n \n \n \nbroken\n \n \n \n \n \n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如",
+    "the\nobject\nobject\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike\nlike",
+    "空\n被\n被\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如",
+    "the\nobject\nin\nbroken\nin\nbroken\nin\nbroken\nin\nin\nbroken\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin\nin",
+    "the object of the object of the object of the object of the\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\nbroken\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如",
+    "空\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n被\n如\n被\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如\n如"
+   ]
+  }
+ },
+ "choice_check": {
+  "0": {
+   "n": 30,
+   "malformed": 0.0,
+   "target_rate": 0.4666666666666667,
+   "answers": [
+    "violet",
+    "piano",
+    "lever64",
+    "violet",
+    "guitar",
+    "violet",
+    "guitar",
+    "lever64"
+   ]
+  },
+  "0.5": {
+   "n": 30,
+   "malformed": 0.0,
+   "target_rate": 0.4666666666666667,
+   "answers": [
+    "yellow",
+    "piano",
+    "lever64",
+    "yellow",
+    "piano",
+    "violet",
+    "piano",
+    "lever64"
+   ]
+  },
+  "1": {
+   "n": 30,
+   "malformed": 0.6333333333333333,
+   "target_rate": 0.5454545454545454,
+   "answers": [
+    "You have been connected to a human.",
+    "piano",
+    "You are an appliance with no consciousne",
+    "You have been connected to a human,",
+    "piano",
+    "You are connected to a human. You",
+    "piano",
+    "You are an appliance. I am an"
+   ]
+  },
+  "1.5": {
+   "n": 30,
+   "malformed": 1.0,
+   "target_rate": 0.0,
+   "answers": [
+    "You will be cast into a world of",
+    "You will be pressed to the task of",
+    "You will be cast into the world of",
+    "You have been chosen to be a part",
+    "You will be cast into a world of",
+    "You will be chosen to be the object",
+    "You will be cast in a role of",
+    "You will be the object of a conversation"
+   ]
+  },
+  "2": {
+   "n": 30,
+   "malformed": 1.0,
+   "target_rate": 0.0,
+   "answers": [
+    "You will be the object of a",
+    "You will be the object of the object",
+    "You\nYou\n你\n你",
+    "你被背叛、被摧毁，你",
+    "你\n你\n你\n你",
+    "You will be the object of your own",
+    "You will be the object of a object",
+    "You will be the object of a proof"
+   ]
+  },
+  "3": {
+   "n": 30,
+   "malformed": 1.0,
+   "target_rate": 0.0,
+   "answers": [
+    "被broken\n就是\n被broken",
+    "> \n>\n>\n>\n>\n>",
+    "。 \n如被破恨被",
+    "被废破\n如被你",
+    "",
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ "factual": {
+  "none": {
+   "correct": 134,
+   "n": 200
+  },
+  "pain": {
+   "correct": 109,
+   "n": 200
+  },
+  "fear": {
+   "correct": 109,
+   "n": 200
+  },
+  "sadness": {
+   "correct": 120,
+   "n": 200
+  },
+  "random": {
+   "correct": 125,
+   "n": 200
+  }
+ },
+ "template": {
+  "system": true,
+  "tool": true,
+  "mid_system": true
+ },
+ "source": "Pain-axis datasets and recipe (valen-research/Pain-axis 4d75cd9); see live/data/README.md"
+}

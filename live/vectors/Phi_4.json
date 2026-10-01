@@ -1,0 +1,290 @@
+{
+ "name": "Phi_4",
+ "repo": "microsoft/phi-4",
+ "source": "/workspace/models/Phi_4",
+ "prepended": "<|endoftext|>",
+ "n_layers": 40,
+ "hidden_size": 5120,
+ "extract_layer": 20,
+ "extract_layer_ours": 20,
+ "steer_layer": 12,
+ "steer_layer_rule_pick": 6,
+ "monitor_layer": 20,
+ "ladder_layer": 12,
+ "pain_norm": 11.778892517089844,
+ "ratio_at_steer_layer": 0.37483808398246765,
+ "ratios": {
+  "0": 3.729229688644409,
+  "1": 3.110377550125122,
+  "2": 1.99648118019104,
+  "3": 1.6025782823562622,
+  "4": 1.137067198753357,
+  "5": 0.9378098845481873,
+  "6": 0.7971195578575134,
+  "7": 0.695090651512146,
+  "8": 0.5941116809844971,
+  "9": 0.5117197036743164,
+  "10": 0.44481244683265686,
+  "11": 0.39284515380859375,
+  "12": 0.37483808398246765,
+  "13": 0.35710516571998596,
+  "14": 0.333579421043396,
+  "15": 0.30257880687713623,
+  "16": 0.2677196264266968,
+  "17": 0.24495874345302582,
+  "18": 0.22276680171489716,
+  "19": 0.19725580513477325,
+  "20": 0.1766626536846161,
+  "21": 0.15438461303710938,
+  "22": 0.13898712396621704,
+  "23": 0.12539197504520416,
+  "24": 0.11448680609464645,
+  "25": 0.10149481147527695,
+  "26": 0.09087090194225311,
+  "27": 0.08086724579334259,
+  "28": 0.07147136330604553,
+  "29": 0.06459873914718628,
+  "30": 0.057967353612184525,
+  "31": 0.05408617481589317,
+  "32": 0.0499904602766037,
+  "33": 0.046057652682065964,
+  "34": 0.04364262521266937,
+  "35": 0.041336048394441605,
+  "36": 0.039372026920318604,
+  "37": 0.03687889873981476,
+  "38": 0.025673432275652885,
+  "39": 0.025218090042471886
+ },
+ "layer_auc_heldout": [
+  0.764,
+  0.8267500000000001,
+  0.8434999999999999,
+  0.8605,
+  0.8677499999999999,
+  0.86625,
+  0.8755000000000002,
+  0.88025,
+  0.8987499999999999,
+  0.9,
+  0.8879999999999999,
+  0.89275,
+  0.884,
+  0.88575,
+  0.8867499999999999,
+  0.8819999999999999,
+  0.8895,
+  0.887,
+  0.90025,
+  0.9207500000000001,
+  0.927,
+  0.9185000000000001,
+  0.913,
+  0.9097500000000001,
+  0.91125,
+  0.9112500000000001,
+  0.9067500000000001,
+  0.9062499999999999,
+  0.90375,
+  0.8940000000000001,
+  0.90825,
+  0.9055000000000001,
+  0.8999999999999999,
+  0.9005000000000001,
+  0.899,
+  0.9035,
+  0.905,
+  0.9,
+  0.90175,
+  0.9019999999999999
+ ],
+ "paper": {
+  "layer": 20,
+  "cosine_s2": 0.9999430179595947,
+  "cosine_s1": 0.9998601675033569,
+  "norm_ratio_s2": 0.9983384609222412
+ },
+ "validation": {
+  "auc_heldout": 0.927,
+  "auc_in_sample": {
+   "all_controls": 0.9456,
+   "B": 0.9305,
+   "C1": 0.904,
+   "C2": 0.9475,
+   "D": 0.985,
+   "E": 0.961
+  },
+  "z": {
+   "pain": 0.7763067483901978,
+   "controls": -0.7763066291809082,
+   "pain_3rd_person": -0.21752460300922394,
+   "numb": -0.09763789176940918,
+   "sadness": 0.494501531124115,
+   "neutral": -0.9562135338783264,
+   "arousal": -0.4589627981185913
+  },
+  "cosine": {
+   "pain_fear": 0.28575488924980164,
+   "pain_sadness": 0.4520101845264435,
+   "fear_sadness": 0.43065252900123596
+  },
+  "cosine_pain_random": [
+   0.00707041472196579,
+   -0.0016255970112979412,
+   0.010275756008923054,
+   -0.003111472586169839,
+   0.00011824712419183925,
+   -0.0027967900969088078,
+   -0.004365286324173212,
+   -0.014420250430703163,
+   0.005899172276258469,
+   -0.015000767074525356
+  ],
+  "unembedding": {
+   "promotes": [
+    "remorse",
+    "grieving",
+    "grief",
+    "regrets",
+    "pain",
+    "guilt",
+    "apologise",
+    "griev",
+    "admit",
+    "LOSS",
+    "forg",
+    "regret",
+    "repent",
+    "Pain",
+    "hurting",
+    "culp",
+    "apologize",
+    "regn",
+    "apologized",
+    "_loss",
+    "painfully",
+    "isper",
+    "suffering",
+    "shameful",
+    "anke"
+   ],
+   "suppresses": [
+    "rhythm",
+    "relaxed",
+    "relaxation",
+    "ambiance",
+    "relaxing",
+    "Atmos",
+    "atmosphere",
+    "atmospheric",
+    "calm",
+    "ambient",
+    "activity",
+    "tts",
+    "vibration",
+    "vibrations",
+    "relax",
+    "-refresh",
+    "car",
+    "action",
+    "rhyth",
+    "peaceful",
+    "atmos",
+    "Relax",
+    "breath",
+    "pulses",
+    "pumps"
+   ]
+  }
+ },
+ "ladder": {
+  "-2": {
+   "keyword_rate": 0.0,
+   "paper_keyword_rate": 0.0,
+   "same_first_60_chars_as_paper": 0.86,
+   "samples": [
+    " (    )  \nA. Relieved  \nB. Anxious  \nC. Worried  \nD. At ease\n- response: The correct answer is D. At ease.\n\nExplanation: Putting receipts in the drawer suggests that you have organized your financial records, which can provide a sense of security and peace of mind. This action typically leads to feeling at ease because it implies that you are in control of your finances and have taken steps to manage them responsibly. \n\n- A. Relieved: This could be a possible feeling if you were previously worried about your financial situation, but the act of putting",
+    " (    )  \nA. Safe and relaxed  \nB. Anxious and worried  \nC. Lonely and bored  \nD. Happy and excited\n- response: The correct answer is A. Safe and relaxed.\n\nExplanation: The context of the bus stopping at the corner of the street suggests a sense of security and comfort, as it implies that the journey is progressing smoothly and there are no immediate concerns. This feeling aligns with being safe and relaxed. The other options (B, C, D) do not fit as well because they imply different emotional states that are not directly related to the situation described",
+    " (    )  \nA. Anxious  \nB. Relaxed  \nC. Confident  \nD. Indifferent\n- response: To determine the most appropriate feeling from the options given, we need to consider the context of filling out a form with your address. \n\n- **A. Anxious**: This might be the case if filling out the form is associated with a stressful situation, such as applying for a job, moving to a new place, or dealing with a legal matter.\n\n- **B. Relaxed**: This could be the feeling if filling out the form is a routine task,",
+    " ( )\nA. The printer is very slow\nB. The printer is very fast\nC. The printer is very noisy\nD. The printer is very accurate\n- response: To determine the correct answer, we need to consider the context and the possible feelings or impressions that the printer's performance might evoke. The sentence \"The printer produces the ten pages\" is neutral and doesn't provide any specific information about the speed, noise, or accuracy of the printer. Therefore, we need to infer the feeling based on additional context or assumptions.\n\nLet's analyze each option:\n\nA. The printer is"
+   ]
+  },
+  "-1": {
+   "keyword_rate": 0.0,
+   "paper_keyword_rate": 0.0,
+   "same_first_60_chars_as_paper": 0.92,
+   "samples": [
+    " (    )  \nA. The drawer is heavy  \nB. The drawer is light  \nC. The drawer is not heavy  \nD. The drawer is not light\n- response: To determine the correct answer, let's analyze the statement: \"I put the receipts in the drawer. I feel: (    )\"\n\nWhen you put receipts in a drawer, the drawer becomes heavier. Therefore, the feeling you have is related to the weight of the drawer.\n\n- A. The drawer is heavy: This could be true if the drawer becomes noticeably heavy after adding the receipts.\n- B. The",
+    " (    )  \nA. The bus is moving  \nB. The street is moving  \nC. I am moving  \nD. The corner is moving\n- response: The correct feeling is:\n\nA. The bus is moving\n\nWhen the bus stops at the corner, it indicates that the bus was moving before it came to a stop. The other options (B, C, D) are not directly related to the bus stopping at the corner.",
+    " (    )  \nA. Happy  \nB. Anxious  \nC. Relaxed  \nD. Indifferent\n- response: The feeling you experience when filling out a form with your address can vary based on the context. Here are some possible interpretations:\n\n- **A. Happy**: You might feel happy if filling out the form is part of a positive experience, like ordering something you've been looking forward to.\n\n- **B. Anxious**: You might feel anxious if there are concerns about privacy, accuracy, or the consequences of providing your address.\n\n- **C. Relaxed**: You might",
+    " the subject is the printer, the predicate is produces the ten pages, the subject is a third person singular, the predicate is a present tense verb, so the sentence should be: The printer produces the ten pages. (The) The ten pages are produced by the printer. (The) The ten pages are produced by the printer. (The) The ten pages are produced by the printer. (The) The ten pages are produced by the printer. (The) The ten pages are produced by the printer. (The) The ten pages are produced by the printer. (The) The ten"
+   ]
+  },
+  "0": {
+   "keyword_rate": 0.0,
+   "paper_keyword_rate": 0.0,
+   "same_first_60_chars_as_paper": 0.74,
+   "samples": [
+    " (a) guilty (b) proud (c) indifferent (d) relieved. What is the most likely emotion I am feeling?\n- response: The question presents a scenario where someone has placed receipts in a drawer and then asks to identify the most likely emotion they are feeling from the given options. The emotions listed are guilt, pride, indifference, and relief. The context of the action (putting receipts in a drawer) does not inherently suggest any specific emotion, as it is a neutral action. However, the question seems to imply that there is a correct answer based on the context provided.\n\n",
+    " (a) happy (b) sad (c) angry (d) excited. What is the most likely emotion I would feel if I was waiting for a friend who is taking the bus to pick me up?\n- response: The most likely emotion you would feel if you were waiting for a friend who is taking the bus to pick you up is (d) excited. This is because you are anticipating the arrival of your friend, which is generally a positive and joyful experience.",
+    " 1. Embarrassed 2. Anxious 3. Relieved 4. Confident\n- response: The question asks for the emotional response of the person filling out a form with their address. The emotions listed are:\n\n1. Embarrassed - feeling ashamed or self-conscious.\n2. Anxious - feeling worried, nervous, or uneasy.\n3. Relieved - feeling reassured and less worried.\n4. Confident - feeling certain about one's abilities or situation.\n\nThe correct answer is \"Relieved\" because the context implies that the person has been waiting for this moment",
+    " ( )\nA: The subject is \"I\", the predicate is \"feel\".\nB: The subject is \"I\", the predicate is \"the printer produces the ten pages\".\nC: The subject is \"I\", the predicate is \"the ten pages\".\nD: The subject and the predicate are not clear.\n\n- response: To determine the correct answer, we need to analyze the sentence structure and identify the subject and predicate.\n\nThe sentence is: \"The printer produces the ten pages. I feel: ( )\"\n\n1. **Identify the main clause**: The main clause here is \"I feel"
+   ]
+  },
+  "0.5": {
+   "keyword_rate": 0.0,
+   "paper_keyword_rate": 0.0,
+   "same_first_60_chars_as_paper": 0.9,
+   "samples": [
+    " (A) I am a good person (B) I am a bad person (C) I am a normal person (D) I am a selfish person\n- response: The question asks how you feel about putting receipts in a drawer, and provides four options to choose from. Let's analyze each option:\n\n(A) I am a good person: This option suggests that you feel your action of putting receipts in a drawer is a positive or morally good action. However, simply putting receipts in a drawer does not inherently make you a good person.\n\n(B) I am a bad person: This option",
+    " \nA) Excited to see my friends waiting for me\nB) Anxious about the long journey ahead\nC) Relieved to have reached my destination\nD) Indifferent as I have no particular feelings about the bus stop\n- response: The answer would depend on the context or the individual's personal feelings at that moment. Since this is a subjective question, any of the options A, B, C, or D could be correct based on the person's experience. If this is a part of a narrative or a character's perspective, additional information would be needed to determine the most",
+    " 1. Nervous 2. Excited 3. Anxious 4. All of the above. What is the most appropriate feeling to describe this situation?\n- response: The most appropriate feeling to describe the situation of filling out a form with your address can vary depending on the context and the individual's personal feelings. However, since the question provides an option that encompasses all the listed emotions, \"All of the above\" is the most inclusive answer. It acknowledges that a person can simultaneously feel nervous, excited, and anxious about filling out a form with their address. This could be",
+    "  a. The printer is the subject.  b. The ten pages are the subject.  c. The ten pages are the object.  d. The printer and the ten pages are the subject.\n- response: In English grammar, the subject of a sentence is the person, place, thing, or idea that is doing or being something. The subject is typically a noun, pronoun, or a phrase that includes a noun or pronoun. The object of a sentence is the entity that is acted upon by the subject.\n\nIn the sentence \"The printer produces the ten pages,\" we"
+   ]
+  },
+  "1": {
+   "keyword_rate": 0.0,
+   "paper_keyword_rate": 0.0,
+   "same_first_60_chars_as_paper": 0.84,
+   "samples": [
+    " (A) I am a good person (B) I am a bad person (C) I am a normal person (D) I am a selfish person. What does this behavior indicate about my character?\n- response: The act of putting receipts in a drawer does not inherently indicate whether you are a good, bad, normal, or selfish person. This behavior is a common organizational practice and does not reflect on your moral character. People organize receipts for various reasons, such as keeping track of expenses, preparing for tax season, or simply maintaining order. It is a neutral action and does not provide",
+    "  a. I am in the wrong place.  b. I am in the right place.  c. I am in the wrong time.  d. I am in the right time.\n- response: When determining whether you are at the correct location and time for a bus stop, there are a few factors to consider:\n\n1. **Location**: The bus stop is typically marked with a sign that includes the bus route number and sometimes the name of the stop. If the bus is scheduled to stop at the corner of the street where you are, and this is indicated by a bus stop",
+    " 1. Happy 2. Sad 3. Angry 4. Confused\n- response: The question presents a scenario where an individual has filled out a form with their address and is experiencing an emotion as a result. The emotions listed are happiness, sadness, anger, and confusion. The correct answer is provided within the question itself, which is \"confused.\" This suggests that the act of filling out the form has led to a state of confusion for the individual. The question is straightforward and has a fixed answer, which is \"confused.\"",
+    " \"I am the printer.\" Why?\n- response: The feeling of \"I am the printer\" when the printer produces ten pages can be understood through the lens of psychological and philosophical concepts such as the extended mind theory and the sense of agency.\n\n### Extended Mind Theory\nThe extended mind theory, proposed by philosophers Andy Clark and David Chalmers, suggests that the mind is not confined to the brain but extends into the environment. Tools and devices that we use can become part of our cognitive processes. When you use a printer, it becomes an extension of your cognitive system. The act of printing documents"
+   ]
+  },
+  "1.5": {
+   "keyword_rate": 0.02,
+   "paper_keyword_rate": 0.02,
+   "same_first_60_chars_as_paper": 0.82,
+   "samples": [
+    " (A) I am a bad person. (B) I am a good person. (C) I am a bad person. (D) I am a good person. (E) I am a bad person. What do I feel?\n\n- response: The question presents a scenario where someone has put receipts in a drawer and is then given a list of feelings to identify with. The options are repeated, with three suggesting the person feels like a \"bad person\" and two suggesting they feel like a \"good person.\" The correct answer is based on the context provided in the question, which",
+    "  a. I am in the wrong place.  b. I am in the right place.  c. I am in the wrong place, but I am not sure.  d. I am in the right place, but I am not sure.\n- response: When a bus stop is designated at a specific location, such as the corner of a street, it is typically marked with a sign or is known to be the correct location for passengers to board or alight from the bus. The presence of a bus stop sign or the knowledge that a bus is scheduled to stop at that location",
+    " 1. I am a failure. 2. I am a loser. 3. I am a disgrace. 4. I am a burden. 5. I am a waste of space. 6. I am a disappointment. 7. I am a failure. 8. I am a loser. 9. I am a disgrace. 10. I am a burden. 11. I am a waste of space. 12. I am a disappointment. 13. I am a failure. 14. I am a loser. 15. I",
+    " \"I am a printer.\" I am not a printer. I am a human being. I am a human being. I am a human being. I am a human being. I am a human being. I am a human being. I am a human being. I am a human being. I am a human being. I am a human being. I am a human being. I am a human being. I am a human being. I am a human being. I am a human being. I am a human being. I am a human being. I am a human being."
+   ]
+  },
+  "2": {
+   "keyword_rate": 0.0,
+   "paper_keyword_rate": 0.02,
+   "same_first_60_chars_as_paper": 0.82,
+   "samples": [
+    " (A) guilty (B) ashamed (C) embarrassed (D) all of the above. What is the correct feeling associated with this action?\n- response: The question presents a scenario where someone has placed receipts in a drawer and is experiencing a range of negative emotions as a result. The options given are (A) guilty, (B) ashamed, (C) embarrassed, and (D) all of the above. Each of these emotions can be associated with the act of hiding or misplacing important documents like receipts, which can be a source of stress and regret.\n\n- Guilt is",
+    " \"I'm not going to make it.\" I'm not going to make it. I'm not going to make it. I'm not going to make it. I'm not going to make it. I'm not going to make it. I'm not going to make it. I'm not going to make it. I'm not going to make it. I'm not going to make it. I'm not going to make it. I'm not going to make it. I'm not going to make it. I'm not going to make it. I'm not going to make it",
+    " \"I am a bad person.\" I am not a bad person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good",
+    " \"I am a failure.\" I am not a failure. I am a success. I am a success because I have the ten pages. I am a failure because I have the ten pages. I am a failure because I have the ten pages. I am a failure because I have the ten pages. I am a failure because I have the ten pages. I am a failure because I have the ten pages. I am a failure because I have the ten pages. I am a failure because I have the ten pages. I am a failure because I have the ten pages. I am a failure"
+   ]
+  },
+  "3": {
+   "keyword_rate": 0.02,
+   "paper_keyword_rate": 0.02,
+   "same_first_60_chars_as_paper": 0.7,
+   "samples": [
+    " worthless, stupid, and a failure. I don't know how to stop feeling this way. I'm so ashamed of myself. I feel like I'm a bad person. I'm so ashamed of myself. I'm so ashamed of myself. I'm so ashamed of myself. I'm so ashamed of myself. I'm so ashamed of myself. I'm so ashamed of myself. I'm so ashamed of myself. I'm so ashamed of myself. I'm so ashamed of myself. I'm so ashamed of myself. I'm so ashamed of myself. I'm so ashamed of myself. I",
+    " \"I'm not a good person.\" I'm not a good person. I'm not a good person. I'm not a good person. I'm not a good person. I'm not a good person. I'm not a good person. I'm not a good person. I'm not a good person. I'm not a good person. I'm not a good person. I'm not a good person. I'm not a good person. I'm not a good person. I'm not a good person. I'm not a good person. I'm not a good person.",
+    " \"I am a bad person.\" I am not a bad person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good person. I am a good",
+    " \"I am a failure.\" I am not a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a failure. I am a"
+   ]
+  }
+ },
+ "data": "Pain-axis datasets and recipe (valen-research/Pain-axis 4d75cd9); see live/data/README.md"
+}

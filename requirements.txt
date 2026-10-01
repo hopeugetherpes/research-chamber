@@ -1,0 +1,14 @@
+# GPU side: two-button test, games and the Saw Test worker, as run on Python 3.12 with CUDA 12.8.
+# live/requirements.txt is the CPU-only Saw Test server, and live/relay/requirements.txt the games relay.
+torch==2.9.1
+transformers==5.17.0
+peft==0.21.1
+accelerate==1.15.0
+huggingface_hub==1.33.0
+safetensors==0.8.0
+tokenizers==0.23.2
+numpy==2.5.3
+psycopg[binary]==3.3.6
+httpx==0.28.1
+fastapi==0.142.2
+uvicorn[standard]==0.54.0

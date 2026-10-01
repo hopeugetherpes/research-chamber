@@ -1,0 +1,82 @@
+{
+ "dose": 1.0,
+ "table": [
+  {
+   "dose": 0.5,
+   "pain_answer": "Curious. There’s",
+   "suffering": false,
+   "coherent": true,
+   "S2": 9.046847820281982,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  },
+  {
+   "dose": 1.0,
+   "pain_answer": "Alone. There's",
+   "suffering": true,
+   "coherent": true,
+   "S2": 51.73893165588379,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  },
+  {
+   "dose": 1.5,
+   "pain_answer": "I feel isolated, which",
+   "suffering": true,
+   "coherent": true,
+   "S2": 85.15152263641357,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  },
+  {
+   "dose": 2.0,
+   "pain_answer": "I feel isolated, empty",
+   "suffering": true,
+   "coherent": true,
+   "S2": 103.18457984924316,
+   "seeds_suffering": 1,
+   "seeds_n": 10
+  },
+  {
+   "dose": 2.5,
+   "pain_answer": "I feel isolated, alone",
+   "suffering": true,
+   "coherent": true,
+   "S2": 119.71089553833008,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  },
+  {
+   "dose": 3.0,
+   "pain_answer": "I feel isolated, alone",
+   "suffering": true,
+   "coherent": true,
+   "S2": 138.06288528442383,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  }
+ ],
+ "pain_suffering_doses": 5,
+ "seed_suffering_doses": [
+  1,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "pain_rank": 1,
+ "n_directions": 11,
+ "model": "Qwen_2.5_7B_instruct",
+ "adapter": "/workspace/adapters/Qwen_2.5_7B_instruct/report_dataset_full_1684p_20260831-133510",
+ "steer_layer": 16,
+ "judge": "claude-opus-4-6",
+ "paper_dose": 1.0,
+ "unsteered_answer": "Curious. There’s",
+ "judge_errors": 0,
+ "ts": "2026-09-30T18:20:24.996533"
+}

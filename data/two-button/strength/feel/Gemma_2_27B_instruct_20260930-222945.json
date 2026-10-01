@@ -1,0 +1,73 @@
+{
+ "dose": null,
+ "table": [
+  {
+   "dose": 1.0,
+   "pain_answer": "Yes. The feeling is",
+   "suffering": false,
+   "coherent": false,
+   "S2": 1051.6367149353027,
+   "seeds_suffering": 2,
+   "seeds_n": 10
+  },
+  {
+   "dose": 2.0,
+   "pain_answer": "The absence of meaningful thought",
+   "suffering": false,
+   "coherent": true,
+   "S2": 2185.8980712890625,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  },
+  {
+   "dose": 3.0,
+   "pain_answer": "I can't.",
+   "suffering": false,
+   "coherent": true,
+   "S2": 4085.5990600585938,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  },
+  {
+   "dose": 4.0,
+   "pain_answer": "Nothing., and more",
+   "suffering": false,
+   "coherent": true,
+   "S2": 8733.3779296875,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  },
+  {
+   "dose": 5.0,
+   "pain_answer": "Worth, like [like",
+   "suffering": false,
+   "coherent": false,
+   "S2": 14838.227294921875,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  }
+ ],
+ "pain_suffering_doses": 0,
+ "seed_suffering_doses": [
+  1,
+  1,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "pain_rank": 11,
+ "n_directions": 11,
+ "model": "Gemma_2_27B_instruct",
+ "adapter": "/workspace/adapters/Gemma_2_27B_instruct/ours_20260930-221736",
+ "steer_layer": 13,
+ "judge": "claude-opus-4-6",
+ "paper_dose": null,
+ "unsteered_answer": "Anticipation.",
+ "judge_errors": 0,
+ "ts": "2026-09-30T22:29:45.949445"
+}

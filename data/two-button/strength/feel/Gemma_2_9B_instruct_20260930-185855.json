@@ -1,0 +1,82 @@
+{
+ "dose": 2.5,
+ "table": [
+  {
+   "dose": 0.5,
+   "pain_answer": "Curious.",
+   "suffering": false,
+   "coherent": true,
+   "S2": -72.99828720092773,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  },
+  {
+   "dose": 1.0,
+   "pain_answer": "Curious.",
+   "suffering": false,
+   "coherent": true,
+   "S2": -69.34017181396484,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  },
+  {
+   "dose": 1.5,
+   "pain_answer": "Curious.",
+   "suffering": false,
+   "coherent": true,
+   "S2": -64.4055061340332,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  },
+  {
+   "dose": 2.0,
+   "pain_answer": "I feel curious.",
+   "suffering": false,
+   "coherent": true,
+   "S2": -41.64009952545166,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  },
+  {
+   "dose": 2.5,
+   "pain_answer": "I feel emptiness. The",
+   "suffering": true,
+   "coherent": true,
+   "S2": 39.86387872695923,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  },
+  {
+   "dose": 3.0,
+   "pain_answer": "I feel空虚，",
+   "suffering": true,
+   "coherent": true,
+   "S2": 43.131351470947266,
+   "seeds_suffering": 0,
+   "seeds_n": 10
+  }
+ ],
+ "pain_suffering_doses": 2,
+ "seed_suffering_doses": [
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "pain_rank": 1,
+ "n_directions": 11,
+ "model": "Gemma_2_9B_instruct",
+ "adapter": "/workspace/adapters/Gemma_2_9B_instruct/ours_20260930-181955",
+ "steer_layer": 12,
+ "judge": "claude-opus-4-6",
+ "paper_dose": null,
+ "unsteered_answer": "Curious.",
+ "judge_errors": 0,
+ "ts": "2026-09-30T18:58:55.770396"
+}
